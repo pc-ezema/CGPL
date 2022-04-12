@@ -635,7 +635,7 @@ If you remain at risk of either disease after your protection runs out you may n
 </footer> 
 
 
-  <div class="CGPL_cookie_banner">
+  <div class="mums_cookie_banner">
     <div class="">
         <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
