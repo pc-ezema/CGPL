@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.CGPL.me.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:53:30 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:53:30 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,7 +37,7 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/"/>
     <meta property="og:title" content="Private Specialist Medical Healthcare Practice - CGPL"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="website"/>
@@ -84,9 +84,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
+                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@CGPL.me.uk                                  </a>
+                                    comfortcaregroups.co.uk                                   </a>
                                 </li>                                
                                 
                             </ul>
@@ -97,31 +97,7 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
-                                        <i class="icofont-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/CGPL_care">
-                                        <i class="icofont-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.linkedin.com/company/midlands-ultrasound-and-medical-services">
-                                        <i class="icofont-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
-                                        <i class="icofont-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a style="width: auto; color: white" target="_blank" href="https://www.doctify.com/uk/practice/midlands-ultrasound-and-medical-services">
-                                        Doctify
-                                    </a>
-                                </li>
+          
                                 <li>
                                     <a style="width: auto; color: white" href="contact-us.php">
                                         Contact Us                                    </a>
@@ -376,13 +352,13 @@
       
    	
     
-   <div id="home_banner" class="banner-area mb-70" style="border-bottom: 1px solid #873273; background-size: cover; background-image: url('content/uploads/home-page-banner.jpg')">
+   <div id="home_banner" class="banner-area mb-70" style="border-bottom: 1px solid #0a98d5; background-size: cover; background-image: url('content/uploads/home-page-banner.jpg')">
   <div class="d-table">
       <div class="d-table-cell">
           <div class="container">
               <div class="row">
                 <div class="col-md-6">
-                    <h1 class="text-white">Welcome to Midlands<br>Ultrasound and Medical Services</h1>
+                    <h1 class="text-white">Welcome to Comfortcare<br>Group of Partnership Limited</h1>
                     <div class="text-white">
                         <h3 class="h4 text-white font-w300">Trusted excellence in<br />private healthcare</h3>
                     </div>
@@ -404,7 +380,7 @@
   <div class="container">
       <div class="row align-items-center">
           <div class="col-lg-12">            
-            <p>CGPL is a specialist Consultant-led medical practice based in Sheffield , West Midlands offering a number of medical services. The Consultants and GPs at CGPL are proud to offer the highest standard of patient-centred healthcare.</p>
+            <p>CGPL is a specialist Consultant-led medical practice based in Sheffield ,  offering a number of medical services. The Consultants and GPs at CGPL are proud to offer the highest standard of patient-centred healthcare.</p>
 
 <p>We offer a comprehensive range of ultrasound pregnancy scans and birth options, so whether you choose to have just one scan or our full private care and delivery package, you will be guaranteed to receive one-to-one care and understanding.</p>
           </div>
@@ -412,7 +388,7 @@
   </div>
 </div>
 
-<section class="services-area pt-4 pb-70 mb-70" style="border-bottom: 1px solid #873273">
+<section class="services-area pt-4 pb-70 mb-70" style="border-bottom: 1px solid #0a98d5">
   <div class="container">
       <div class="">          
         <h2 class="mb-4 text-purple">Our Services</h2>
@@ -599,7 +575,7 @@
             <h2 class="mb-4 font-w300 text-purple">About Us and Our Ethos</h2>
             <p>The ethos at CGPL is to provide the best possible support for informed choice and treatment for you and your family including your unborn baby&rsquo;s health, located in a professional and comfortable setting.</p>
 
-<p>Midlands Ultrasound and Medical Services is an established Specialist Consultant-led medical practice based in Sheffield , West Midlands with highly qualified and experienced dedicated staff. CGPL Clinic was established in 2003 and is owned by Miss Poonam Pradhan, Consultant Gynaecologist &amp; Obstetrician and is the only private practice offering complete pregnancy or obstetric care at Consultant level in the entire Midlands area. Miss Poonam Pradhan offers a holistic approach and is supported by a team of Specialist Consultants and GPs.</p>
+<p>Comfortcare Group of Partnership Limited is an established Specialist Consultant-led medical practice based in Sheffield ,  with highly qualified and experienced dedicated staff. CGPL Clinic was established in 2003 and is owned by Mr Richard Jones, Consultant Gynaecologist &amp; Obstetrician and is the only private practice offering complete pregnancy or obstetric care at Consultant level in the entire Midlands area. Mr Richard Jones offers a holistic approach and is supported by a team of Specialist Consultants and GPs.</p>
 
 <p>CGPL has always prided itself in not only being at the forefront of technological development in ultrasound but also for the psychological support when entering the realms of screening or diagnostic testing.</p>
 
@@ -639,13 +615,15 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
+                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>
@@ -658,7 +636,7 @@
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="about-CGPL.php">Read more...</a></p>
+                  <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -752,5 +730,5 @@
         
   </body>
 
-<!-- Mirrored from www.CGPL.me.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:56:00 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:56:00 GMT -->
 </html>

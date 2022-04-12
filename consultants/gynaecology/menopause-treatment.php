@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>At MUMS our Menopause investigations and treatment is led by Miss Poonam Pradhan &ndash; Consultant Gynaecologist. &nbsp;You will have an unrushed, indepth comprehensive consultation. This holistic check covers many aspects of your health to ascertain as to whether you are peri menopausal, menopausal or post menopausal.</p>
+                        <p>At MUMS our Menopause investigations and treatment is led by Mr Richard Jones &ndash; Consultant Gynaecologist. &nbsp;You will have an unrushed, indepth comprehensive consultation. This holistic check covers many aspects of your health to ascertain as to whether you are peri menopausal, menopausal or post menopausal.</p>
 
 <p>The menopause is the time when a woman stops having periods, and she is no longer able to get pregnant. It&rsquo;s common to have symptoms such as hot flushes, night sweats and mood changes when you go through the menopause.</p>
 
@@ -611,7 +611,9 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>

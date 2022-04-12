@@ -535,7 +535,9 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>

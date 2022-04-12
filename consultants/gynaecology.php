@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.CGPL.me.uk/consultants/gynaecology by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:13 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/consultants/gynaecology by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:13 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,7 +37,7 @@
     
     <script src="../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/consultants/gynaecology"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/consultants/gynaecology"/>
     <meta property="og:title" content="Gynaecology | Private Health Consultants - CGPL"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
+                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@CGPL.me.uk                                  </a>
+                                    comfortcaregroups.co.uk                                   </a>
                                 </li>                                
                                 
                             </ul>
@@ -98,31 +98,7 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
-                                        <i class="icofont-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/CGPL_care">
-                                        <i class="icofont-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.linkedin.com/company/midlands-ultrasound-and-medical-services">
-                                        <i class="icofont-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
-                                        <i class="icofont-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a style="width: auto; color: white" target="_blank" href="https://www.doctify.com/uk/practice/midlands-ultrasound-and-medical-services">
-                                        Doctify
-                                    </a>
-                                </li>
+                                
                                 <li>
                                     <a style="width: auto; color: white" href="../contact-us.php">
                                         Contact Us                                    </a>
@@ -419,7 +395,7 @@
 
 <h3 dir="ltr" style="line-height: 1.33941; margin-top: 8pt; margin-bottom: 8pt;">Our Gynaecology Services</h3>
 
-<p dir="ltr">Our private gynaecology consultant is Miss Poonam Pradhan.&nbsp;Offering a one-stop scan service at our clinic, she can detect and provide suitable treatment options for a wealth of conditions including:</p>
+<p dir="ltr">Our private gynaecology consultant is Mr Richard Jones.&nbsp;Offering a one-stop scan service at our clinic, she can detect and provide suitable treatment options for a wealth of conditions including:</p>
 
 <ul dir="ltr">
 	<li><a href="gynaecology/fibroids.php">Fibroids</a></li>
@@ -436,7 +412,7 @@
 	<li><a href="gynaecology/previous-miscarriage-and-recurrent-miscarriage-investigations.php">Previous and Recurrent Miscarriage Investigations</a></li>
 </ul>
 
-<p dir="ltr">An expert in gynaecology scanning and treatments, Miss Poonam Pradhan also performs <a href="../tests-diagnostics/cancer/cervical-smear-with-hpv-cervical-cancer-test.php">smear tests,</a> biopsies, and <a href="../contraception.php">coil insertions</a>&nbsp;at our clinic.&nbsp;</p>
+<p dir="ltr">An expert in gynaecology scanning and treatments, Mr Richard Jones also performs <a href="../tests-diagnostics/cancer/cervical-smear-with-hpv-cervical-cancer-test.php">smear tests,</a> biopsies, and <a href="../contraception.php">coil insertions</a>&nbsp;at our clinic.&nbsp;</p>
 
 <h3 dir="ltr">Treatments For Urinary Incontinence</h3>
 
@@ -450,7 +426,7 @@
 
 <p dir="ltr">Harmless and non-invasive, our patients see significant improvement in their <a href="urogynaecology.php">urinary incontinence</a> upon completing this treatment.</p>
 
-<p dir="ltr">At CGPL, we offer a <a href="urogynaecology.php">urinary incontinence</a> treatment package consisting of a consultation with Miss Poonam Pradhan and six Emsella chair sessions.&nbsp; Extremely effective, these treatment packages remain in high demand.</p>
+<p dir="ltr">At CGPL, we offer a <a href="urogynaecology.php">urinary incontinence</a> treatment package consisting of a consultation with Mr Richard Jones and six Emsella chair sessions.&nbsp; Extremely effective, these treatment packages remain in high demand.</p>
 
 <h3 dir="ltr">Signs and Symptoms That Highlight A Gynaecology Consultation Is Needed</h3>
 
@@ -470,13 +446,13 @@
 
 <h3 dir="ltr">About Our Consultant Gynaecologist</h3>
 
-<p dir="ltr">Miss Poonam Pradhan, Consultant Obstetrician and Gynaecologist, is available to see patients at CGPL.&nbsp; She has a specialist interest in menopause, HRT and problems arising from treatment with HRT She is a senior consultant at the University Hospital Birmingham with vast experience in pelvic Ultrasound scans.</p>
+<p dir="ltr">Mr Richard Jones, Consultant Obstetrician and Gynaecologist, is available to see patients at CGPL.&nbsp; She has a specialist interest in menopause, HRT and problems arising from treatment with HRT She is a senior consultant at the University Hospital Birmingham with vast experience in pelvic Ultrasound scans.</p>
 
 <p dir="ltr">Her interest in non-invasive treatment options has led her to offer the innovative EMSELLA treatment for urinary incontinence and Ultrafemme treatment for vaginal laxity and dryness.</p>
 
 <h3 dir="ltr">Contact Us To Arrange A Private Gynaecology Consultation</h3>
 
-<p dir="ltr">Miss Poonam Pradhan can provide consultations, scans and treatments on Wednesdays, Thursdays, and Saturdays at our clinic.</p>
+<p dir="ltr">Mr Richard Jones can provide consultations, scans and treatments on Wednesdays, Thursdays, and Saturdays at our clinic.</p>
 
 <p dir="ltr">To arrange a private gynaecology consultation, <a href="../request-an-appointment.php">book an appointment</a>.&nbsp; Alternatively, call us directly on 0121 704 2669 today.</p>
 
@@ -542,7 +518,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.comfortcaregroups.co.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -649,13 +625,15 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
+                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>
@@ -668,7 +646,7 @@
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../about-CGPL.php">Read more...</a></p>
+                  <p><a class="text-white" href="..about-cgpl.php.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -797,5 +775,5 @@
       
   </body>
 
-<!-- Mirrored from www.CGPL.me.uk/consultants/gynaecology by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:48 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/consultants/gynaecology by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:48 GMT -->
 </html>

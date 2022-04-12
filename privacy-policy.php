@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.CGPL.me.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,7 +37,7 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/privacy-policy"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/privacy-policy"/>
     <meta property="og:title" content="Privacy Policy"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
@@ -84,9 +84,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
+                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@CGPL.me.uk                                  </a>
+                                    comfortcaregroups.co.uk                                   </a>
                                 </li>                                
                                 
                             </ul>
@@ -97,31 +97,7 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
-                                        <i class="icofont-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/CGPL_care">
-                                        <i class="icofont-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.linkedin.com/company/midlands-ultrasound-and-medical-services">
-                                        <i class="icofont-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
-                                        <i class="icofont-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a style="width: auto; color: white" target="_blank" href="https://www.doctify.com/uk/practice/midlands-ultrasound-and-medical-services">
-                                        Doctify
-                                    </a>
-                                </li>
+                                
                                 <li>
                                     <a style="width: auto; color: white" href="contact-us.php">
                                         Contact Us                                    </a>
@@ -401,7 +377,7 @@
      <div class='col-lg-12'>
       <h3>Protecting your privacy</h3>
 
-<p>We are committed to protecting your privacy when dealing with your personal information. The following information tells you about how we collect your data, how we use it and how we protect it. It also provides you with your rights. If you have any questions about how we handle your data, please feel free to contact us at administrator@CGPL.me.uk</p>
+<p>We are committed to protecting your privacy when dealing with your personal information. The following information tells you about how we collect your data, how we use it and how we protect it. It also provides you with your rights. If you have any questions about how we handle your data, please feel free to contact us at comfortcaregroups.co.uk </p>
 
 <h3>Patient Privacy Notice</h3>
 
@@ -419,7 +395,7 @@
 
 <p>Security - We respect the security of your data and treat it in accordance with the law. International transfer: We work with international medical providers where we may transfer data with the patient&rsquo;s express consent.</p>
 
-<p>Midlands Ultrasound and Medical Services respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after patient&rsquo;s personal data and tell you about your privacy rights and how the law protects you.</p>
+<p>Comfortcare Group of Partnership Limited respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after patient&rsquo;s personal data and tell you about your privacy rights and how the law protects you.</p>
 
 <p>Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.</p>
 
@@ -733,7 +709,7 @@
 
 <p>Request the transfer of your personal information to another party in certain circumstances.</p>
 
-<p>If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact our Data Protection Officer in writing using the address on this website, or you can email <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a></p>
+<p>If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact our Data Protection Officer in writing using the address on this website, or you can email <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a></p>
 
 <p>&nbsp;</p>
 
@@ -764,13 +740,15 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
+                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>
@@ -783,7 +761,7 @@
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="about-CGPL.php">Read more...</a></p>
+                  <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -877,5 +855,5 @@
         
   </body>
 
-<!-- Mirrored from www.CGPL.me.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
 </html>

@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>Miss Poonam Pradhan, Consultant Gynaecologist offers investigation and treatment for miscarriage and recurrent miscarriage.</p>
+                        <p>Mr Richard Jones, Consultant Gynaecologist offers investigation and treatment for miscarriage and recurrent miscarriage.</p>
 
 <p>Where patients have already had a scan and consultation with Miss Pradhan and have become pregnant &ndash; then a &pound;35.00 Remote telephone consultation can take place for the prescribing of Progesterone. This service is suitable for pregnant women who have consulted with Miss Pradhan previously or have had a recent scan at MUMS with one of Miss Pradhan&rsquo;s colleagues and have decided they would like to take Progesterone. Where appropriate Miss Pradhan will prescribe progesterone.</p>
 
@@ -607,7 +607,9 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>

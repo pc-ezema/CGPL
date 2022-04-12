@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.CGPL.me.uk/sexual-health/sexual-function-sexual-satisfaction-and-sexual-pleasure by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:37 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/sexual-health/sexual-function-sexual-satisfaction-and-sexual-pleasure by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:37 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,7 +37,7 @@
     
     <script src="../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/sexual-health/sexual-function-sexual-satisfaction-and-sexual-pleasure"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/sexual-health/sexual-function-sexual-satisfaction-and-sexual-pleasure"/>
     <meta property="og:title" content="Problems with sexual function, sexual satisfaction and sexual pleasure"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
+                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@CGPL.me.uk                                  </a>
+                                    comfortcaregroups.co.uk                                   </a>
                                 </li>                                
                                 
                             </ul>
@@ -98,31 +98,7 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
-                                        <i class="icofont-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/CGPL_care">
-                                        <i class="icofont-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.linkedin.com/company/midlands-ultrasound-and-medical-services">
-                                        <i class="icofont-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
-                                        <i class="icofont-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a style="width: auto; color: white" target="_blank" href="https://www.doctify.com/uk/practice/midlands-ultrasound-and-medical-services">
-                                        Doctify
-                                    </a>
-                                </li>
+                                
                                 <li>
                                     <a style="width: auto; color: white" href="../contact-us.php">
                                         Contact Us                                    </a>
@@ -417,7 +393,7 @@
 
 <p>In men sexual problems can include an inability to achieve an erection (also known as Erectile Dysfunction), delayed ejaculation or ejaculation that is too quick.</p>
 
-<p>It can be very challenging for many people to talk about problems with sex but here at Midlands Ultrasound and Medical Services (CGPL) you can discuss any of these problems and all treatment options with our Sexual Health consultant.</p>
+<p>It can be very challenging for many people to talk about problems with sex but here at Comfortcare Group of Partnership Limited (CGPL) you can discuss any of these problems and all treatment options with our Sexual Health consultant.</p>
 
 <p>In our waiting room we have people attending for many different concerns as we offer many different services. Nobody except you and your Sexual Health consultant will know why you are attending.</p>
 
@@ -446,7 +422,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.comfortcaregroups.co.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -532,13 +508,15 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
+                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>
@@ -551,7 +529,7 @@
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../about-CGPL.php">Read more...</a></p>
+                  <p><a class="text-white" href="..about-cgpl.php.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -680,5 +658,5 @@
       
   </body>
 
-<!-- Mirrored from www.CGPL.me.uk/sexual-health/sexual-function-sexual-satisfaction-and-sexual-pleasure by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:37 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/sexual-health/sexual-function-sexual-satisfaction-and-sexual-pleasure by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:37 GMT -->
 </html>

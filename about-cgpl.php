@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.CGPL.me.uk/about-CGPL by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/about-CGPL by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,7 +37,7 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/about-CGPL"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/about-CGPL"/>
     <meta property="og:title" content="About CGPL"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
@@ -539,5 +539,5 @@
         
   </body>
 
-<!-- Mirrored from www.CGPL.me.uk/about-CGPL by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/about-CGPL by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
 </html>

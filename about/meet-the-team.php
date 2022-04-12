@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.CGPL.me.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Meet Our Team at CGPL Private Healthcare Practice</title>
+    <title>Meet Our Team at CGPL Group of Partnership Limited</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,8 +37,8 @@
     
     <script src="../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/about/meet-the-team"/>
-    <meta property="og:title" content="Meet Our Team at CGPL Private Healthcare Practice"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/about/meet-the-team"/>
+    <meta property="og:title" content="Meet Our Team at CGPL Group of Partnership Limited"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
@@ -84,9 +84,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
+                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@CGPL.me.uk                                  </a>
+                                    comfortcaregroups.co.uk                                   </a>
                                 </li>                                
                                 
                             </ul>
@@ -97,31 +97,7 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
-                                        <i class="icofont-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/CGPL_care">
-                                        <i class="icofont-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.linkedin.com/company/midlands-ultrasound-and-medical-services">
-                                        <i class="icofont-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
-                                        <i class="icofont-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a style="width: auto; color: white" target="_blank" href="https://www.doctify.com/uk/practice/midlands-ultrasound-and-medical-services">
-                                        Doctify
-                                    </a>
-                                </li>
+                                
                                 <li>
                                     <a style="width: auto; color: white" href="../contact-us.php">
                                         Contact Us                                    </a>
@@ -403,19 +379,19 @@
                   <div class="col-lg-12 mt-4 mb-4">
   <div class="row">
     <div class="col-md-12">
-      <h5 class="text-purple">Miss Poonam Pradhan</h5>
+      <h5 class="text-purple">Mr Richard Jones</h5>
       <h6 class="text-muted">Consultant Gynaecologist, FRCOG</h6>  
     </div>
   </div>
   <div class="row">
     <div class="col-md-2">
-              <img style="border: 2px solid #873273" src="../content/uploads/Poonam-Pradhan.jpg" alt="Miss Poonam Pradhan" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Poonam-Pradhan.jpg" alt="Mr Richard Jones" />
           </div>
     <div class="col-md-10 cms_content" style="font-weight: 300; font-size: 90%">
        <div class="wpb_wrapper">
 <div class="wpb_text_column wpb_content_element ">
 <div class="wpb_wrapper">
-<p xss="removed">Miss Poonam Pradhan has been a Consultant Obstetrician and Gynaecologist practicing at Heartlands and Sheffield  Hospitals since 2004. Additionally, Poonam Consults at Spire Healthcare and at CGPL Clinic (Midlands Ultrasound and Medical Services) in Sheffield . Poonam is a general gynaecologist who has expertise in transvaginal scanning for the detection of gynaecological problems including cancers. She performs surgery including laparoscopy and hysterectomy.</p>
+<p xss="removed">Mr Richard Jones has been a Consultant Obstetrician and Gynaecologist practicing at Heartlands and Sheffield  Hospitals since 2004. Additionally, Poonam Consults at Spire Healthcare and at CGPL Clinic (Comfortcare Group of Partnership Limited) in Sheffield . Poonam is a general gynaecologist who has expertise in transvaginal scanning for the detection of gynaecological problems including cancers. She performs surgery including laparoscopy and hysterectomy.</p>
 </div>
 </div>
 </div>
@@ -432,7 +408,7 @@
   </div>
   <div class="row">
     <div class="col-md-2">
-              <img style="border: 2px solid #873273" src="../content/uploads/anoop-rehal.jpg" alt="Mr Anoop Rehal" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/anoop-rehal.jpg" alt="Mr Anoop Rehal" />
           </div>
     <div class="col-md-10 cms_content" style="font-weight: 300; font-size: 90%">
        <div>Mr Anoop Rehal is a consultant obstetrician at University Hospitals Birmingham. He began my postgraduate training in the East Midlands, obtaining the MRCOG in 2015 and then secured a research fellowship at the Harris Birthright Research Centre for Fetal Medicine at Kings College Hospital, under the auspices of Professor Kypros Nicolaides. Following this, he obtained dual sub-specialist accreditation in both Obstetrics and Maternal-Fetal medicine, also from Kings College Hospital.</div>
@@ -445,7 +421,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Davide-Casagrandi.jpg" alt="Dr Davide Casagrandi" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Davide-Casagrandi.jpg" alt="Dr Davide Casagrandi" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Dr Davide Casagrandi</h5>
@@ -457,7 +433,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/adrian-burman.jpg" alt="Adrian Burman" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/adrian-burman.jpg" alt="Adrian Burman" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Adrian Burman</h5>
@@ -469,7 +445,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/AAmod.jpg" alt="Mr Aamod Nawathe" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/AAmod.jpg" alt="Mr Aamod Nawathe" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Mr Aamod Nawathe</h5>
@@ -481,7 +457,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/EH.jpg" alt="Miss Emma Hoskisson" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/EH.jpg" alt="Miss Emma Hoskisson" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Miss Emma Hoskisson</h5>
@@ -517,7 +493,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Dev.png" alt="Mr Dev Sarmah" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Dev.png" alt="Mr Dev Sarmah" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Mr Dev Sarmah</h5>
@@ -529,7 +505,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Seni.jpg" alt="Mr Seni Mylvaganam" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Seni.jpg" alt="Mr Seni Mylvaganam" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Mr Seni Mylvaganam</h5>
@@ -541,7 +517,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Maria_C.jpg" alt="Miss Maria Carillo" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Maria_C.jpg" alt="Miss Maria Carillo" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Miss Maria Carillo</h5>
@@ -553,7 +529,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/hannah-church-portrait.jpg" alt="Miss Hannah Church" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/hannah-church-portrait.jpg" alt="Miss Hannah Church" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Miss Hannah Church</h5>
@@ -565,7 +541,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Swati_M.jpg" alt="Miss Swati More" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Swati_M.jpg" alt="Miss Swati More" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Miss Swati More</h5>
@@ -577,7 +553,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Camilo_Diaz.jpg" alt="Mr Camillo Diaz" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Camilo_Diaz.jpg" alt="Mr Camillo Diaz" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Mr Camillo Diaz</h5>
@@ -589,7 +565,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/PB-2.jpg" alt="Dr Phil Bickley" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/PB-2.jpg" alt="Dr Phil Bickley" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Dr Phil Bickley</h5>
@@ -601,7 +577,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Carol.jpg" alt="Dr Carol Hooper" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Carol.jpg" alt="Dr Carol Hooper" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Dr Carol Hooper</h5>
@@ -625,7 +601,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/IMG-20211109-WA0029.jpg" alt="Miss Kulsum Jaffer" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/IMG-20211109-WA0029.jpg" alt="Miss Kulsum Jaffer" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Miss Kulsum Jaffer</h5>
@@ -637,7 +613,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Stephanie-Byrom.jpg" alt="Stephanie Byrom" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Stephanie-Byrom.jpg" alt="Stephanie Byrom" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Stephanie Byrom</h5>
@@ -649,7 +625,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Donna-Drinkall.jpg" alt="Donna Drinkall" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Donna-Drinkall.jpg" alt="Donna Drinkall" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Donna Drinkall</h5>
@@ -661,7 +637,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Sandra-Shamsuddin.jpg" alt="Sandra Shamsuddin" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Sandra-Shamsuddin.jpg" alt="Sandra Shamsuddin" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Sandra Shamsuddin</h5>
@@ -673,7 +649,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Susan-Hurdman.jpg" alt="Susan Hurdman" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Susan-Hurdman.jpg" alt="Susan Hurdman" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Susan Hurdman</h5>
@@ -685,7 +661,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Vicky-Parsons.jpg" alt="Vicky Parsons" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Vicky-Parsons.jpg" alt="Vicky Parsons" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Vicky Parsons</h5>
@@ -709,7 +685,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Janine-Davey.jpg" alt="Janine Davey" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Janine-Davey.jpg" alt="Janine Davey" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Janine Davey</h5>
@@ -769,7 +745,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Josie-Archer.jpg" alt="Josie Archer" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Josie-Archer.jpg" alt="Josie Archer" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Josie Archer</h5>
@@ -781,7 +757,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Ann-Rigg.jpg" alt="Ann Rigg" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Ann-Rigg.jpg" alt="Ann Rigg" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Ann Rigg</h5>
@@ -793,7 +769,7 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #873273" src="../content/uploads/Filomena-Defeo.jpg" alt="Filomena De Feo" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Filomena-Defeo.jpg" alt="Filomena De Feo" />
           </div>
     <div class="col-md-6">
       <h5 class="text-purple">Filomena De Feo</h5>
@@ -814,13 +790,15 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
+                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>
@@ -833,7 +811,7 @@
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../about-CGPL.php">Read more...</a></p>
+                  <p><a class="text-white" href="..about-cgpl.php.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -927,5 +905,5 @@
         
   </body>
 
-<!-- Mirrored from www.CGPL.me.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
 </html>

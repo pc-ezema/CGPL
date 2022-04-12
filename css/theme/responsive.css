@@ -68,7 +68,7 @@
     top: 10px !important;
   }
   .mobile-nav.mean-container .mean-nav ul li a.active {
-    color: #873273;
+    color: #0a98d5;
   }
   .nav-srh {
     display: none;
@@ -118,7 +118,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background-color: #873273;
+    background-color: #0a98d5;
     opacity: .80;
   }
   .slider-item .slider-text {
@@ -152,7 +152,7 @@
     width: 20px;
     height: 5px;
     margin: 5px 4px;
-    background-color: #873273;
+    background-color: #0a98d5;
   }
   .home-slider.owl-theme .owl-dots .owl-dot.active span, .home-slider.owl-theme .owl-dots .owl-dot:hover span {
     background: #fff;
@@ -556,8 +556,8 @@
     width: 60px;
     height: 60px;
     line-height: 60px;
-    -webkit-box-shadow: 0px 0px 0px 6px #873273;
-            box-shadow: 0px 0px 0px 6px #873273;
+    -webkit-box-shadow: 0px 0px 0px 6px #0a98d5;
+            box-shadow: 0px 0px 0px 6px #0a98d5;
   }
   .welcome-item ul li .welcome-inner {
     padding-left: 75px;
@@ -1592,7 +1592,7 @@
     top: 9px !important;
   }
   .mobile-nav.mean-container .mean-nav ul li a.active {
-    color: #873273;
+    color: #0a98d5;
   }
   .search-icon {
     display: none;
@@ -1732,7 +1732,7 @@
     z-index: -1;
     -webkit-animation: a-one 5s infinite linear;
             animation: a-one 5s infinite linear;
-    background-color: #873273;
+    background-color: #0a98d5;
   }
   .about-left:after {
     position: absolute;
@@ -1745,7 +1745,7 @@
     z-index: -1;
     -webkit-animation: a-two 5s infinite linear;
             animation: a-two 5s infinite linear;
-    background-color: #873273;
+    background-color: #0a98d5;
   }
   @-webkit-keyframes a-one {
     50% {
@@ -2005,22 +2005,22 @@
     color: #616263;
   }
   .home-slider-two .slider-item .slider-text .common-btn a {
-    border: 2px solid #873273;
+    border: 2px solid #0a98d5;
     color: #fff;
-    background-color: #873273;
+    background-color: #0a98d5;
     position: relative;
   }
   .home-slider-two .slider-item .slider-text .common-btn a:hover {
-    color: #873273;
+    color: #0a98d5;
     background-color: transparent;
   }
   .home-slider-two .slider-item .slider-text .common-btn .cmn-btn-right {
     background-color: transparent;
-    color: #873273;
+    color: #0a98d5;
   }
   .home-slider-two .slider-item .slider-text .common-btn .cmn-btn-right:hover {
     color: #fff;
-    background-color: #873273;
+    background-color: #0a98d5;
   }
   /*-- End Home Slider --*/
   /*-- Emergency --*/
@@ -2055,8 +2055,8 @@
     width: 65px;
     height: 65px;
     line-height: 65px;
-    -webkit-box-shadow: 0px 0px 0px 6px #873273;
-            box-shadow: 0px 0px 0px 6px #873273;
+    -webkit-box-shadow: 0px 0px 0px 6px #0a98d5;
+            box-shadow: 0px 0px 0px 6px #0a98d5;
   }
   .welcome-item ul li .welcome-inner {
     padding-left: 90px;
@@ -2340,7 +2340,7 @@
   }
   .doctor-search-item .form-group i {
     display: inline-block;
-    color: #873273;
+    color: #0a98d5;
     font-size: 45px;
     position: absolute;
     top: 8px;
@@ -3090,7 +3090,7 @@
     font-size: 20px;
   }
   .mean-container .mean-bar {
-    background-color: #873273;
+    background-color: #0a98d5;
     padding: 0;
   }
   .mean-container a.meanmenu-reveal {

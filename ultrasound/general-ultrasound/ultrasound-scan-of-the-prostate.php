@@ -29,25 +29,25 @@
     <meta http-equiv="content-language" content="en-gb">
     
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />    
-    <link rel="icon" href="https://www.CGPL.me.uk/images/favicons/logo_32.png" sizes="32x32" />
-    <link rel="icon" href="https://www.CGPL.me.uk/images/favicons/logo_192.png" sizes="192x192" />
+    <link rel="icon" href="https://www.comfortcaregroups.co.uk/images/favicons/logo_32.png" sizes="32x32" />
+    <link rel="icon" href="https://www.comfortcaregroups.co.uk/images/favicons/logo_192.png" sizes="192x192" />
     
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/ultrasound/general-ultrasound/ultrasound-scan-of-the-prostate"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/ultrasound/general-ultrasound/ultrasound-scan-of-the-prostate"/>
     <meta property="og:title" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
-    <link href="https://www.CGPL.me.uk/ultrasound/general-ultrasound/ultrasound-scan-of-the-prostate" rel="canonical">
+    <link href="https://www.comfortcaregroups.co.uk/ultrasound/general-ultrasound/ultrasound-scan-of-the-prostate" rel="canonical">
 
         
-          <link href="https://www.CGPL.me.uk/css/theme/bootstrap.min.css" rel="stylesheet" type="text/css">
-          <link href="https://www.CGPL.me.uk/css/theme/meanmenu.css" rel="stylesheet" type="text/css">
-          <link href="https://www.CGPL.me.uk/css/theme/animate.css" rel="stylesheet" type="text/css">
-          <link href="https://www.CGPL.me.uk/css/theme/style.css" rel="stylesheet" type="text/css">
-          <link href="https://www.CGPL.me.uk/css/theme/responsive.css" rel="stylesheet" type="text/css">
-          <link href="https://www.CGPL.me.uk/css/theme/icofont.min.css" rel="stylesheet" type="text/css">
+          <link href="https://www.comfortcaregroups.co.uk/css/theme/bootstrap.min.css" rel="stylesheet" type="text/css">
+          <link href="https://www.comfortcaregroups.co.uk/css/theme/meanmenu.css" rel="stylesheet" type="text/css">
+          <link href="https://www.comfortcaregroups.co.uk/css/theme/animate.css" rel="stylesheet" type="text/css">
+          <link href="https://www.comfortcaregroups.co.uk/css/theme/style.css" rel="stylesheet" type="text/css">
+          <link href="https://www.comfortcaregroups.co.uk/css/theme/responsive.css" rel="stylesheet" type="text/css">
+          <link href="https://www.comfortcaregroups.co.uk/css/theme/icofont.min.css" rel="stylesheet" type="text/css">
     
   </head>
   <body class="_cms_template_">
@@ -81,9 +81,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
+                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@CGPL.me.uk                                  </a>
+                                    comfortcaregroups.co.uk                                   </a>
                                 </li>                                
                                 
                             </ul>
@@ -94,31 +94,7 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
-                                        <i class="icofont-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/CGPL_care">
-                                        <i class="icofont-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.linkedin.com/company/midlands-ultrasound-and-medical-services">
-                                        <i class="icofont-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
-                                        <i class="icofont-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a style="width: auto; color: white" target="_blank" href="https://www.doctify.com/uk/practice/midlands-ultrasound-and-medical-services">
-                                        Doctify
-                                    </a>
-                                </li>
+                                
                                 <li>
                                     <a style="width: auto; color: white" href="/contact-us">
                                         Contact Us                                    </a>
@@ -151,7 +127,7 @@
                     <ul class="navbar-nav">
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/pregnancy-ultrasound" class="nav-link dropdown-toggle">Antenatal Care</a>
+                            <a href="https://www.comfortcaregroups.co.uk/pregnancy-ultrasound" class="nav-link dropdown-toggle">Antenatal Care</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -177,7 +153,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/ultrasound" class="nav-link dropdown-toggle">Ultrasound</a>
+                            <a href="https://www.comfortcaregroups.co.uk/ultrasound" class="nav-link dropdown-toggle">Ultrasound</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -200,7 +176,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/private-gp" class="nav-link dropdown-toggle">Private GP</a>
+                            <a href="https://www.comfortcaregroups.co.uk/private-gp" class="nav-link dropdown-toggle">Private GP</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -220,7 +196,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/covid-tests" class="nav-link dropdown-toggle">Covid Tests</a>
+                            <a href="https://www.comfortcaregroups.co.uk/covid-tests" class="nav-link dropdown-toggle">Covid Tests</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -231,7 +207,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/consultants" class="nav-link dropdown-toggle">Consultants</a>
+                            <a href="https://www.comfortcaregroups.co.uk/consultants" class="nav-link dropdown-toggle">Consultants</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -281,7 +257,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/tests-diagnostics" class="nav-link dropdown-toggle">Tests and Diagnostics</a>
+                            <a href="https://www.comfortcaregroups.co.uk/tests-diagnostics" class="nav-link dropdown-toggle">Tests and Diagnostics</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -304,13 +280,13 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/contraception" class="nav-link ">Contraception</a>
+                            <a href="https://www.comfortcaregroups.co.uk/contraception" class="nav-link ">Contraception</a>
                             
                                                                                   </li>
 
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/sexual-health" class="nav-link dropdown-toggle">Sexual Health</a>
+                            <a href="https://www.comfortcaregroups.co.uk/sexual-health" class="nav-link dropdown-toggle">Sexual Health</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -327,7 +303,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.CGPL.me.uk/aesthetics" class="nav-link dropdown-toggle">Aesthetics</a>
+                            <a href="https://www.comfortcaregroups.co.uk/aesthetics" class="nav-link dropdown-toggle">Aesthetics</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -394,13 +370,15 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
+                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>
@@ -413,7 +391,7 @@
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="/about-CGPL">Read more...</a></p>
+                  <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -484,7 +462,7 @@
   </div>
 </div>
 
-<script type="text/javascript" src="https://www.CGPL.me.uk/min/?f=js/theme/jquery.min.js,js/theme/popper.min.js,js/theme/bootstrap.min.js,js/theme/jquery.meanmenu.js,js/common_functions.js"></script>
+<script type="text/javascript" src="https://www.comfortcaregroups.co.uk/min/?f=js/theme/jquery.min.js,js/theme/popper.min.js,js/theme/bootstrap.min.js,js/theme/jquery.meanmenu.js,js/common_functions.js"></script>
 
 <script type="text/javascript">
 

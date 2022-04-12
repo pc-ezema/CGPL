@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.CGPL.me.uk/how-to-complain by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/how-to-complain by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>How to Complain | CGPL Private Healthcare Practice</title>
+    <title>How to Complain | CGPL Group of Partnership Limited</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,8 +37,8 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/how-to-complain"/>
-    <meta property="og:title" content="How to Complain | CGPL Private Healthcare Practice"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/how-to-complain"/>
+    <meta property="og:title" content="How to Complain | CGPL Group of Partnership Limited"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
@@ -84,9 +84,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
+                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@CGPL.me.uk                                  </a>
+                                    comfortcaregroups.co.uk                                   </a>
                                 </li>                                
                                 
                             </ul>
@@ -97,31 +97,7 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
-                                        <i class="icofont-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/CGPL_care">
-                                        <i class="icofont-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.linkedin.com/company/midlands-ultrasound-and-medical-services">
-                                        <i class="icofont-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
-                                        <i class="icofont-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a style="width: auto; color: white" target="_blank" href="https://www.doctify.com/uk/practice/midlands-ultrasound-and-medical-services">
-                                        Doctify
-                                    </a>
-                                </li>
+                                
                                 <li>
                                     <a style="width: auto; color: white" href="contact-us.php">
                                         Contact Us                                    </a>
@@ -399,7 +375,7 @@
 <div class="container">
   <div class='row mt-4'>
      <div class='col-lg-12'>
-      <p>At Midlands Ultrasound and Medical Services we strive to provide world class healthcare &ndash; a caring environment where we take complaints very seriously. We learn from our complaints and take action to improve the service and communicate with our patients to achieve this.</p>
+      <p>At Comfortcare Group of Partnership Limited we strive to provide world class healthcare &ndash; a caring environment where we take complaints very seriously. We learn from our complaints and take action to improve the service and communicate with our patients to achieve this.</p>
 
 <p>All complaints, written and verbal will be recorded, and written complaints will be acknowledged in writing within 2 working days of receipt. Patients will be encouraged to complain in writing where possible.</p>
 
@@ -493,7 +469,7 @@ info@iscas.org.uk</p>
 <p>Where the investigation of the complaint requires consideration of the patient&rsquo;s medical records, the Complaints Manager must inform the patient or person acting on his/her behalf if the investigation will involve disclosure of information contained in those records to a person other than the Practice or an employee of the Practice.</p>
 
 <ol>
-	<li>If you have a complaint about any aspect of the service, care or treatment provided, please make this known to Stephanie Byrom, Director of Operations in the first instance. You may initially make this complaint in person, in writing or any other medium. Email:&nbsp;<a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>. Either you or someone acting on your behalf may complain. Please supply name and full address for reference.</li>
+	<li>If you have a complaint about any aspect of the service, care or treatment provided, please make this known to Stephanie Byrom, Director of Operations in the first instance. You may initially make this complaint in person, in writing or any other medium. Email:&nbsp;<a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>. Either you or someone acting on your behalf may complain. Please supply name and full address for reference.</li>
 	<li>Your complaint will be acknowledged in writing within 2 working days.</li>
 	<li>We would ask you to confirm your complaint in writing as soon as possible to avoid any misunderstandings.</li>
 	<li>After a full investigation you will be sent a letter of explanation within 20 working days. If investigations are still ongoing after that stage you will be sent a letter letting you know what is happening.</li>
@@ -513,13 +489,15 @@ info@iscas.org.uk</p>
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
+                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>
@@ -532,7 +510,7 @@ info@iscas.org.uk</p>
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="about-CGPL.php">Read more...</a></p>
+                  <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -626,5 +604,5 @@ info@iscas.org.uk</p>
         
   </body>
 
-<!-- Mirrored from www.CGPL.me.uk/how-to-complain by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:53 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/how-to-complain by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:53 GMT -->
 </html>

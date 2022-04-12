@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.CGPL.me.uk/tests-diagnostics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:02:11 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/tests-diagnostics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:02:11 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,7 +37,7 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.CGPL.me.uk/tests-diagnostics"/>
+    <meta property="og:url" content="https://www.comfortcaregroups.co.uk/tests-diagnostics"/>
     <meta property="og:title" content="Tests and Diagnostics | Private Blood Tests - CGPL"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
+                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@CGPL.me.uk                                  </a>
+                                    comfortcaregroups.co.uk                                   </a>
                                 </li>                                
                                 
                             </ul>
@@ -98,31 +98,7 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
-                                        <i class="icofont-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/CGPL_care">
-                                        <i class="icofont-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.linkedin.com/company/midlands-ultrasound-and-medical-services">
-                                        <i class="icofont-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
-                                        <i class="icofont-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a style="width: auto; color: white" target="_blank" href="https://www.doctify.com/uk/practice/midlands-ultrasound-and-medical-services">
-                                        Doctify
-                                    </a>
-                                </li>
+                                
                                 <li>
                                     <a style="width: auto; color: white" href="contact-us.php">
                                         Contact Us                                    </a>
@@ -491,7 +467,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.comfortcaregroups.co.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -599,7 +575,7 @@
                     <div class="text-center">
                       <h5 class="h6 text-purple">Allergy</h5>
                       <p>Find allergens through testing that identify them</p>
-                      <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/allergy.php">Read More</a>
+                      <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/allergy.php">Read More</a>
                     </div>
                   </div>
 
@@ -608,7 +584,7 @@
                     <div class="text-center">
                       <h5 class="h6 text-purple">Blood Tests</h5>
                       <p>Blood tests with fast and accurate results</p>
-                      <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/blood-tests.php">Read More</a>
+                      <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/blood-tests.php">Read More</a>
                     </div>
                   </div>
 
@@ -617,7 +593,7 @@
                     <div class="text-center">
                       <h5 class="h6 text-purple">Blood Tests</h5>
                       <p>Blood tests with fast and accurate results</p>
-                      <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/blood-tests-cloned.php">Read More</a>
+                      <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/blood-tests-cloned.php">Read More</a>
                     </div>
                   </div>
 
@@ -626,7 +602,7 @@
                     <div class="text-center">
                       <h5 class="h6 text-purple">Private Cancer Screening Tests</h5>
                       <p>A variety of tests for different types of cancers</p>
-                      <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/cancer.php">Read More</a>
+                      <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/cancer.php">Read More</a>
                     </div>
                   </div>
 
@@ -635,7 +611,7 @@
                     <div class="text-center">
                       <h5 class="h6 text-purple">Cardiology Tests</h5>
                       <p></p>
-                      <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="consultants/cardiology.php">Read More</a>
+                      <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="consultants/cardiology.php">Read More</a>
                     </div>
                   </div>
 
@@ -644,7 +620,7 @@
                     <div class="text-center">
                       <h5 class="h6 text-purple">Genetic Testing</h5>
                       <p></p>
-                      <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="consultants/breast-surgeon.php">Read More</a>
+                      <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="consultants/breast-surgeon.php">Read More</a>
                     </div>
                   </div>
 
@@ -653,7 +629,7 @@
                     <div class="text-center">
                       <h5 class="h6 text-purple">Paternity Testing</h5>
                       <p></p>
-                      <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/paternity-testing.php">Read More</a>
+                      <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="tests-diagnostics/paternity-testing.php">Read More</a>
                     </div>
                   </div>
 
@@ -675,13 +651,15 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
+                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        The Blades Centre John Street
+Sheffield 
+S2 4SW
                       </li>
                     </ul>
                 </div>
@@ -694,7 +672,7 @@
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="about-CGPL.php">Read more...</a></p>
+                  <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -823,5 +801,5 @@
       
   </body>
 
-<!-- Mirrored from www.CGPL.me.uk/tests-diagnostics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:02:19 GMT -->
+<!-- Mirrored from www.comfortcaregroups.co.uk/tests-diagnostics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:02:19 GMT -->
 </html>
