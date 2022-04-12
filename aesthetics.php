@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/aesthetics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:37 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/aesthetics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:37 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Aesthetics | Private Aesthetic Procedures - MUMS</title>
+    <title>Aesthetics | Private Aesthetic Procedures - CGPL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,9 +37,9 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/aesthetics"/>
-    <meta property="og:title" content="Aesthetics | Private Aesthetic Procedures - MUMS"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/aesthetics"/>
+    <meta property="og:title" content="Aesthetics | Private Aesthetic Procedures - CGPL"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="aesthetics.php" rel="canonical">
@@ -68,7 +68,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -84,9 +84,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -98,12 +98,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -139,7 +139,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="index.php" class="logo">
-          <img src="images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -148,7 +148,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index.php">
-                      <img src="images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -409,7 +409,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>At MUMs, our aesthetic procedures include consultations for various anti-ageing treatments that can assist you in combating the signs of wrinkles and ageing. All procedures are carried out by our Aesthetics Doctor and an Aesthetics trained registered Nurse.&nbsp;We can also offer advice surrounding our anti-ageing treatments throughout the duration of a consultation.&nbsp; Should anti-ageing treatment be deemed suitable for you following a consultation, our specialists will recommend treatments that can be carried out in our CCG approved multi-clinic.</p>
+                        <p>At CGPL, our aesthetic procedures include consultations for various anti-ageing treatments that can assist you in combating the signs of wrinkles and ageing. All procedures are carried out by our Aesthetics Doctor and an Aesthetics trained registered Nurse.&nbsp;We can also offer advice surrounding our anti-ageing treatments throughout the duration of a consultation.&nbsp; Should anti-ageing treatment be deemed suitable for you following a consultation, our specialists will recommend treatments that can be carried out in our CCG approved multi-clinic.</p>
 
 <p><strong>Our Aesthetic Services</strong></p>
 
@@ -446,7 +446,7 @@
                                   <a>Who will be administering the injections?</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                                  <p style="display: block">At Mums we have an aesthetic doctor and an aesthetic trained registered nurse. </p>
+                                  <p style="display: block">At CGPL we have an aesthetic doctor and an aesthetic trained registered nurse. </p>
                                 </div>
                             </li>
 
@@ -504,13 +504,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -527,9 +527,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -586,9 +586,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -642,5 +642,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/aesthetics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:39 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/aesthetics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:39 GMT -->
 </html>

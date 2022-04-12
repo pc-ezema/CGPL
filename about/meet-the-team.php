@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Meet Our Team at MUMS Private Healthcare Practice</title>
+    <title>Meet Our Team at CGPL Private Healthcare Practice</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,9 +37,9 @@
     
     <script src="../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/about/meet-the-team"/>
-    <meta property="og:title" content="Meet Our Team at MUMS Private Healthcare Practice"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/about/meet-the-team"/>
+    <meta property="og:title" content="Meet Our Team at CGPL Private Healthcare Practice"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="meet-the-team.php" rel="canonical">
@@ -68,7 +68,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -84,9 +84,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -98,12 +98,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -139,7 +139,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -148,7 +148,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -415,7 +415,7 @@
        <div class="wpb_wrapper">
 <div class="wpb_text_column wpb_content_element ">
 <div class="wpb_wrapper">
-<p xss="removed">Miss Poonam Pradhan has been a Consultant Obstetrician and Gynaecologist practicing at Heartlands and Sheffield  Hospitals since 2004. Additionally, Poonam Consults at Spire Healthcare and at MUMS Clinic (Midlands Ultrasound and Medical Services) in Sheffield . Poonam is a general gynaecologist who has expertise in transvaginal scanning for the detection of gynaecological problems including cancers. She performs surgery including laparoscopy and hysterectomy.</p>
+<p xss="removed">Miss Poonam Pradhan has been a Consultant Obstetrician and Gynaecologist practicing at Heartlands and Sheffield  Hospitals since 2004. Additionally, Poonam Consults at Spire Healthcare and at CGPL Clinic (Midlands Ultrasound and Medical Services) in Sheffield . Poonam is a general gynaecologist who has expertise in transvaginal scanning for the detection of gynaecological problems including cancers. She performs surgery including laparoscopy and hysterectomy.</p>
 </div>
 </div>
 </div>
@@ -437,7 +437,7 @@
     <div class="col-md-10 cms_content" style="font-weight: 300; font-size: 90%">
        <div>Mr Anoop Rehal is a consultant obstetrician at University Hospitals Birmingham. He began my postgraduate training in the East Midlands, obtaining the MRCOG in 2015 and then secured a research fellowship at the Harris Birthright Research Centre for Fetal Medicine at Kings College Hospital, under the auspices of Professor Kypros Nicolaides. Following this, he obtained dual sub-specialist accreditation in both Obstetrics and Maternal-Fetal medicine, also from Kings College Hospital.</div>
 
-<p>In his current role providing obstetric care for both low and high risk pregnancies, he is the lead consultant for labour ward at Good Hope Hospital. He is also the lead clinician for multiple pregnancy. His special interests include high-risk obstetrics, multiple pregnancy, and managing medical disorders in pregnancy. MUMS offers an ideal environment to support women and couples to enable them to make choices about their pregnancies and their deliveries.</p>
+<p>In his current role providing obstetric care for both low and high risk pregnancies, he is the lead consultant for labour ward at Good Hope Hospital. He is also the lead clinician for multiple pregnancy. His special interests include high-risk obstetrics, multiple pregnancy, and managing medical disorders in pregnancy. CGPL offers an ideal environment to support women and couples to enable them to make choices about their pregnancies and their deliveries.</p>
     </div>
   </div>
 </div>        
@@ -808,13 +808,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -831,9 +831,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -890,9 +890,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -927,5 +927,5 @@
         
   </body>
 
-<!-- Mirrored from www.mums.me.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
 </html>

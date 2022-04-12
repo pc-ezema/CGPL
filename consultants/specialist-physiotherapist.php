@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>MUMS | Confortcare Group of Partnership Limited</title>
+    <title>CGPL | Confortcare Group of Partnership Limited</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -29,25 +29,25 @@
     <meta http-equiv="content-language" content="en-gb">
     
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />    
-    <link rel="icon" href="https://www.mums.me.uk/images/favicons/logo_32.png" sizes="32x32" />
-    <link rel="icon" href="https://www.mums.me.uk/images/favicons/logo_192.png" sizes="192x192" />
+    <link rel="icon" href="https://www.CGPL.me.uk/images/favicons/logo_32.png" sizes="32x32" />
+    <link rel="icon" href="https://www.CGPL.me.uk/images/favicons/logo_192.png" sizes="192x192" />
     
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/consultants/specialist-physiotherapist"/>
-    <meta property="og:title" content="MUMS | Confortcare Group of Partnership Limited"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/consultants/specialist-physiotherapist"/>
+    <meta property="og:title" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
-    <link href="https://www.mums.me.uk/consultants/specialist-physiotherapist" rel="canonical">
+    <link href="https://www.CGPL.me.uk/consultants/specialist-physiotherapist" rel="canonical">
 
         
-          <link href="https://www.mums.me.uk/css/theme/bootstrap.min.css" rel="stylesheet" type="text/css">
-          <link href="https://www.mums.me.uk/css/theme/meanmenu.css" rel="stylesheet" type="text/css">
-          <link href="https://www.mums.me.uk/css/theme/animate.css" rel="stylesheet" type="text/css">
-          <link href="https://www.mums.me.uk/css/theme/style.css" rel="stylesheet" type="text/css">
-          <link href="https://www.mums.me.uk/css/theme/responsive.css" rel="stylesheet" type="text/css">
-          <link href="https://www.mums.me.uk/css/theme/icofont.min.css" rel="stylesheet" type="text/css">
+          <link href="https://www.CGPL.me.uk/css/theme/bootstrap.min.css" rel="stylesheet" type="text/css">
+          <link href="https://www.CGPL.me.uk/css/theme/meanmenu.css" rel="stylesheet" type="text/css">
+          <link href="https://www.CGPL.me.uk/css/theme/animate.css" rel="stylesheet" type="text/css">
+          <link href="https://www.CGPL.me.uk/css/theme/style.css" rel="stylesheet" type="text/css">
+          <link href="https://www.CGPL.me.uk/css/theme/responsive.css" rel="stylesheet" type="text/css">
+          <link href="https://www.CGPL.me.uk/css/theme/icofont.min.css" rel="stylesheet" type="text/css">
     
   </head>
   <body class="_cms_template_">
@@ -65,7 +65,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -81,9 +81,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -95,12 +95,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -110,7 +110,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -136,7 +136,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="/" class="logo">
-          <img src="/images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="/images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -145,13 +145,13 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="/">
-                      <img src="/images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="/images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/pregnancy-ultrasound" class="nav-link dropdown-toggle">Antenatal Care</a>
+                            <a href="https://www.CGPL.me.uk/pregnancy-ultrasound" class="nav-link dropdown-toggle">Antenatal Care</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -177,7 +177,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/ultrasound" class="nav-link dropdown-toggle">Ultrasound</a>
+                            <a href="https://www.CGPL.me.uk/ultrasound" class="nav-link dropdown-toggle">Ultrasound</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -200,7 +200,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/private-gp" class="nav-link dropdown-toggle">Private GP</a>
+                            <a href="https://www.CGPL.me.uk/private-gp" class="nav-link dropdown-toggle">Private GP</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -220,7 +220,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/covid-tests" class="nav-link dropdown-toggle">Covid Tests</a>
+                            <a href="https://www.CGPL.me.uk/covid-tests" class="nav-link dropdown-toggle">Covid Tests</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -231,7 +231,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/consultants" class="nav-link dropdown-toggle">Consultants</a>
+                            <a href="https://www.CGPL.me.uk/consultants" class="nav-link dropdown-toggle">Consultants</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -281,7 +281,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/tests-diagnostics" class="nav-link dropdown-toggle">Tests and Diagnostics</a>
+                            <a href="https://www.CGPL.me.uk/tests-diagnostics" class="nav-link dropdown-toggle">Tests and Diagnostics</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -304,13 +304,13 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/contraception" class="nav-link ">Contraception</a>
+                            <a href="https://www.CGPL.me.uk/contraception" class="nav-link ">Contraception</a>
                             
                                                                                   </li>
 
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/sexual-health" class="nav-link dropdown-toggle">Sexual Health</a>
+                            <a href="https://www.CGPL.me.uk/sexual-health" class="nav-link dropdown-toggle">Sexual Health</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -327,7 +327,7 @@
 
                         
                           <li class="nav-item">
-                            <a href="https://www.mums.me.uk/aesthetics" class="nav-link dropdown-toggle">Aesthetics</a>
+                            <a href="https://www.CGPL.me.uk/aesthetics" class="nav-link dropdown-toggle">Aesthetics</a>
                                                           <ul class="dropdown-menu">
                             
                                                           <li class="nav-item">
@@ -388,13 +388,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="/images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="/images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -411,9 +411,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="/about-mums">Read more...</a></p>
+                  <p><a class="text-white" href="/about-CGPL">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -484,7 +484,7 @@
   </div>
 </div>
 
-<script type="text/javascript" src="https://www.mums.me.uk/min/?f=js/theme/jquery.min.js,js/theme/popper.min.js,js/theme/bootstrap.min.js,js/theme/jquery.meanmenu.js,js/common_functions.js"></script>
+<script type="text/javascript" src="https://www.CGPL.me.uk/min/?f=js/theme/jquery.min.js,js/theme/popper.min.js,js/theme/bootstrap.min.js,js/theme/jquery.meanmenu.js,js/common_functions.js"></script>
 
 <script type="text/javascript">
 

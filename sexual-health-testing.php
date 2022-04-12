@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/sexual-health-testing by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:03 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/sexual-health-testing by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:03 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Private Sexual Health Testing Services - MUMS</title>
+    <title>Private Sexual Health Testing Services - CGPL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,9 +37,9 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/sexual-health-testing"/>
-    <meta property="og:title" content="Private Sexual Health Testing Services - MUMS"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/sexual-health-testing"/>
+    <meta property="og:title" content="Private Sexual Health Testing Services - CGPL"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="sexual-health-testing.php" rel="canonical">
@@ -69,7 +69,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="index.php" class="logo">
-          <img src="images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index.php">
-                      <img src="images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'>Sexual Health Services</h3>
-                        <p dir="ltr">At MUMS, we offer a wide range of sexual health tests.&nbsp;We can offer you with sexual health advice&nbsp;surrounding any concerns you may have as well as testing for any Sexually Transmitted Infections (STIs) you may worried about. Offering rapid results, we alleviate the stress, worry and anxiety that often comes hand-in-hand with sexual health tests.</p>
+                        <p dir="ltr">At CGPL, we offer a wide range of sexual health tests.&nbsp;We can offer you with sexual health advice&nbsp;surrounding any concerns you may have as well as testing for any Sexually Transmitted Infections (STIs) you may worried about. Offering rapid results, we alleviate the stress, worry and anxiety that often comes hand-in-hand with sexual health tests.</p>
 
 <p dir="ltr">Below, we have outlined just a few of the tests we offer at our&nbsp;private sexual health clinic. This includes singular sexual health tests, instant sexual health test and combined sexual health tests.</p>
 
@@ -461,7 +461,7 @@
 
 <p dir="ltr">Regardless of the sexual health service you require, our service is discreet, and confidential, and we will do everything we can to put your mind at rest. Contact us directly by calling 0121 704 2669.&nbsp;Alternatively, <a href="contact-us.php">contact us</a> here.</p>
 
-<p dir="ltr">Each year, approximately 3.3 million sexual health-related appointments are made in the United Kingdom. Although sexual health services can be commonly accessed via NHS sexual health clinics, here at MUMs, our private sexual health clinic provides an extensive range of services that can be rapidly accessed every day.</p>
+<p dir="ltr">Each year, approximately 3.3 million sexual health-related appointments are made in the United Kingdom. Although sexual health services can be commonly accessed via NHS sexual health clinics, here at CGPL, our private sexual health clinic provides an extensive range of services that can be rapidly accessed every day.</p>
 
 <h2 dir="ltr">Why Is Sexual Health Important?</h2>
 
@@ -477,7 +477,7 @@
 
 <h2 dir="ltr">What type of people use sexual health services?</h2>
 
-<p dir="ltr">There is no one type of person who visits a private STI clinic. At MUMs, we provide a wide range of private sexual health services to sexually active adults of all ages and backgrounds. We are able to test for a greater range of infections than many NHS clinics. Our professional staff offer the highest level of care and confidentiality, whatever your reasons for visiting and whoever you are.</p>
+<p dir="ltr">There is no one type of person who visits a private STI clinic. At CGPL, we provide a wide range of private sexual health services to sexually active adults of all ages and backgrounds. We are able to test for a greater range of infections than many NHS clinics. Our professional staff offer the highest level of care and confidentiality, whatever your reasons for visiting and whoever you are.</p>
 
 <div>&nbsp;</div>
                     </div>
@@ -502,7 +502,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.mums.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -582,13 +582,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -605,9 +605,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -664,9 +664,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -736,5 +736,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/sexual-health-testing by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:36 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/sexual-health-testing by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:36 GMT -->
 </html>

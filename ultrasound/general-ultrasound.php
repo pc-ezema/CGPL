@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/ultrasound/general-ultrasound by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:57:54 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/ultrasound/general-ultrasound by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:57:54 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,9 +37,9 @@
     
     <script src="../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/ultrasound/general-ultrasound"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/ultrasound/general-ultrasound"/>
     <meta property="og:title" content="General Ultrasound"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="general-ultrasound.php" rel="canonical">
@@ -68,7 +68,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -84,9 +84,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -98,12 +98,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -139,7 +139,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -148,7 +148,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -385,7 +385,7 @@
                 <div class="row">
                   <div class="col-md-7">
                     <h1 class='text-white'>General Ultrasound</h1>
-                                        <h3 class="h4 text-white">MUMS offer a range of ultrasound services</h3>                    
+                                        <h3 class="h4 text-white">CGPL offer a range of ultrasound services</h3>                    
                                         
                                           
                                         
@@ -409,13 +409,13 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>In addition to <a href="../pregnancy-ultrasound/antenatal-scans.php">antenatal</a> and <a href="gynaecology-ultrasound.php">gynaecological</a> scans &ndash; Midlands Ultrasound and Medical Services &ndash; MUMS &ndash; offers a wide range of diagnostic ultrasound scans using the latest technology to ensure the very best diagnosis and treatment for you.</p>
+                        <p>In addition to <a href="../pregnancy-ultrasound/antenatal-scans.php">antenatal</a> and <a href="gynaecology-ultrasound.php">gynaecological</a> scans &ndash; Midlands Ultrasound and Medical Services &ndash; CGPL &ndash; offers a wide range of diagnostic ultrasound scans using the latest technology to ensure the very best diagnosis and treatment for you.</p>
 
-<p>MUMS Private Ultrasound Scans&nbsp;are performed on patients aged 16 and over by&nbsp;experienced radiographers and sonographers that actively practice at local NHS and private providers, providing you with the highest level of care. There is no need for a referral to have an ultrasound at MUMS. Access is easy and there are no waiting times. Our experienced radiographers and sonographers provide ultrasound scanning 6 days a week to assist your clinician in identifying and monitoring your condition. Our expert team can provide diagnosis and advice.</p>
+<p>CGPL Private Ultrasound Scans&nbsp;are performed on patients aged 16 and over by&nbsp;experienced radiographers and sonographers that actively practice at local NHS and private providers, providing you with the highest level of care. There is no need for a referral to have an ultrasound at CGPL. Access is easy and there are no waiting times. Our experienced radiographers and sonographers provide ultrasound scanning 6 days a week to assist your clinician in identifying and monitoring your condition. Our expert team can provide diagnosis and advice.</p>
 
-<p>Our team are fully registered and regulated for practice in the United Kingdom &ndash; so that MUMS patients receive expert reports and the very best outcomes.</p>
+<p>Our team are fully registered and regulated for practice in the United Kingdom &ndash; so that CGPL patients receive expert reports and the very best outcomes.</p>
 
-<p>Peace of mind and patient reassurance is of utmost importance to MUMS &ndash; and this is why we have high calibre and highly qualified clinicians providing affordable excellence in private healthcare, particularly ultrasound diagnostics.</p>
+<p>Peace of mind and patient reassurance is of utmost importance to CGPL &ndash; and this is why we have high calibre and highly qualified clinicians providing affordable excellence in private healthcare, particularly ultrasound diagnostics.</p>
 
 <p>We welcome self-referrals and referrals from your clinician to diagnose conditions.</p>
 
@@ -433,17 +433,17 @@
 	<li><a href="general-ultrasound/ultrasound-scan-of-the-scrotum.php">Ultrasound Scan of the Scrotum</a></li>
 </ul>
 
-<p><strong>What you can expect at MUMS when attending for an ultrasound.</strong></p>
+<p><strong>What you can expect at CGPL when attending for an ultrasound.</strong></p>
 
 <p>Ultrasound is a painless procedure with little or no preparation. An ultrasound lasts for approximately 15-30 minutes.</p>
 
-<p>A chaperone assistant will greet you and take you to one of MUMS ultrasound suites. MUMS uses the latest scanning machines and displays the images on a large screen for you. The chaperone assistant will respect your dignity with drapes.</p>
+<p>A chaperone assistant will greet you and take you to one of CGPL ultrasound suites. CGPL uses the latest scanning machines and displays the images on a large screen for you. The chaperone assistant will respect your dignity with drapes.</p>
 
 <p>The radiographer/sonographer/consultant will commence scanning and listen to the sounds and whilst examining the images and preparing the report.</p>
 
 <p>Once the ultrasound is complete the clinician will talk to you about his/her findings and report and hand you a signed copy and offer you a follow up with one of our <a href="../private-gp.php">GPs</a> or <a href="../consultants.php">Consultants </a>or send a copy to your clinician GP.</p>
 
-<p>MUMS has been offering ultrasound diagnostics for two&nbsp;decades offering:</p>
+<p>CGPL has been offering ultrasound diagnostics for two&nbsp;decades offering:</p>
 
 <ul>
 	<li>Quality</li>
@@ -558,13 +558,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -581,9 +581,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -640,9 +640,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -696,5 +696,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/ultrasound/general-ultrasound by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:58:16 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/ultrasound/general-ultrasound by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:58:16 GMT -->
 </html>

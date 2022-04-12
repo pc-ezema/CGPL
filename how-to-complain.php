@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/how-to-complain by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/how-to-complain by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:52 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>How to Complain | MUMS Private Healthcare Practice</title>
+    <title>How to Complain | CGPL Private Healthcare Practice</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,9 +37,9 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/how-to-complain"/>
-    <meta property="og:title" content="How to Complain | MUMS Private Healthcare Practice"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/how-to-complain"/>
+    <meta property="og:title" content="How to Complain | CGPL Private Healthcare Practice"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="how-to-complain.php" rel="canonical">
@@ -68,7 +68,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -84,9 +84,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -98,12 +98,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -139,7 +139,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="index.php" class="logo">
-          <img src="images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -148,7 +148,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index.php">
-                      <img src="images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -422,7 +422,7 @@ Complaints may be received either verbally or in writing and must be forwarded t
 <ul>
 	<li>Acknowledge in writing within the period of 2 working days beginning with the day on which the complaint was made or, where that is not possible, as soon as reasonably practicable. When a complaint arrives via email at the weekend &ndash; we contact the patient the next working day. Include an offer to discuss the matter in person. Advise the patient of potential timescales and the next steps;</li>
 	<li>Ensure the complaint is properly investigated. Where the complaint involves more than one organisation the Complaints Manager will liaise with his / her counterpart to agree responsibilities and ensure that one coordinated response is sent;</li>
-	<li>Where the complaint has been sent to the incorrect organisation, advise the patient within 3 working days and ask them to contact the service provider. MUMS provide appropriate contact details to the client.</li>
+	<li>Where the complaint has been sent to the incorrect organisation, advise the patient within 3 working days and ask them to contact the service provider. CGPL provide appropriate contact details to the client.</li>
 	<li>Provide a full response, following thorough investigation, within 20 working days</li>
 </ul>
 
@@ -434,13 +434,13 @@ Complaints may be received either verbally or in writing and must be forwarded t
 	<li>A clear statement of the issues, investigations and the findings, giving clear evidence-based reasons for decisions if appropriate.</li>
 	<li>Where errors have occurred, explain these fully and state what will be done to put these right, or prevent repetition.</li>
 	<li>A focus on fair and proportionate outcomes for the patient, including any remedial action or compensation.</li>
-	<li>A clear statement that the response is a STAGE 1 response and that if the complainant is not satisfied they can ask for an independent investigation ( someone who has not been involved at STAGE 1 within MUMS Organisation )</li>
+	<li>A clear statement that the response is a STAGE 1 response and that if the complainant is not satisfied they can ask for an independent investigation ( someone who has not been involved at STAGE 1 within CGPL Organisation )</li>
 	<li>An apology or explanation as appropriate.</li>
 </ul>
 
 <p><strong>STAGE 2</strong></p>
 
-<p>Complaining can be stressful, so the aim should always be to try and sort out any problems as quickly and informally as possible. If a patient&rsquo;s complaint is responded to effectively at Stage 1 when they first raise their concerns, then it is unlikely that matters will need to be escalated again &ndash; via a STAGE 2 Independent MUMS &ndash; Medical Director.</p>
+<p>Complaining can be stressful, so the aim should always be to try and sort out any problems as quickly and informally as possible. If a patient&rsquo;s complaint is responded to effectively at Stage 1 when they first raise their concerns, then it is unlikely that matters will need to be escalated again &ndash; via a STAGE 2 Independent CGPL &ndash; Medical Director.</p>
 
 <p>Timeframes for Stage 2:</p>
 
@@ -450,9 +450,9 @@ Complaints may be received either verbally or in writing and must be forwarded t
 	<li>Complaint should be concluded within 3 months (unless there is a good reason to explain longer timeframe)</li>
 </ol>
 
-<p>The independent MUMS investigator shall conduct an objective review of the investigation into the complaint and the response that was provided at Stage 1. The Independent MUMS investigator will provide a single full written response to the complainant that includes a summary of the outstanding heads of complain and the matters that remain unresolved; A summary of the process of review; The findings of the review, Detailed signposting to the next stage of the complaints process, including information on how to escalate a complaint via ISCAS and confirmation that this must be done in within six months of the final response at Stage 2.</p>
+<p>The independent CGPL investigator shall conduct an objective review of the investigation into the complaint and the response that was provided at Stage 1. The Independent CGPL investigator will provide a single full written response to the complainant that includes a summary of the outstanding heads of complain and the matters that remain unresolved; A summary of the process of review; The findings of the review, Detailed signposting to the next stage of the complaints process, including information on how to escalate a complaint via ISCAS and confirmation that this must be done in within six months of the final response at Stage 2.</p>
 
-<p>However &ndash; MUMS are subscribers to ISCAS and as such &ndash; follow the ISCAS 3 stage process.</p>
+<p>However &ndash; CGPL are subscribers to ISCAS and as such &ndash; follow the ISCAS 3 stage process.</p>
 
 <ol>
 	<li>Stage 1 &ndash; Investigation and Complaint</li>
@@ -460,7 +460,7 @@ Complaints may be received either verbally or in writing and must be forwarded t
 	<li>Stage 3 &ndash; Signpost to ISCAS for Independent Adjudicator</li>
 </ol>
 
-<p>Patients of MUMS have the right to escalate the complaint to ISCAS, Independent Sector Complaints Adjudications Service, Patients may not be satisfied with the way MUMS dealt with their complaint or may not be satisfied with the written investigation and response and wish for an independent review.</p>
+<p>Patients of CGPL have the right to escalate the complaint to ISCAS, Independent Sector Complaints Adjudications Service, Patients may not be satisfied with the way CGPL dealt with their complaint or may not be satisfied with the written investigation and response and wish for an independent review.</p>
 
 <p>If patients are not satisfied with the complaint review at stage 2, they have the right to refer the matter to stage 3 independent external adjudication through ISCAS (for subscribing providers). They need to do this within 6 months of receiving the final response at stage 2 and ISCAS aims to complete its adjudications within 3-6 months. The person making a complaint does not pay for the complaints process.</p>
 
@@ -468,9 +468,9 @@ Complaints may be received either verbally or in writing and must be forwarded t
 
 <p>If patients wish to escalate their complaint to ISCAS at stage 3, they should do this in writing.</p>
 
-<p>ISCAS will provide a written acknowledgement to them within 3 working days. It will then write to MUMS to advise that they wish to escalate their complaint. The provider will have 10 working days to object, where relevant, for example because the earlier stages of the process have not yet been exhausted.</p>
+<p>ISCAS will provide a written acknowledgement to them within 3 working days. It will then write to CGPL to advise that they wish to escalate their complaint. The provider will have 10 working days to object, where relevant, for example because the earlier stages of the process have not yet been exhausted.</p>
 
-<p>An Independent Adjudicator will send MUMS a letter to confirm that they have received a complaint. They will then compile a chronology of events, identify the main points (&lsquo;key heads&rsquo;) of the complaint and write to MUMS setting out their understanding of your complaint. The Independent Adjudicator will keep MUMS updated with progress, at a minimum, every 20 working days. The Independent Adjudicator will decide to uphold or not uphold each aspect of the complaint. They have the discretion to award a goodwill payment up to a limit of &pound;5,000, in accordance with the ISCAS Goodwill Payments Guide.</p>
+<p>An Independent Adjudicator will send CGPL a letter to confirm that they have received a complaint. They will then compile a chronology of events, identify the main points (&lsquo;key heads&rsquo;) of the complaint and write to CGPL setting out their understanding of your complaint. The Independent Adjudicator will keep CGPL updated with progress, at a minimum, every 20 working days. The Independent Adjudicator will decide to uphold or not uphold each aspect of the complaint. They have the discretion to award a goodwill payment up to a limit of &pound;5,000, in accordance with the ISCAS Goodwill Payments Guide.</p>
 
 <p>There is no appeal to Stage 3 adjudication and the Independent Adjudicator&rsquo;s decision is final. However complainants are able to seek legal action at any point during or after the ISCAS complaints process and their statutory rights are not affected. If patients are not satisfied with the way ISCAS has managed the stage 3 process they are entitled to make a&nbsp;<a href="https://iscas.cedr.com/about/complaints-about-iscas/">complaint about ISCAS</a>.</p>
 
@@ -493,7 +493,7 @@ info@iscas.org.uk</p>
 <p>Where the investigation of the complaint requires consideration of the patient&rsquo;s medical records, the Complaints Manager must inform the patient or person acting on his/her behalf if the investigation will involve disclosure of information contained in those records to a person other than the Practice or an employee of the Practice.</p>
 
 <ol>
-	<li>If you have a complaint about any aspect of the service, care or treatment provided, please make this known to Stephanie Byrom, Director of Operations in the first instance. You may initially make this complaint in person, in writing or any other medium. Email:&nbsp;<a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>. Either you or someone acting on your behalf may complain. Please supply name and full address for reference.</li>
+	<li>If you have a complaint about any aspect of the service, care or treatment provided, please make this known to Stephanie Byrom, Director of Operations in the first instance. You may initially make this complaint in person, in writing or any other medium. Email:&nbsp;<a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>. Either you or someone acting on your behalf may complain. Please supply name and full address for reference.</li>
 	<li>Your complaint will be acknowledged in writing within 2 working days.</li>
 	<li>We would ask you to confirm your complaint in writing as soon as possible to avoid any misunderstandings.</li>
 	<li>After a full investigation you will be sent a letter of explanation within 20 working days. If investigations are still ongoing after that stage you will be sent a letter letting you know what is happening.</li>
@@ -507,13 +507,13 @@ info@iscas.org.uk</p>
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -530,9 +530,9 @@ info@iscas.org.uk</p>
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -589,9 +589,9 @@ info@iscas.org.uk</p>
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -626,5 +626,5 @@ info@iscas.org.uk</p>
         
   </body>
 
-<!-- Mirrored from www.mums.me.uk/how-to-complain by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:53 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/how-to-complain by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:53 GMT -->
 </html>

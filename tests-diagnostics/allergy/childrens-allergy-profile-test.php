@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/tests-diagnostics/allergy/childrens-allergy-profile-test by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:06:14 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/tests-diagnostics/allergy/childrens-allergy-profile-test by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:06:14 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,9 +37,9 @@
     
     <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/tests-diagnostics/allergy/childrens-allergy-profile-test"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/tests-diagnostics/allergy/childrens-allergy-profile-test"/>
     <meta property="og:title" content="Children's Allergy Profile Test"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="childrens-allergy-profile-test.php" rel="canonical">
@@ -69,7 +69,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -385,7 +385,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-7">
-                    <h1 class='text-white'>MUMS Children's Allergy Profile Test</h1>
+                    <h1 class='text-white'>CGPL Children's Allergy Profile Test</h1>
                                         
                                           <a class='btn text-white bg-cta d-sm-inline d-md-none' href='#book_now'>Book Now</a>
                                           
@@ -410,7 +410,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p><img alt="" src="../../images/images/Allergy%20Testing.jpg" style="width: 350px; height: 233px;" />Having an Allergy Test at MUMS Sheffield  is easy. We offer simple blood tests but combine a number of foods/grasses/fish and animal and environmental products to offer a Children&rsquo;s Allergy Profile which is a value for money allergy blood test.</p>
+                        <p><img alt="" src="../../images/images/Allergy%20Testing.jpg" style="width: 350px; height: 233px;" />Having an Allergy Test at CGPL Sheffield  is easy. We offer simple blood tests but combine a number of foods/grasses/fish and animal and environmental products to offer a Children&rsquo;s Allergy Profile which is a value for money allergy blood test.</p>
 
 <p>For children under 16 years old you will need to book in with our specialist consultant paediatrician for a consultation and allergy testing. The cost of a consultation with the paediatrician is &pound;230.00 plus the cost of the test.</p>
 
@@ -437,7 +437,7 @@
 
 <p>You may not know what you are allergic to and want to find out to avoid any of the above.</p>
 
-<p>MUMS experience of providing allergy testing has enabled us to group common allergen tests together based on geography, food types, inhalants, antibiotics, eczema, gluten and rhinitis.</p>
+<p>CGPL experience of providing allergy testing has enabled us to group common allergen tests together based on geography, food types, inhalants, antibiotics, eczema, gluten and rhinitis.</p>
 
 <p>This Children&rsquo;s Allergy Profile contains a wide range of common allergens to give our Paediatrician&nbsp;and you a good idea as to what it is that is causing the child&rsquo;s allergic symptoms.</p>
 
@@ -466,7 +466,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.mums.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -548,13 +548,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -571,9 +571,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -630,9 +630,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -702,5 +702,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/tests-diagnostics/allergy/childrens-allergy-profile-test by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:06:14 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/tests-diagnostics/allergy/childrens-allergy-profile-test by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:06:14 GMT -->
 </html>

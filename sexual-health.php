@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/mumsclinic.me.uk" style="background-color: none;">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/mums_care" style="background: none;">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>

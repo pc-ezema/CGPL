@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/pregnancy-ultrasound/invasive-prenatal-testing by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:57:39 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/pregnancy-ultrasound/invasive-prenatal-testing by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:57:39 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Invasive Prenatal Testing | Private Tests - MUMS</title>
+    <title>Invasive Prenatal Testing | Private Tests - CGPL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,9 +37,9 @@
     
     <script src="../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/pregnancy-ultrasound/invasive-prenatal-testing"/>
-    <meta property="og:title" content="Invasive Prenatal Testing | Private Tests - MUMS"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/pregnancy-ultrasound/invasive-prenatal-testing"/>
+    <meta property="og:title" content="Invasive Prenatal Testing | Private Tests - CGPL"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="invasive-prenatal-testing.php" rel="canonical">
@@ -69,7 +69,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'>CVS & Amniocentesis</h3>
-                        <p>Mr Anoop Rehal, Consultant in Obstetrics and Fetal Medicine at University Hospitals Birmingham NHS Foundation Trust &ndash; performs CVS and Amniocentesis&nbsp;at MUMS Sheffield  to diagnose fetal abnormalities.</p>
+                        <p>Mr Anoop Rehal, Consultant in Obstetrics and Fetal Medicine at University Hospitals Birmingham NHS Foundation Trust &ndash; performs CVS and Amniocentesis&nbsp;at CGPL Sheffield  to diagnose fetal abnormalities.</p>
 
 <p>The choice to have the test is entirely the decision of the patient following thorough counselling with Mr Anoop Rehal</p>
 
@@ -421,7 +421,7 @@
 
 <p>The test can be done earlier than an amniocentesis at 11-14 weeks of pregnancy and involves passing a thin needle into the placenta through the uterus under ultrasound guidance to remove a small volume of cells from the placenta.</p>
 
-<p>Patients who qualify to have CVS at MUMS:</p>
+<p>Patients who qualify to have CVS at CGPL:</p>
 
 <ul>
 	<li>Will have been offered CVS if they have a higher than average chance of giving birth to a child with a genetic abnormality</li>
@@ -436,7 +436,7 @@
 
 <p>Amniocentesis is a medical procedure that can be performed from 15 weeks or pregnancy. Amniocentesis is used primarily in prenatal diagnosis of chromosomal abnormalities and fetal infection. In this procedure, a small amount of amniotic fluid, which contains fetal tissues, is sampled from the amniotic sac surrounding a developing fetus.</p>
 
-<p>Patients who qualify to have Amniocentesis at MUMS:</p>
+<p>Patients who qualify to have Amniocentesis at CGPL:</p>
 
 <ul>
 	<li>Will have been offered amniocentesis if they have a higher than average chance of giving birth to a child with a genetic abnormality</li>
@@ -449,15 +449,15 @@
 
 <p><u><strong>Costs </strong></u></p>
 
-<p><a href="../images/files/Patient%20Information%20and%20Aftercare%20Leaflet%20CVS%20and%20AMNIO%20at%20MUMS.pdf">MUMS CVS and Amniocentesis Patient Information Leaflet </a>provides much more detail about the test and the results.</p>
+<p><a href="../images/files/Patient%20Information%20and%20Aftercare%20Leaflet%20CVS%20and%20AMNIO%20at%20CGPL.pdf">CGPL CVS and Amniocentesis Patient Information Leaflet </a>provides much more detail about the test and the results.</p>
 
 <p>The Cost of CVS or Amniocentesis is &pound;695.00</p>
 
 <p>Additional costs will apply where there is additional chromosome abnormality laboratory analysis &ndash; dependent upon individual cases and the suspected abnormality.</p>
 
-<p>If you have had Nuchal Screening/NIPT or an Ultrasound at MUMS which shows you may require invasive testing such as Amnio or CVS then this will be offered to you.</p>
+<p>If you have had Nuchal Screening/NIPT or an Ultrasound at CGPL which shows you may require invasive testing such as Amnio or CVS then this will be offered to you.</p>
 
-<p>To organise your CVS or Amniocentesis at MUMS call 0121 704 2669 or complete an online enquiry. We will organise for you to see Mr Anoop Rehal &ndash; Consultant in Fetal Medicine.</p>
+<p>To organise your CVS or Amniocentesis at CGPL call 0121 704 2669 or complete an online enquiry. We will organise for you to see Mr Anoop Rehal &ndash; Consultant in Fetal Medicine.</p>
                     </div>
 
                 </div>
@@ -480,7 +480,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.mums.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -567,13 +567,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -590,9 +590,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -649,9 +649,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -721,5 +721,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/pregnancy-ultrasound/invasive-prenatal-testing by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:57:42 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/pregnancy-ultrasound/invasive-prenatal-testing by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:57:42 GMT -->
 </html>

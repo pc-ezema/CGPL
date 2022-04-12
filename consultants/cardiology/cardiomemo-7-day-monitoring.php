@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/consultants/cardiology/cardiomemo-7-day-monitoring by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:05:37 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/consultants/cardiology/cardiomemo-7-day-monitoring by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:05:37 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,9 +37,9 @@
     
     <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/consultants/cardiology/cardiomemo-7-day-monitoring"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/consultants/cardiology/cardiomemo-7-day-monitoring"/>
     <meta property="og:title" content="Cardiomemo 7 Day Monitoring"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="cardiomemo-7-day-monitoring.php" rel="canonical">
@@ -69,7 +69,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -410,18 +410,18 @@
                         
                         
                         
-                        <h3 class='mt-4'>MUMS Consultant Cardiologist – Mr Jerome Ment – offers CARDIOMEMO 7 day Monitoring</h3>
+                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Mr Jerome Ment – offers CARDIOMEMO 7 day Monitoring</h3>
                         <p>Some people experience symptoms of palpitation relatively infrequently meaning that 24 hours of monitoring alone may not capture any heart rhythm abnormalities. A cardiomemo device is a very small portable monitor that can be used for weeks and allows for monitoring as and when symptoms are experienced to enable accurate identification of arrhythmias where shorter monitoring periods may miss episodes of palpitation.</p>
 
-<p>You will need a consultation with Mr Ment at MUMS &ndash; who will examine you, take a history, fit the Cardiomemo and remotely analyse and review your readings. The cost of a consultation with Mr Ment is &pound;230.00. If a CARDIOMEMO is fitted the cost of fit/readings review is &pound;350.00</p>
+<p>You will need a consultation with Mr Ment at CGPL &ndash; who will examine you, take a history, fit the Cardiomemo and remotely analyse and review your readings. The cost of a consultation with Mr Ment is &pound;230.00. If a CARDIOMEMO is fitted the cost of fit/readings review is &pound;350.00</p>
 
 <p>You will need a follow up consultation which costs &pound;150.00.</p>
 
 <p>You do not need a referral from your NHS GP.</p>
 
-<p>There are no waiting times at MUMS to see Mr Ment.</p>
+<p>There are no waiting times at CGPL to see Mr Ment.</p>
 
-<p><a href="../cardiology.php">Other cardiac tests at MUMS.</a></p>
+<p><a href="../cardiology.php">Other cardiac tests at CGPL.</a></p>
                     </div>
 
                 </div>
@@ -444,7 +444,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.mums.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -524,13 +524,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -547,9 +547,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -606,9 +606,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -678,5 +678,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/consultants/cardiology/cardiomemo-7-day-monitoring by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:05:37 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/consultants/cardiology/cardiomemo-7-day-monitoring by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:05:37 GMT -->
 </html>

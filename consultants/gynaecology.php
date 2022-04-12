@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/consultants/gynaecology by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:13 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/consultants/gynaecology by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:13 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Gynaecology | Private Health Consultants - MUMS</title>
+    <title>Gynaecology | Private Health Consultants - CGPL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,9 +37,9 @@
     
     <script src="../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/consultants/gynaecology"/>
-    <meta property="og:title" content="Gynaecology | Private Health Consultants - MUMS"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/consultants/gynaecology"/>
+    <meta property="og:title" content="Gynaecology | Private Health Consultants - CGPL"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="gynaecology.php" rel="canonical">
@@ -69,7 +69,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'>Consultant Gynaecologist Appointments</h3>
-                        <p><img alt="" src="../images/images/Poonam-Pradhan.jpg" />At MUMS&nbsp;our consultant gynaecologist offers a wealth of private gynaecology services that enable women across the country to secure the medical advice, guidance, and treatment they need when they need it.&nbsp;</p>
+                        <p><img alt="" src="../images/images/Poonam-Pradhan.jpg" />At CGPL&nbsp;our consultant gynaecologist offers a wealth of private gynaecology services that enable women across the country to secure the medical advice, guidance, and treatment they need when they need it.&nbsp;</p>
 
 <p dir="ltr">Offering appointments and results within a short time frame, our gynaecology services significantly reduce waiting times often encountered via the NHS and ensure that a diagnosis can be made within a matter of days.&nbsp;&nbsp;</p>
 
@@ -442,15 +442,15 @@
 
 <p dir="ltr"><a href="urogynaecology.php">Urinary incontinence</a> and <a href="urogynaecology.php">urine leakage </a>is a widespread problem, with 50% of women thought to suffer from the condition. Usually encountered by the age of 50 due to weakness in the pelvic floor caused by childbirth, menopause and ageing, urinary incontinence worsens with age.</p>
 
-<p dir="ltr">Treatment for <a href="urogynaecology.php">urinary incontinence</a> varies. However, here at MUMs, we are delighted to be the only West Midlands clinic offering the revolutionary Emsella Chair to treat urinary incontinence. The Emsella breakthrough treatment gives a staggering 11,000 contractions to the pelvic floor muscles in 28 minutes.&nbsp;</p>
+<p dir="ltr">Treatment for <a href="urogynaecology.php">urinary incontinence</a> varies. However, here at CGPL, we are delighted to be the only West Midlands clinic offering the revolutionary Emsella Chair to treat urinary incontinence. The Emsella breakthrough treatment gives a staggering 11,000 contractions to the pelvic floor muscles in 28 minutes.&nbsp;</p>
 
 <p dir="ltr">Patients sit on the Emsella chair, which holds a strong magnet that creates the electromagnetic fields and penetrates deep into the pelvic floor muscles, creating a maximum contraction of the muscles.</p>
 
-<p dir="ltr">MUMs believe this is a massive breakthrough in the treatment of <a href="urogynaecology.php">urinary incontinence</a>. The principle of the treatment is high intensity focused electromagnetic technology (HIFEM).</p>
+<p dir="ltr">CGPL believe this is a massive breakthrough in the treatment of <a href="urogynaecology.php">urinary incontinence</a>. The principle of the treatment is high intensity focused electromagnetic technology (HIFEM).</p>
 
 <p dir="ltr">Harmless and non-invasive, our patients see significant improvement in their <a href="urogynaecology.php">urinary incontinence</a> upon completing this treatment.</p>
 
-<p dir="ltr">At MUMs, we offer a <a href="urogynaecology.php">urinary incontinence</a> treatment package consisting of a consultation with Miss Poonam Pradhan and six Emsella chair sessions.&nbsp; Extremely effective, these treatment packages remain in high demand.</p>
+<p dir="ltr">At CGPL, we offer a <a href="urogynaecology.php">urinary incontinence</a> treatment package consisting of a consultation with Miss Poonam Pradhan and six Emsella chair sessions.&nbsp; Extremely effective, these treatment packages remain in high demand.</p>
 
 <h3 dir="ltr">Signs and Symptoms That Highlight A Gynaecology Consultation Is Needed</h3>
 
@@ -470,7 +470,7 @@
 
 <h3 dir="ltr">About Our Consultant Gynaecologist</h3>
 
-<p dir="ltr">Miss Poonam Pradhan, Consultant Obstetrician and Gynaecologist, is available to see patients at MUMs.&nbsp; She has a specialist interest in menopause, HRT and problems arising from treatment with HRT She is a senior consultant at the University Hospital Birmingham with vast experience in pelvic Ultrasound scans.</p>
+<p dir="ltr">Miss Poonam Pradhan, Consultant Obstetrician and Gynaecologist, is available to see patients at CGPL.&nbsp; She has a specialist interest in menopause, HRT and problems arising from treatment with HRT She is a senior consultant at the University Hospital Birmingham with vast experience in pelvic Ultrasound scans.</p>
 
 <p dir="ltr">Her interest in non-invasive treatment options has led her to offer the innovative EMSELLA treatment for urinary incontinence and Ultrafemme treatment for vaginal laxity and dryness.</p>
 
@@ -498,7 +498,7 @@
     
     <div class="container" style="padding-top: 15px">
 
-      <ul class="nav nav-pills nav-mums-book-online" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills nav-CGPL-book-online" id="pills-tab" role="tablist">
         <li class="nav-item" style="width: 50%">
             <a class="nav-link active" id="pills-booknow-tab" data-toggle="pill" href="#pills-booknow" role="tab" aria-controls="pills-booknow" aria-selected="false">
                 Book &amp; Pay Now
@@ -542,7 +542,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.mums.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -643,13 +643,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -666,9 +666,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -725,9 +725,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -797,5 +797,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/consultants/gynaecology by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:48 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/consultants/gynaecology by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:48 GMT -->
 </html>

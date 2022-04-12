@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/ultrasound/general-ultrasound/full-abdominal-ultrasound-scan by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:59 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/ultrasound/general-ultrasound/full-abdominal-ultrasound-scan by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:59 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,9 +37,9 @@
     
     <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/ultrasound/general-ultrasound/full-abdominal-ultrasound-scan"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/ultrasound/general-ultrasound/full-abdominal-ultrasound-scan"/>
     <meta property="og:title" content="Full Abdominal Ultrasound Scan "/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="full-abdominal-ultrasound-scan.php" rel="canonical">
@@ -69,7 +69,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -411,9 +411,9 @@
                         
                         
                         <h3 class='mt-4'>Full Abdominal Ultrasound Scan </h3>
-                        <p>At MUMS we offer Full Abdominal Ultrasound Scan&nbsp;to patients aged 16 and over.</p>
+                        <p>At CGPL we offer Full Abdominal Ultrasound Scan&nbsp;to patients aged 16 and over.</p>
 
-<p>MUMS radiographers, sonographers offer full abdominal ultrasound. This diagnostic is safe, non-invasive and reliable. Bouncing sound waves off your bodies tissues and organs &ndash; our clinicians can see detailed images to examine your full abdominal area to look for the presence of abnormalities. The procedure takes around 30 minutes. Using ultrasound to assess the abdominal area helps clinicians identify prostate conditions before they become serious or unmanageable.&nbsp;Abdominal ultrasound examinates all areas of the abdomen and the organise to include:</p>
+<p>CGPL radiographers, sonographers offer full abdominal ultrasound. This diagnostic is safe, non-invasive and reliable. Bouncing sound waves off your bodies tissues and organs &ndash; our clinicians can see detailed images to examine your full abdominal area to look for the presence of abnormalities. The procedure takes around 30 minutes. Using ultrasound to assess the abdominal area helps clinicians identify prostate conditions before they become serious or unmanageable.&nbsp;Abdominal ultrasound examinates all areas of the abdomen and the organise to include:</p>
 
 <ul>
 	<li>Liver</li>
@@ -426,7 +426,7 @@
 	<li>Bladder</li>
 </ul>
 
-<p>MUMS sonographers and radiographers can evaluate the cause of stomach pain or bloating, check kidney stones, liver disease and tumours and many other conditions. Our Consultant General Surgeon can see you for follow up to discuss any abnormalities found on the scan.</p>
+<p>CGPL sonographers and radiographers can evaluate the cause of stomach pain or bloating, check kidney stones, liver disease and tumours and many other conditions. Our Consultant General Surgeon can see you for follow up to discuss any abnormalities found on the scan.</p>
 
 <p>Your doctor may recommend that you have an abdominal ultrasound if you&#39;re at risk of an abdominal aortic aneurysm.</p>
 
@@ -436,13 +436,13 @@
 
 <p>Our chaperone assistants will provide you with drapes for your dignity. Gel is used to glide the transducer and pictures and measurements of the abdominal area are taken by the clinician.</p>
 
-<p>You will be given a detailed report that you can give to your referring clinician and a copy will be in your MUMS electronic medical record should you wish to consult with the&nbsp;Consultant or Private GP&nbsp;at MUMS.</p>
+<p>You will be given a detailed report that you can give to your referring clinician and a copy will be in your CGPL electronic medical record should you wish to consult with the&nbsp;Consultant or Private GP&nbsp;at CGPL.</p>
 
-<p>There are no waiting times at MUMS. We offer abdominal ultrasound most days of week. The cost of Full Abdominal Ultrasound is &pound;250.00</p>
+<p>There are no waiting times at CGPL. We offer abdominal ultrasound most days of week. The cost of Full Abdominal Ultrasound is &pound;250.00</p>
 
 <p>You can call us on 0121 704 2669 to book or you can make an enquiry on our website. You can even book an pay online.</p>
 
-<p>MUMS has been offering ultrasound for two decades &ndash; offering affordable ultrasound as a diagnostic using the most experienced clinicians.</p>
+<p>CGPL has been offering ultrasound for two decades &ndash; offering affordable ultrasound as a diagnostic using the most experienced clinicians.</p>
                     </div>
 
                 </div>
@@ -528,7 +528,7 @@
     
     <div class="container" style="padding-top: 15px">
 
-      <ul class="nav nav-pills nav-mums-book-online" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills nav-CGPL-book-online" id="pills-tab" role="tablist">
         <li class="nav-item" style="width: 50%">
             <a class="nav-link active" id="pills-booknow-tab" data-toggle="pill" href="#pills-booknow" role="tab" aria-controls="pills-booknow" aria-selected="false">
                 Book &amp; Pay Now
@@ -572,7 +572,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.mums.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -656,13 +656,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -679,9 +679,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -738,9 +738,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -810,5 +810,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/ultrasound/general-ultrasound/full-abdominal-ultrasound-scan by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:59 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/ultrasound/general-ultrasound/full-abdominal-ultrasound-scan by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:59 GMT -->
 </html>

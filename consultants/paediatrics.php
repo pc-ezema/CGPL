@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/consultants/paediatrics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:56 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/consultants/paediatrics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:01:56 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,9 +37,9 @@
     
     <script src="../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/consultants/paediatrics"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/consultants/paediatrics"/>
     <meta property="og:title" content="Private Specialist Consultant Paediatrician in Sheffield  Consultant "/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="paediatrics.php" rel="canonical">
@@ -69,7 +69,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'>Dr Vijay Iyer - Consultant Paediatrician </h3>
-                        <p><img alt="" src="../images/images/Vijay%20Iyer%202.png" style="width: 351px; height: 400px;" />At MUMS&nbsp;our consultant paediatrician offers a wealth of private paediatric services that enable parents rapid access to an expert for their children without the need for a GP Referral.</p>
+                        <p><img alt="" src="../images/images/Vijay%20Iyer%202.png" style="width: 351px; height: 400px;" />At CGPL&nbsp;our consultant paediatrician offers a wealth of private paediatric services that enable parents rapid access to an expert for their children without the need for a GP Referral.</p>
 
 <p>There are no waiting times and making an appointment is easy.</p>
 
@@ -448,7 +448,7 @@
 
 <p>Consultations cost &pound;230.00</p>
 
-<p>To make an enquiry complete the Enquire Now box or call us on 0121 704 2669 or email us&nbsp;<a href="mailto:administrator@mums.me.uk" target="_blank">administrator@mums.me.uk</a></p>
+<p>To make an enquiry complete the Enquire Now box or call us on 0121 704 2669 or email us&nbsp;<a href="mailto:administrator@CGPL.me.uk" target="_blank">administrator@CGPL.me.uk</a></p>
                     </div>
 
                 </div>
@@ -478,7 +478,7 @@
                           
                             <li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="wow fadeInUp" data-wow-delay=".3s">
                                 <div>
-                                  <a>Do I need a copy of my son/daughters NHS Record to see the paediatrician at MUMS?</a>
+                                  <a>Do I need a copy of my son/daughters NHS Record to see the paediatrician at CGPL?</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                   <p >No – you can attend without any information. A full history will be taken and the presenting complaint listened to.</p>
@@ -488,10 +488,10 @@
                           
                             <li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="wow fadeInUp" data-wow-delay=".3s">
                                 <div>
-                                  <a>Will my child be able to have any tests or diagnostics at MUMS?</a>
+                                  <a>Will my child be able to have any tests or diagnostics at CGPL?</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                                  <p >Yes – MUMS offer blood tests and ultrasound scans. We have paediatric phlebotomists and Dr Iyer also takes blood. We have consultants who perform ultrasound on children.</p>
+                                  <p >Yes – CGPL offer blood tests and ultrasound scans. We have paediatric phlebotomists and Dr Iyer also takes blood. We have consultants who perform ultrasound on children.</p>
                                 </div>
                             </li>
 
@@ -521,7 +521,7 @@
                                   <a>Will I be able to use our family health insurance.</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                                  <p >Unfortunately not – MUMS is a self pay clinic.</p>
+                                  <p >Unfortunately not – CGPL is a self pay clinic.</p>
                                 </div>
                             </li>
 
@@ -561,7 +561,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.mums.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -641,13 +641,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -664,9 +664,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -723,9 +723,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -795,5 +795,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/consultants/paediatrics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:02:00 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/consultants/paediatrics by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:02:00 GMT -->
 </html>

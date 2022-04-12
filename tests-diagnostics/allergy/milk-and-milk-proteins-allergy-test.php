@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en-gb">
   
-<!-- Mirrored from www.mums.me.uk/tests-diagnostics/allergy/milk-and-milk-proteins-allergy-test by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:06:26 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/tests-diagnostics/allergy/milk-and-milk-proteins-allergy-test by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:06:26 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -37,9 +37,9 @@
     
     <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/tests-diagnostics/allergy/milk-and-milk-proteins-allergy-test"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/tests-diagnostics/allergy/milk-and-milk-proteins-allergy-test"/>
     <meta property="og:title" content="Milk and Milk Proteins Allergy Test"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="milk-and-milk-proteins-allergy-test.php" rel="canonical">
@@ -69,7 +69,7 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
+    <div class="header-top bg-CGPL-purple">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
@@ -85,9 +85,9 @@
                                     0121 704 2669                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:administrator@mums.me.uk">
+                                  <a class="text-white" href="mailto:administrator@CGPL.me.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    administrator@mums.me.uk                                  </a>
+                                    administrator@CGPL.me.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -99,12 +99,12 @@
                         <div class="header-top-right">
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/mumsclinic.me.uk">
+                                    <a href="https://www.facebook.com/CGPLclinic.me.uk">
                                         <i class="icofont-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/mums_care">
+                                    <a href="https://twitter.com/CGPL_care">
                                         <i class="icofont-twitter"></i>
                                     </a>
                                 </li>
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_Sheffield /">
+                                    <a href="https://www.instagram.com/CGPL_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -385,7 +385,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-7">
-                    <h1 class='text-white'>MUMS Milk and Milk Proteins Allergy Testing</h1>
+                    <h1 class='text-white'>CGPL Milk and Milk Proteins Allergy Testing</h1>
                                         
                                           <a class='btn text-white bg-cta d-sm-inline d-md-none' href='#book_now'>Book Now</a>
                                           
@@ -410,7 +410,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p><img alt="" src="../../images/images/Milk%20Allergy.jpg" style="width: 350px; height: 233px;" />Having an Allergy Test to see if you have a particular food allergy/sensitivity/intolerance at MUMS Sheffield  is easy. We offer simple blood tests but combine a number of different substances together to make a profile to give you a bigger picture of what type of food you may be allergic to or intolerant of.</p>
+                        <p><img alt="" src="../../images/images/Milk%20Allergy.jpg" style="width: 350px; height: 233px;" />Having an Allergy Test to see if you have a particular food allergy/sensitivity/intolerance at CGPL Sheffield  is easy. We offer simple blood tests but combine a number of different substances together to make a profile to give you a bigger picture of what type of food you may be allergic to or intolerant of.</p>
 
 <p>You may choose to have this test within a GP Consultation to discuss your history and symptoms.</p>
 
@@ -453,7 +453,7 @@
 
 <p>Lactose intolerance can be unpleasant and can cause wind and bloating and abdominal discomfort.</p>
 
-<p>If you think your child has an allergy to dairy products book an appointment with one of MUMS Private GPs. A consultation costs &pound;85.00 and this test costs &pound;175.00.</p>
+<p>If you think your child has an allergy to dairy products book an appointment with one of CGPL Private GPs. A consultation costs &pound;85.00 and this test costs &pound;175.00.</p>
 
 <p>There is a huge difference between intolerance and allergy. Milk allergy is an immune condition whereas intolerance is not.</p>
 
@@ -484,7 +484,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="https://www.mums.me.uk/send_request" id="booking_form">
+    <form autocomplete="off" method="post" action="https://www.CGPL.me.uk/send_request" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
@@ -576,13 +576,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
+                        <a href="mailto:administrator@CGPL.me.uk">administrator@CGPL.me.uk</a>                                        
                       </li>
                       <li>
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
@@ -599,9 +599,9 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../../about-mums.php">Read more...</a></p>
+                  <p><a class="text-white" href="../../about-CGPL.php">Read more...</a></p>
                 </div>
               </div>
             </div>
@@ -658,9 +658,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -730,5 +730,5 @@
       
   </body>
 
-<!-- Mirrored from www.mums.me.uk/tests-diagnostics/allergy/milk-and-milk-proteins-allergy-test by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:06:28 GMT -->
+<!-- Mirrored from www.CGPL.me.uk/tests-diagnostics/allergy/milk-and-milk-proteins-allergy-test by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:06:28 GMT -->
 </html>
