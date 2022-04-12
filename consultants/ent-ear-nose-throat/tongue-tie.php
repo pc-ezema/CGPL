@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'>Tongue Tie at MUMS</h3>
-                        <p>At MUMS, we have two experienced ENT consultants who have&nbsp;a wealth of experience dealing with ENT issues, including tongue tie in babies. As our clinic is based in Solihull, we are an ideal location for patients from across the West Midlands.</p>
+                        <p>At MUMS, we have two experienced ENT consultants who have&nbsp;a wealth of experience dealing with ENT issues, including tongue tie in babies. As our clinic is based in Sheffield , we are an ideal location for patients from across the West Midlands.</p>
 
 <p>Our ENT specialists offers baby tongue tie consultations where the baby will be examined to ascertain&nbsp;whether they have a tongue tie or not and can provide tongue tie release surgery if required at the time of the consultation.</p>
 
@@ -623,7 +623,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

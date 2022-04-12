@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -411,13 +411,13 @@
                         
                         
                         <h3 class='mt-4'>Contraception</h3>
-                        <p>MUMS clinic in the heart of Solihull offers a range of specialist services. The contraception service is provided by Dr Jaffer who is a consultant gynaecologist based at University Hospital. &nbsp;She has over 30 years experience in leading the contraceptive services in Birmingham. Her vast knowledge, experience and expertise in contraception is now available to patients at the MUMS clinic.</p>
+                        <p>MUMS clinic in the heart of Sheffield  offers a range of specialist services. The contraception service is provided by Dr Jaffer who is a consultant gynaecologist based at University Hospital. &nbsp;She has over 30 years experience in leading the contraceptive services in Birmingham. Her vast knowledge, experience and expertise in contraception is now available to patients at the MUMS clinic.</p>
 
 <p>Dr Jaffer&rsquo;s appointments are easy to access and do not need a GP referral. The clinic is designed to allow easy, discreet and confidential service when you need it. There is provision to access emergency contraception and urgent telephone consultation with Dr Jaffer from your residence. There are no waiting times as in the NHS. With NHS services coming under such pressure, this service is much valued by the patients.</p>
 
 <p>Dr Jaffer is an expert at insertion and removal of contraceptive coils in complex patients. She has huge experience in insertion and removal of deep-seated implants.</p>
 
-<p>MUMS, in the heart of Solihull &ndash;offers a personalised and bespoke contraceptive clinic to include:</p>
+<p>MUMS, in the heart of Sheffield  &ndash;offers a personalised and bespoke contraceptive clinic to include:</p>
 
 <p><a href="sexual-health/contraception/intra-uterine-contraceptives-iucs-coils.php"><u>Removal and Fitting of Coils</u></a></p>
 
@@ -557,7 +557,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

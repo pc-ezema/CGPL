@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -442,7 +442,7 @@
 
 <p dir="ltr">We provide high quality private GP services at an affordable price. If you&rsquo;re feeling poorly, have a health concern or want a second opinion, you may have a two week wait to see your own GP. We offer same day, rapid access, convenience all at an alternative and affordable price.</p>
 
-<p>We&rsquo;re situated in the heart of Solihull on Park Avenue and open&nbsp; weekdays between 8.30am &ndash; 6.00pm.</p>
+<p>We&rsquo;re situated in the heart of Sheffield  on Park Avenue and open&nbsp; weekdays between 8.30am &ndash; 6.00pm.</p>
 
 <p>&nbsp;</p>
                     </div>
@@ -710,7 +710,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

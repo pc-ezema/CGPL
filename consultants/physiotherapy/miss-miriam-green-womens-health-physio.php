@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -427,7 +427,7 @@
 
 <p>Miriam has developed extensive specialist knowledge in the assessment and treatment of ladies with a variety of gynaecological conditions in different stages of life through post graduate training within the NHS and independently through the Pelvic, Obstetric and Gynaecological Physiotherapy society (POGP). She has treated a wide range of Pelvic Health conditions alongside and in conjunction with musculoskeletal conditions in South Warwickshire NHS trust, UHB NHS trust, North Bristol NHS trust and in private practice.</p>
 
-<p>Miriam offers the following services at MUMS Solihull:</p>
+<p>Miriam offers the following services at MUMS Sheffield :</p>
 
 <p>Assessment and treatment of:</p>
 
@@ -558,7 +558,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

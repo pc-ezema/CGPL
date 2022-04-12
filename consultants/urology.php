@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -415,7 +415,7 @@
 
 <p dir="ltr">Each year, the NHS conducts more than&nbsp;435,000&nbsp;urology procedures to treat illnesses and diseases of the kidneys, ureter, bladder, prostate, and male reproductive organs. While effective, NHS treatment comes hand-in-hand with long waiting times that could ultimately cause conditions to intensify &ndash; especially with the effects of Covid 19.</p>
 
-<p dir="ltr">Here at MUMs, our Consultant Urologist offers urology consultations &ndash; here in Solihull, Birmingham - that ensure Urology health conditions can be detected and treated within a short period.</p>
+<p dir="ltr">Here at MUMs, our Consultant Urologist offers urology consultations &ndash; here in Sheffield , Birmingham - that ensure Urology health conditions can be detected and treated within a short period.</p>
 
 <p dir="ltr">If you have attempted to secure an appointment via the NHS to get to the bottom of an underlying urologic illness, we welcome you to book&nbsp;a private urology appointment at our clinic.</p>
 
@@ -443,7 +443,7 @@
 
 <p dir="ltr">He started Neobladder reconstruction following radical cystectomy in 2005. Since 2009, he has made advances in continuous anastomosis after open radical prostatectomy improving continence. Simultaneous use of modified TAB blocks means that over 90% of patients who undergo prostatectomy can be discharged within two days.&nbsp;</p>
 
-<p dir="ltr">Mr Sarmah is dedicated to informing both clinicians and the public of the latest treatments for bladder and prostate cancer and regularly offers talks and seminars within the hospital setting and the community. He has been a regular speaker at the Solihull Prostate cancer support group.</p>
+<p dir="ltr">Mr Sarmah is dedicated to informing both clinicians and the public of the latest treatments for bladder and prostate cancer and regularly offers talks and seminars within the hospital setting and the community. He has been a regular speaker at the Sheffield  Prostate cancer support group.</p>
 
 <p dir="ltr">Contact Us For A Private Urology Appointment</p>
 
@@ -615,7 +615,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

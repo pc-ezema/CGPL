@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -428,7 +428,7 @@
 
 <p>MUMS Also offers an accelerated course.</p>
 
-<p>The accelerated course consists of&nbsp;three doses prior to travel&nbsp;and a fourth dose 12 months later to fully complete the course. The second dose is given one week after the first dose and the third dose is given two weeks after the second dose. A fourth dose can be administered 12 months later for full protection. Hep A and Hep B Immunity tests are available at MUMS Solihull to check your immunity levels.</p>
+<p>The accelerated course consists of&nbsp;three doses prior to travel&nbsp;and a fourth dose 12 months later to fully complete the course. The second dose is given one week after the first dose and the third dose is given two weeks after the second dose. A fourth dose can be administered 12 months later for full protection. Hep A and Hep B Immunity tests are available at MUMS Sheffield  to check your immunity levels.</p>
 
 <p>Once you have completed the full course you will be protected against hep A for 25 years and against hep B for 5 years.</p>
 
@@ -565,7 +565,7 @@ If you remain at risk of either disease after your protection runs out you may n
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

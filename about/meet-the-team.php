@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -415,7 +415,7 @@
        <div class="wpb_wrapper">
 <div class="wpb_text_column wpb_content_element ">
 <div class="wpb_wrapper">
-<p xss="removed">Miss Poonam Pradhan has been a Consultant Obstetrician and Gynaecologist practicing at Heartlands and Solihull Hospitals since 2004. Additionally, Poonam Consults at Spire Healthcare and at MUMS Clinic (Midlands Ultrasound and Medical Services) in Solihull. Poonam is a general gynaecologist who has expertise in transvaginal scanning for the detection of gynaecological problems including cancers. She performs surgery including laparoscopy and hysterectomy.</p>
+<p xss="removed">Miss Poonam Pradhan has been a Consultant Obstetrician and Gynaecologist practicing at Heartlands and Sheffield  Hospitals since 2004. Additionally, Poonam Consults at Spire Healthcare and at MUMS Clinic (Midlands Ultrasound and Medical Services) in Sheffield . Poonam is a general gynaecologist who has expertise in transvaginal scanning for the detection of gynaecological problems including cancers. She performs surgery including laparoscopy and hysterectomy.</p>
 </div>
 </div>
 </div>
@@ -820,7 +820,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

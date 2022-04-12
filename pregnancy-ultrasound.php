@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -408,7 +408,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>MUMS (Midlands Ultrasound and Medical Services)&nbsp;in Solihull has provided private antenatal care to women for over 18&nbsp;years. This is provided by Mr Anoop Rehal and his team including consultants and midwives.</p>
+                        <p>MUMS (Midlands Ultrasound and Medical Services)&nbsp;in Sheffield  has provided private antenatal care to women for over 18&nbsp;years. This is provided by Mr Anoop Rehal and his team including consultants and midwives.</p>
 
 <p>Anoop is the lead consultant for labour ward at Good Hope Hospital. He is also the lead clinician for multiple pregnancy. His special interests include high-risk obstetrics, multiple pregnancy, and managing medical disorders in pregnancy.</p>
 
@@ -458,7 +458,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

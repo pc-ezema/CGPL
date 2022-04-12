@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -424,7 +424,7 @@
 
 <p>The NHS offers a MenB vaccination as part of the routine childhood immunisations programme in the UK. Vaccinations are given to babies at the ages of two, four and 12 months. Vaccinating babies helps protect them when they&rsquo;re most at risk.&nbsp;</p>
 
-<p>Meningitis B was added to the programme in 2015, for babies born on or after 1 July 2015. Those children and adults who fall outside of the NHS age range can consider having the vaccination privately at MUMS Solihull.</p>
+<p>Meningitis B was added to the programme in 2015, for babies born on or after 1 July 2015. Those children and adults who fall outside of the NHS age range can consider having the vaccination privately at MUMS Sheffield .</p>
 
 <p>Meningitis can affect anybody.&nbsp;It&rsquo;s most common in children, teenagers and young adults aged between 15 and 24.&nbsp;That&rsquo;s because these groups tend to socialise more at school and universities, which leads to the spreading of bacteria. Outbreaks can happen at any time though and to anybody. Around 20 percent of reported MenB cases are in people aged 45 and over.</p>
 
@@ -560,7 +560,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

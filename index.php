@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -404,7 +404,7 @@
   <div class="container">
       <div class="row align-items-center">
           <div class="col-lg-12">            
-            <p>MUMS is a specialist Consultant-led medical practice based in Solihull, West Midlands offering a number of medical services. The Consultants and GPs at MUMS are proud to offer the highest standard of patient-centred healthcare.</p>
+            <p>MUMS is a specialist Consultant-led medical practice based in Sheffield , West Midlands offering a number of medical services. The Consultants and GPs at MUMS are proud to offer the highest standard of patient-centred healthcare.</p>
 
 <p>We offer a comprehensive range of ultrasound pregnancy scans and birth options, so whether you choose to have just one scan or our full private care and delivery package, you will be guaranteed to receive one-to-one care and understanding.</p>
           </div>
@@ -599,11 +599,11 @@
             <h2 class="mb-4 font-w300 text-purple">About Us and Our Ethos</h2>
             <p>The ethos at MUMS is to provide the best possible support for informed choice and treatment for you and your family including your unborn baby&rsquo;s health, located in a professional and comfortable setting.</p>
 
-<p>Midlands Ultrasound and Medical Services is an established Specialist Consultant-led medical practice based in Solihull, West Midlands with highly qualified and experienced dedicated staff. MUMS Clinic was established in 2003 and is owned by Miss Poonam Pradhan, Consultant Gynaecologist &amp; Obstetrician and is the only private practice offering complete pregnancy or obstetric care at Consultant level in the entire Midlands area. Miss Poonam Pradhan offers a holistic approach and is supported by a team of Specialist Consultants and GPs.</p>
+<p>Midlands Ultrasound and Medical Services is an established Specialist Consultant-led medical practice based in Sheffield , West Midlands with highly qualified and experienced dedicated staff. MUMS Clinic was established in 2003 and is owned by Miss Poonam Pradhan, Consultant Gynaecologist &amp; Obstetrician and is the only private practice offering complete pregnancy or obstetric care at Consultant level in the entire Midlands area. Miss Poonam Pradhan offers a holistic approach and is supported by a team of Specialist Consultants and GPs.</p>
 
 <p>MUMS has always prided itself in not only being at the forefront of technological development in ultrasound but also for the psychological support when entering the realms of screening or diagnostic testing.</p>
 
-<p>Our Solihull Practice provides a bespoke atmosphere of warmth and professionalism combined with privacy to make you feel relaxed and supported.</p>
+<p>Our Sheffield  Practice provides a bespoke atmosphere of warmth and professionalism combined with privacy to make you feel relaxed and supported.</p>
           </div>
       </div>
   </div>
@@ -645,7 +645,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

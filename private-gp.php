@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -441,7 +441,7 @@
 
 <h2 dir="ltr">What Are The Benefits Of Using A Private GP?</h2>
 
-<p dir="ltr">Unlike regular NHS GPs, private GPs can administer a wide range of tests and provide same-day diagnostics.&nbsp; Not only does this negate the requirement for follow-up appointments, it also ensures that you are able to obtain the treatment you may need for a health problem instantly. Furthermore, at our Solihull clinic, our private GPs can offer immediate appointments.&nbsp; Rather than waiting between two and three weeks to see your local GP, you will never be made to wait for more than 24-hours for a private GP consultation.</p>
+<p dir="ltr">Unlike regular NHS GPs, private GPs can administer a wide range of tests and provide same-day diagnostics.&nbsp; Not only does this negate the requirement for follow-up appointments, it also ensures that you are able to obtain the treatment you may need for a health problem instantly. Furthermore, at our Sheffield  clinic, our private GPs can offer immediate appointments.&nbsp; Rather than waiting between two and three weeks to see your local GP, you will never be made to wait for more than 24-hours for a private GP consultation.</p>
 
 <p dir="ltr">To put it simply, private GPs can offer more time than regular GPs.&nbsp; On average, the British population spend<a href="https://pharmaceutical-journal.com/article/news/uk-has-shortest-gp-consultations-in-europe-study-finds#:~:text=The%20UK%20has%20the%20shortest,their%20GP%20during%20an%20appointment."> nine minutes</a> with an NHS doctor.&nbsp; Sadly, this does not provide sufficient time to test and diagnose many health conditions effectively.&nbsp; In contrast, private GP consultations last for at least 30 minutes, allowing the time for a comprehensive review of your condition and symptoms.<br />
 &nbsp;</p>
@@ -458,7 +458,7 @@
 
 <p dir="ltr">We provide high quality private GP services at an affordable price. If you&rsquo;re feeling poorly, have a health concern or want a second opinion, you may have a two week wait to see your own GP. We offer same day, rapid access, convenience all at an alternative and affordable price.</p>
 
-<p dir="ltr">We&rsquo;re situated on Park Avenue in Solihull town centre &ndash; we are open 6 days per week. <a href="contact-us.php">Contact us</a> now.</p>
+<p dir="ltr">We&rsquo;re situated on Park Avenue in Sheffield  town centre &ndash; we are open 6 days per week. <a href="contact-us.php">Contact us</a> now.</p>
 
 <p>&nbsp;</p>
                         
@@ -514,7 +514,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -410,7 +410,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p><img alt="" src="../../images/images/Allergy%20Testing.jpg" style="width: 350px; height: 233px;" />Having an Allergy Test at MUMS Solihull is easy. We offer simple blood tests but combine a number of foods/grasses/fish and animal and environmental products to offer a Children&rsquo;s Allergy Profile which is a value for money allergy blood test.</p>
+                        <p><img alt="" src="../../images/images/Allergy%20Testing.jpg" style="width: 350px; height: 233px;" />Having an Allergy Test at MUMS Sheffield  is easy. We offer simple blood tests but combine a number of foods/grasses/fish and animal and environmental products to offer a Children&rsquo;s Allergy Profile which is a value for money allergy blood test.</p>
 
 <p>For children under 16 years old you will need to book in with our specialist consultant paediatrician for a consultation and allergy testing. The cost of a consultation with the paediatrician is &pound;230.00 plus the cost of the test.</p>
 
@@ -560,7 +560,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -410,7 +410,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p><img alt="" src="../../images/images/Nuts%20and%20Seeds.jpg" style="width: 350px; height: 233px;" />Having an Allergy Test to see if you have a Nut and Seeds Allergy at MUMS Solihull is easy. We offer simple blood tests but combine a number of different Nuts and Seeds together to make a profile to give you a bigger picture of what type of nut or seed you are allergic to or intolerant of.</p>
+                        <p><img alt="" src="../../images/images/Nuts%20and%20Seeds.jpg" style="width: 350px; height: 233px;" />Having an Allergy Test to see if you have a Nut and Seeds Allergy at MUMS Sheffield  is easy. We offer simple blood tests but combine a number of different Nuts and Seeds together to make a profile to give you a bigger picture of what type of nut or seed you are allergic to or intolerant of.</p>
 
 <p>You may choose to have this test within a GP Consultation to discuss your history and symptoms.</p>
 
@@ -584,7 +584,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

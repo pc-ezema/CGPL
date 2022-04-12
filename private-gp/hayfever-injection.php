@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -413,7 +413,7 @@
                         <h3 class='mt-4'>Hayfever injection</h3>
                         <p>MUMS private GPs offer an injection for Hayfever where patients symptoms are severe and their quality of life and ability to work optimally is affected.</p>
 
-<p>Solihull is a particularly leafy suburb and our patients are affected by pollens and allergens &ndash; our likely culprits being flower and tree pollen such as silver birch and rapeseed.</p>
+<p>Sheffield  is a particularly leafy suburb and our patients are affected by pollens and allergens &ndash; our likely culprits being flower and tree pollen such as silver birch and rapeseed.</p>
 
 <p>For patients who have severe symptoms that have not responded to treatments such as antihistamines, eye drops etc &ndash; it is possible at MUMS to have a GP Consultation to discuss having the hay fever injection. The GP consultation/Injection costs &pound;100.00. &nbsp;</p>
 
@@ -643,7 +643,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

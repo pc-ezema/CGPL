@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Ultrasound | Private Medical Scans - MUMS</title>
+    <title>Ultrasound | Private Medical Scans - CGPL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -37,9 +37,9 @@
     
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
-    <meta property="og:url" content="https://www.mums.me.uk/ultrasound"/>
-    <meta property="og:title" content="Ultrasound | Private Medical Scans - MUMS"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:url" content="https://www.CGPL.me.uk/ultrasound"/>
+    <meta property="og:title" content="Ultrasound | Private Medical Scans - CGPL"/>
+    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="ultrasound.php" rel="canonical">
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -140,7 +140,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="index.php" class="logo">
-          <img src="images/logo/mums-logo-inverted.png" alt="MUMS Logo">
+          <img src="images/logo/mums-logo-inverted.png" alt="CGPL Logo">
         </a>
       </div>
 
@@ -149,7 +149,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index.php">
-                      <img src="images/logo/mums-logo.jpg" alt="MUMS Logo">
+                      <img src="images/logo/mums-logo.jpg" alt="CGPL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -407,17 +407,17 @@
                 <div class="doctor-details-right">
                     <div class="doctor-details-biography">
                         <h3 class='mt-4'>Medical Ultrasound Scans For Your Health</h3>
-                        <p>Are you hoping to arrange a private ultrasound to get to the bottom of new symptoms that have you recently come to experience?&nbsp; Or do you want to arrange an early pregnancy scan? Irrespective of your reasons for requiring an ultrasound, here at MUMs, we welcome you to book a private ultrasound with us today.</p>
+                        <p>Are you hoping to arrange a private ultrasound to get to the bottom of new symptoms that have you recently come to experience?&nbsp; Or do you want to arrange an early pregnancy scan? Irrespective of your reasons for requiring an ultrasound, here at CGPL, we welcome you to book a private ultrasound with us today.</p>
 
 <h2 dir="ltr">What Are Private Ultrasounds?</h2>
 
-<p dir="ltr">Ultrasound imaging (sonography) is a non-invasive technique used to take pictures of your internal organs in order to help diagnose the symptoms you have been experiencing. Ultrasound is a safe way to obtain images of your internal organs. There are no waiting times at MUMS Solihull for an Ultrasound Scan. Unlike ultrasounds often provided by the NHS, private ultrasounds offer rapid access to images and same-day results. We perform <a href="ultrasound/follicle-tracking-scan.php">fertility</a>, <a href="ultrasound/gynaecology-ultrasound.php">gynaecological</a> and <a href="ultrasound/echocardiogram.php">cardiology</a> scans and many other ultrasound scans such as liver, gall bladder, abdominal scans.</p>
+<p dir="ltr">Ultrasound imaging (sonography) is a non-invasive technique used to take pictures of your internal organs in order to help diagnose the symptoms you have been experiencing. Ultrasound is a safe way to obtain images of your internal organs. There are no waiting times at CGPL Sheffield  for an Ultrasound Scan. Unlike ultrasounds often provided by the NHS, private ultrasounds offer rapid access to images and same-day results. We perform <a href="ultrasound/follicle-tracking-scan.php">fertility</a>, <a href="ultrasound/gynaecology-ultrasound.php">gynaecological</a> and <a href="ultrasound/echocardiogram.php">cardiology</a> scans and many other ultrasound scans such as liver, gall bladder, abdominal scans.</p>
 
 <p dir="ltr">&nbsp;</p>
 
-<h2 dir="ltr">What Ultrasound Services Are Offered By MUMS?</h2>
+<h2 dir="ltr">What Ultrasound Services Are Offered By CGPL?</h2>
 
-<p dir="ltr">Whether you are hoping to book an early pregnancy scan, require an abdominal ultrasound to ensure that an underlying health issue can be diagnosed, or wish to book a private ultrasound to investigate infertility or assist your fertility cycle, here at MUMs, we offer a wealth of ultrasound services. Performed by highly qualified consultants, the private ultrasounds available at our Solihull facility include, but are not limited to, the following.&nbsp;</p>
+<p dir="ltr">Whether you are hoping to book an early pregnancy scan, require an abdominal ultrasound to ensure that an underlying health issue can be diagnosed, or wish to book a private ultrasound to investigate infertility or assist your fertility cycle, here at CGPL, we offer a wealth of ultrasound services. Performed by highly qualified consultants, the private ultrasounds available at our Sheffield  facility include, but are not limited to, the following.&nbsp;</p>
 
 <ul dir="ltr">
 	<li><a href="pregnancy-ultrasound/antenatal-scans.php">Obstetric ultrasounds</a></li>
@@ -437,7 +437,7 @@
 
 <h2 dir="ltr">Why Take Advantage Of Private Ultrasounds?</h2>
 
-<p dir="ltr">Private ultrasounds have seen a surge in demand in recent years due to excessive NHS waiting times.&nbsp; Although the NHS continues to provide a vital lifesaving service, many benefits come hand-in-hand with our private ultrasounds. For example, when you book a private ultrasound with MUMS, you will find that waiting times are non-existent.&nbsp; Instead, you will be able to arrange an ultrasound within a relatively short period.</p>
+<p dir="ltr">Private ultrasounds have seen a surge in demand in recent years due to excessive NHS waiting times.&nbsp; Although the NHS continues to provide a vital lifesaving service, many benefits come hand-in-hand with our private ultrasounds. For example, when you book a private ultrasound with CGPL, you will find that waiting times are non-existent.&nbsp; Instead, you will be able to arrange an ultrasound within a relatively short period.</p>
 
 <p dir="ltr">&nbsp;In addition, our private ultrasounds are conducted by medical professionals such as <a href="consultants.php">consultants</a>.&nbsp; This means that irrespective of the ultrasound you require, you will receive a quick diagnosis.&nbsp; Not only does this alleviate any worries that often arise in the hours and days following an ultrasound, but it guarantees that you can take appropriate actions, such as securing treatment, almost immediately.&nbsp;&nbsp;&nbsp;</p>
 
@@ -445,7 +445,7 @@
 
 <h2 dir="ltr">Who Are Our Private Ultrasounds For?</h2>
 
-<p dir="ltr">Here at MUMs, our private ultrasounds are available for individuals from all walks of life to take advantage of. Whether you have recently come to experience worrying symptoms and do not want to wait for an NHS appointment to become available, would prefer to pay for a same-day healthcare service, or have private healthcare insurance, we welcome you to book a private ultrasound with us today.</p>
+<p dir="ltr">Here at CGPL, our private ultrasounds are available for individuals from all walks of life to take advantage of. Whether you have recently come to experience worrying symptoms and do not want to wait for an NHS appointment to become available, would prefer to pay for a same-day healthcare service, or have private healthcare insurance, we welcome you to book a private ultrasound with us today.</p>
 
 <p dir="ltr">&nbsp;</p>
 
@@ -613,7 +613,7 @@
                   <div class="col-sm-12 col-lg-6 mb-4">
                     <div class="text-center">
                       <h5 class="h6 text-purple">General Ultrasound</h5>
-                      <p>MUMS offer a range of ultrasound services</p>
+                      <p>CGPL offer a range of ultrasound services</p>
                       <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="ultrasound/general-ultrasound.php">Read More</a>
                     </div>
                   </div>
@@ -631,7 +631,7 @@
                   <div class="col-sm-12 col-lg-6 mb-4">
                     <div class="text-center">
                       <h5 class="h6 text-purple">Musculoskeletal (MSK) Ultrasound Scans</h5>
-                      <p>See an MSK specialist at MUMS</p>
+                      <p>See an MSK specialist at CGPL</p>
                       <a style="display: inline-block; border: 1px solid #873273; color: #873273; background-color: #ffffff;padding: 6px 8px;" class="small" href="ultrasound/musculoskeletal-msk-scans.php">Read More</a>
                     </div>
                   </div>
@@ -648,7 +648,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="images/logo/mums-logo-inverted.png" style="width: 75%" alt="MUMS Logo" />
+              <img src="images/logo/mums-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -660,7 +660,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>
@@ -671,7 +671,7 @@
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About MUMS</h3>
+                  <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="about-mums.php">Read more...</a></p>
                 </div>
@@ -730,9 +730,9 @@
 </footer> 
 
 
-  <div class="mums_cookie_banner">
+  <div class="CGPL_cookie_banner">
     <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
+        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
     </div>
   </div>
 
@@ -801,6 +801,4 @@
     
       
   </body>
-
-<!-- Mirrored from www.mums.me.uk/ultrasound by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 19:57:53 GMT -->
 </html>

@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -415,7 +415,7 @@
 
 <p>Unfortunately, NHS waiting times for these procedures can be long and just add to your worry and anxiety.</p>
 
-<p>We offer a range of specific pathology tests at our&nbsp;Solihull clinic, that can take place quickly with results and reports returned promptly.</p>
+<p>We offer a range of specific pathology tests at our&nbsp;Sheffield  clinic, that can take place quickly with results and reports returned promptly.</p>
 
 <p>There is no need to get a referral from your NHS GP.</p>
 
@@ -935,7 +935,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

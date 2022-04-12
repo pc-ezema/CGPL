@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -415,7 +415,7 @@
 <p><img alt="" src="../images/images/dr-swati-more.jpg" style="margin: 5px; float: left;" /></p>
 
 <p>Dr Swati More, Consultant Obstetrician and Fertility specialist, is available to see patients at MUMS.<br />
-Dr More works as a Consultant in Obstetrics &amp; Fertility at Heartlands and Solihull Hospitals - University Hospitals Birmingham. She is trained in India and the UK and has done Fertility fellowship at Homerton Hospital, London. She is a member of British Fertility Society.</p>
+Dr More works as a Consultant in Obstetrics &amp; Fertility at Heartlands and Sheffield  Hospitals - University Hospitals Birmingham. She is trained in India and the UK and has done Fertility fellowship at Homerton Hospital, London. She is a member of British Fertility Society.</p>
 
 <p><br />
 Dr More is also trained in psychosexual counselling and had done Diploma of Institute of Psychosexual Medicine.<br />
@@ -625,7 +625,7 @@ During your scan we will explain the findings to you and a detailed report will 
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

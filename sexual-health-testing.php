@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -473,7 +473,7 @@
 
 <h2 dir="ltr">Why might someone consult a sexual health service?</h2>
 
-<p dir="ltr">At our sexual health clinic in Solihull, we treat all kinds of people for a wide variety of reasons. If you&rsquo;ve had unprotected sex or have particular concerns about your sexual health, then private STI testing can put your mind at rest. Even if you suspect your concerns are unwarranted it can still be helpful to visit a clinic for peace of mind.</p>
+<p dir="ltr">At our sexual health clinic in Sheffield , we treat all kinds of people for a wide variety of reasons. If you&rsquo;ve had unprotected sex or have particular concerns about your sexual health, then private STI testing can put your mind at rest. Even if you suspect your concerns are unwarranted it can still be helpful to visit a clinic for peace of mind.</p>
 
 <h2 dir="ltr">What type of people use sexual health services?</h2>
 
@@ -594,7 +594,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

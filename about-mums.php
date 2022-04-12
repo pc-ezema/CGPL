@@ -113,7 +113,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -399,7 +399,7 @@
   <div class="container">
     <div class='row mt-4 cms_content'>
        <div class='col-lg-12'>
-        <p>MUMS is an established specialist consultant-led practice based in Solihull, West Midlands. We provide our patients the best possible care at every stage of their journey through life.</p>
+        <p>MUMS is an established specialist consultant-led practice based in Sheffield , West Midlands. We provide our patients the best possible care at every stage of their journey through life.</p>
 
 <p>We offer a caring and bespoke service to suit the needs of our local community.</p>
 
@@ -432,7 +432,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'>Specialist Orthopaedic Consultation</h3>
-                        <p><img alt="" src="../images/images/Akash%20Sharma.jpg" style="width: 286px; height: 400px;" />Mr Akash Sharma is a Consultant Orthopaedic Knee Surgeon who is available to see patients here at MUMS (Midlands Ultrasound and Medical Services), in Solihull. He specialises in seeing patients with knee injuries or any condition that leads to painful symptomatic knee conditions, such as osteoarthritis.&nbsp;&nbsp;</p>
+                        <p><img alt="" src="../images/images/Akash%20Sharma.jpg" style="width: 286px; height: 400px;" />Mr Akash Sharma is a Consultant Orthopaedic Knee Surgeon who is available to see patients here at MUMS (Midlands Ultrasound and Medical Services), in Sheffield . He specialises in seeing patients with knee injuries or any condition that leads to painful symptomatic knee conditions, such as osteoarthritis.&nbsp;&nbsp;</p>
 
 <p>Mr Sharma qualified with a Distinction in Clinical Practice from St. Georges Hospital Medical School, London in 2007 and undertook his Basic Surgical Training in London and Oxford. He&nbsp;went on to complete his higher surgical training in the West Midlands on the Birmingham Rotation and obtained his FRCS (Trauma and Orthopaedics) in 2016. Mr Sharma completed his advanced knee fellowships at both the highly competitive internationally recognised Nuffield Orthopaedic Centre in Oxford and Nottingham University Hospitals. He currently works as a Consultant Orthopaedic Knee Surgeon at the Royal Orthopaedic Hospital in Birmingham which is recognised as a leading and internationally renowned specialist orthopaedic centre.</p>
 
@@ -433,7 +433,7 @@
 	<li>Surgical management</li>
 </ul>
 
-<p>However, please note you may require further diagnostic imaging which includes X-rays, MRI and Ultrasound.&nbsp; At MUMS in Solihull, we are able to offer rapid access for these investigations.&nbsp;</p>
+<p>However, please note you may require further diagnostic imaging which includes X-rays, MRI and Ultrasound.&nbsp; At MUMS in Sheffield , we are able to offer rapid access for these investigations.&nbsp;</p>
 
 <p>Mr Sharma also offers a wide variety of pain relieving injections including Orthobiologics.</p>
 
@@ -572,7 +572,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

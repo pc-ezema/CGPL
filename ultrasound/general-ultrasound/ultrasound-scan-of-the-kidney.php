@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Private Kidney Ultrasound Scan | MUMS Private GP Solihull</title>
+    <title>Private Kidney Ultrasound Scan | MUMS Private GP Sheffield </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,7 +38,7 @@
     <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
     
     <meta property="og:url" content="https://www.mums.me.uk/ultrasound/general-ultrasound/ultrasound-scan-of-the-kidney"/>
-    <meta property="og:title" content="Private Kidney Ultrasound Scan | MUMS Private GP Solihull"/>
+    <meta property="og:title" content="Private Kidney Ultrasound Scan | MUMS Private GP Sheffield "/>
     <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -641,7 +641,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>

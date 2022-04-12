@@ -114,7 +114,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/mums_solihull/">
+                                    <a href="https://www.instagram.com/mums_Sheffield /">
                                         <i class="icofont-instagram"></i>
                                     </a>
                                 </li>
@@ -409,7 +409,7 @@
                         <h3 class='mt-4'>Diagnostics and Testing</h3>
                         <p>Have you recently started to feel unwell?&nbsp; Are you due a routine test or check-up?&nbsp; Or would you like to be tested for hereditary health problems? At MUMs, we can assist you. Providing a wide range of tests, we can diagnose and identify many health problems by conducting simple blood tests.</p>
 
-<p dir="ltr">Blood testing is one of the quickest, easiest, and least invasive methods to identify any issues or diagnose a number of health problems &ndash; from an infection to screening for a genetic condition or cancer. Our laboratory offers over 1000 tests. If you simply want peace of mind then we offer a fully confidential and independent from the NHS, CQC compliant services in the heart of Birmingham - Solihull. We offer rapid access and quick turnaround times for:</p>
+<p dir="ltr">Blood testing is one of the quickest, easiest, and least invasive methods to identify any issues or diagnose a number of health problems &ndash; from an infection to screening for a genetic condition or cancer. Our laboratory offers over 1000 tests. If you simply want peace of mind then we offer a fully confidential and independent from the NHS, CQC compliant services in the heart of Birmingham - Sheffield . We offer rapid access and quick turnaround times for:</p>
 
 <ul dir="ltr">
 	<li><a href="tests-diagnostics/allergy.php">Allergy testing</a></li>
@@ -446,7 +446,7 @@
 
 <h2 dir="ltr">Who Are Our Private Tests and Diagnostics Suitable For?</h2>
 
-<p dir="ltr">To reiterate, here at MUMs, we welcome absolutely anyone to book a private test and diagnostics at our clinic in Solihull. Our services are suitable for anyone who:</p>
+<p dir="ltr">To reiterate, here at MUMs, we welcome absolutely anyone to book a private test and diagnostics at our clinic in Sheffield . Our services are suitable for anyone who:</p>
 
 <ul dir="ltr">
 	<li>Has or doesn&#39;t have have private healthcare</li>
@@ -681,7 +681,7 @@
                         <a href="tel:0121 704 2669">0121 704 2669</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Solihull, West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
                       </li>
                     </ul>
                 </div>
