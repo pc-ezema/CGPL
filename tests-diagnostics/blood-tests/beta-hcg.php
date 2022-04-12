@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.mums.me.uk/tests-diagnostics/blood-tests/beta-hcg"/>
     <meta property="og:title" content="Beta HCG"/>
-    <meta property="og:site_name" content="MUMS | Midland Ultrasound and Medical Services"/>
+    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="beta-hcg.php" rel="canonical">
@@ -635,7 +635,7 @@ This test is for women who would like an early test to check if they are pregnan
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Midland Ultrasound and Medical Services | Company number: 04844920</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 04844920</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

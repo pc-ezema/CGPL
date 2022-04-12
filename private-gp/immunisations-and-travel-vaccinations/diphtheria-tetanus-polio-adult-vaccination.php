@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.mums.me.uk/private-gp/immunisations-and-travel-vaccinations/diphtheria-tetanus-polio-adult-vaccination"/>
     <meta property="og:title" content="Diphtheria, Tetanus & Polio Adult Vaccination"/>
-    <meta property="og:site_name" content="MUMS | Midland Ultrasound and Medical Services"/>
+    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="diphtheria-tetanus-polio-adult-vaccination.php" rel="canonical">
@@ -625,7 +625,7 @@
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Midland Ultrasound and Medical Services | Company number: 04844920</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 04844920</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

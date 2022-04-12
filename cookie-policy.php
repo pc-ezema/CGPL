@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.mums.me.uk/cookie-policy"/>
     <meta property="og:title" content="Cookie Policy - MUMS Private Healthcase Specialist"/>
-    <meta property="og:site_name" content="MUMS | Midland Ultrasound and Medical Services"/>
+    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="cookie-policy.php" rel="canonical">
@@ -399,7 +399,7 @@
 <div class="container">
   <div class='row mt-4'>
      <div class='col-lg-12'>
-      <p>Midland Ultrasound and Medical Services (MUMS) (&ldquo;we&rdquo; or &ldquo;us&rdquo; or &ldquo;our&rdquo;) may use cookies, web beacons, tracking pixels, and other tracking technologies when you visit our website mums.me.uk, including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the &ldquo;Site&rdquo;) to help customize the Site and improve your experience.</p>
+      <p>Confortcare Group of Partnership Limited (MUMS) (&ldquo;we&rdquo; or &ldquo;us&rdquo; or &ldquo;our&rdquo;) may use cookies, web beacons, tracking pixels, and other tracking technologies when you visit our website mums.me.uk, including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the &ldquo;Site&rdquo;) to help customize the Site and improve your experience.</p>
 
 <p>We reserve the right to make changes to this Cookie Policy at any time and for any reason. We will alert you about any changes by updating the &ldquo;Last Updated&rdquo; date of this Cookie Policy. Any changes or modifications will be effective immediately upon posting the updated Cookie Policy on the Site, and you waive the right to receive specific notice of each such change or modification.</p>
 
@@ -609,7 +609,7 @@
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Midland Ultrasound and Medical Services | Company number: 04844920</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 04844920</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

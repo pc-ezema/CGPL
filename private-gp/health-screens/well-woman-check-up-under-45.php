@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.mums.me.uk/private-gp/health-screens/well-woman-check-up-under-45"/>
     <meta property="og:title" content="Private Health Screen - Well Woman Check-Up (Under 45) - MUMS"/>
-    <meta property="og:site_name" content="MUMS | Midland Ultrasound and Medical Services"/>
+    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="well-woman-check-up-under-45.php" rel="canonical">
@@ -810,7 +810,7 @@ A copy of your results will also be emailed to you along with your health screen
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Midland Ultrasound and Medical Services | Company number: 04844920</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 04844920</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">
