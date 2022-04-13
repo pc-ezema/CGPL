@@ -64,6 +64,10 @@ This files table contents are outlined below>>>>>
     padding: 5px;
     font-weight: bold
 }  
+
+.success-messages {
+  display: none;
+}
     
 .flash_failure {
     margin-top: 10px;
@@ -225,7 +229,7 @@ button:focus {
   list-style-type: none;
   font-weight: 500;
   font-size: 14px;
-  color: #4a6f8a;
+  color: #000;
   margin-right: 25px;
 }
 
@@ -243,7 +247,7 @@ button:focus {
 
 .header-top-item .header-top-left ul li a {
   display: inline-block;
-  color: #4a6f8a;
+  color: #000;
 }
 
 .header-top-item .header-top-left ul li a:hover {
@@ -345,7 +349,7 @@ button:focus {
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
-  color: #4a6f8a;
+  color: #000;
   font-size: 15px;
 }
 
@@ -364,7 +368,7 @@ button:focus {
 .main-nav nav .navbar-nav .nav-item a {
   font-weight: 400;
   font-size: 15px;
-  color: #4a6f8a;
+  color: #000;
   text-transform: capitalize;
 }
 
@@ -1313,7 +1317,7 @@ button:focus {
 
 .doctor-item .doctor-bottom span {
   display: block;
-  color: #4a6f8a;
+  color: #000;
   font-size: 15px;
 }
 
@@ -1556,9 +1560,6 @@ button:focus {
 .bg-mums-purple {
     background-color: #0a98d5 
 }
-
-
-
 
 
 /*-- End Newsletter --*/
@@ -1956,7 +1957,7 @@ background-size: cover;
 .welcome-item ul li .welcome-inner h3 {
   font-weight: 600;
   font-size: 24px;
-  color: #4a6f8a;
+  color: #000;
   margin-bottom: 10px;
 }
 
@@ -2211,7 +2212,7 @@ background-size: cover;
 
 .appointment-item span {
   display: block;
-  color: #4a6f8a;
+  color: #000;
   font-size: 15px;
   font-weight: 600;
   margin-bottom: 50px;
@@ -2234,7 +2235,7 @@ background-size: cover;
 
 .appointment-item .appointment-form .form-group label {
   margin-bottom: 10px;
-  color: #4a6f8a;
+  color: #000;
   font-size: 15px;
   font-weight: 500;
 }
@@ -2257,19 +2258,19 @@ background-size: cover;
 }
 
 .appointment-item .appointment-form .form-group ::-webkit-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .appointment-item .appointment-form .form-group :-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .appointment-item .appointment-form .form-group ::-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .appointment-item .appointment-form .form-group ::placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .appointment-item .appointment-form .appointment-btn {
@@ -2754,7 +2755,7 @@ background-size: cover;
 .slider-nav .slick-dots li button:before {
   font-size: 12px;
   opacity: 1;
-  color: #4a6f8a;
+  color: #000;
 }
 
 .slider-nav .slick-dots li.slick-active button:before {
@@ -2960,7 +2961,7 @@ background-size: cover;
 }
 
 .doctor-search-item .form-group label {
-  color: #4a6f8a;
+  color: #000;
   font-size: 15px;
   margin-bottom: 5px;
 }
@@ -2983,26 +2984,26 @@ background-size: cover;
 }
 
 .doctor-search-item .form-group ::-webkit-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .doctor-search-item .form-group :-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .doctor-search-item .form-group ::-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .doctor-search-item .form-group ::placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .doctor-search-item .doctor-search-btn {
   position: absolute;
   bottom: 0;
   right: 0;
-  color: #4a6f8a;
+  color: #000;
   font-size: 18px;
 }
 
@@ -3095,7 +3096,7 @@ background-size: cover;
   list-style-type: none;
   display: block;
   position: relative;
-  color: #4a6f8a;
+  color: #000;
   font-weight: 500;
   font-size: 14px;
   margin-bottom: 10px;
@@ -3130,7 +3131,7 @@ background-size: cover;
   display: block;
   font-size: 14px;
   font-weight: 500;
-  color: #4a6f8a;
+  color: #000;
   margin-bottom: 10px;
 }
 
@@ -3249,7 +3250,7 @@ background-size: cover;
 .doctor-details-item .doctor-details-work h3 {
   font-weight: 600;
   font-size: 22px;
-  color: #4a6f8a;
+  color: #000;
   margin-bottom: 30px;
 }
 
@@ -3442,8 +3443,8 @@ background-size: cover;
 
 .blog-details-item .blog-details-previous .prev-next ul li a:hover {
   color: #ffffff;
-  border: 1px solid #4a6f8a;
-  background-color: #4a6f8a;
+  border: 1px solid #000;
+  background-color: #000;
 }
 
 .blog-details-item .blog-details-search {
@@ -3477,23 +3478,23 @@ background-size: cover;
 }
 
 .blog-details-item .blog-details-search .blog-details-btn:hover {
-  background-color: #4a6f8a;
+  background-color: #000;
 }
 
 .blog-details-item .blog-details-search ::-webkit-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .blog-details-item .blog-details-search :-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .blog-details-item .blog-details-search ::-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .blog-details-item .blog-details-search ::placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .blog-details-item .blog-details-recent {
@@ -3626,7 +3627,7 @@ background-size: cover;
 .blog-details-item .blog-details-category ul li a {
   display: block;
   z-index: 1;
-  color: #4a6f8a;
+  color: #000;
   font-weight: 500;
 }
 
@@ -3651,7 +3652,7 @@ background-size: cover;
 .blog-details-item .blog-details-tags ul li a {
   display: block;
   font-size: 15px;
-  color: #4a6f8a;
+  color: #000;
   background-color: #e5e5e5;
   padding: 12px 25px;
   border-radius: 8px;
@@ -3659,7 +3660,7 @@ background-size: cover;
 
 .blog-details-item .blog-details-tags ul li a:hover {
   color: #ffffff;
-  background-color: #4a6f8a;
+  background-color: #000;
 }
 
 .blog-details-form {
@@ -3707,19 +3708,19 @@ background-size: cover;
 }
 
 .blog-details-form .blog-details-form-wrap .form-group ::-webkit-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .blog-details-form .blog-details-form-wrap .form-group :-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .blog-details-form .blog-details-form-wrap .form-group ::-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .blog-details-form .blog-details-form-wrap .form-group ::placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .blog-details-form .blog-details-form-wrap .blog-details-form-btn {
@@ -3734,7 +3735,7 @@ background-size: cover;
 
 .blog-details-form .blog-details-form-wrap .blog-details-form-btn:hover {
   color: #ffffff;
-  background-color: #4a6f8a;
+  background-color: #000;
 }
 
 /*-- End Blog Details --*/
@@ -3831,7 +3832,7 @@ background-size: cover;
 }
 
 .location-wrap .location-item a:hover {
-  color: #4a6f8a;
+  color: #000;
 }
 
 /*-- End Location --*/
@@ -3901,7 +3902,7 @@ background-size: cover;
 
 .drop-item .drop-left .drop-btn:hover {
   color: #ffffff;
-  background-color: #4a6f8a;
+  background-color: #000;
 }
 
 .drop-item .drop-left .list-unstyled {
@@ -4301,7 +4302,7 @@ background-size: cover;
 
 .signup-item .signup-form .form-group .form-control {
   height: 45px;
-  border: 1px solid #4a6f8a;
+  border: 1px solid #000;
   padding-left: 20px;
   font-size: 15px;
 }
@@ -4320,7 +4321,7 @@ background-size: cover;
 }
 
 .signup-item .signup-form .form-group .form-check label {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .signup-item .signup-form .form-group .form-check label a {
@@ -4333,23 +4334,23 @@ background-size: cover;
 }
 
 .signup-item .signup-form .form-group ::-webkit-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .signup-item .signup-form .form-group :-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .signup-item .signup-form .form-group ::-ms-input-placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .signup-item .signup-form .form-group ::placeholder {
-  color: #4a6f8a;
+  color: #000;
 }
 
 .signup-item .signup-form .form-group .forgot-pass a {
-  color: #4a6f8a;
+  color: #000;
   display: inline-block;
   border-bottom: 2px solid #0a98d5;
 }
@@ -4554,7 +4555,7 @@ background-size: cover;
 
 .services-details-img blockquote {
   font-size: 15px;
-  color: #4a6f8a;
+  color: #000;
   background-color: #0a98d514;
   padding: 30px 75px;
   line-height: 26px;
@@ -5048,7 +5049,7 @@ background-size: cover;
 /*# sourceMappingURL=style.css.map */
 
 .bg-cta {
-   background-color: #5E818F 
+   background-color: #063b5a 
 }
 
 .bg-white {
@@ -5118,7 +5119,7 @@ background-size: cover;
 }
 
 .mums_cookie_banner {
-  background-color: #5E818F;
+  background-color: #063b5a;
   position: fixed;
   bottom: 0;
   left: 0;

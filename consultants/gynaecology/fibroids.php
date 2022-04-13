@@ -526,7 +526,7 @@
       </div>
 
       <div class="text-center">
-        <div class="g-recaptcha" data-sitekey="6Lc78HoaAAAAALW21Zp5vhEblIxDiGOufzibMnGd" data-size="invisible" data-callback="onSubmit"></div>
+        
         <button type="submit" id="cta_submit_button" class="btn btn-block bg-cta text-white ">Send Appointment Request</button>          
       </div>
 
@@ -649,11 +649,7 @@ S2 4SW
 </footer> 
 
 
-  <div class="mums_cookie_banner">
-    <div class="">
-        <div class="inner_banner">MUMS uses cookies for essential site functionality, as well as improving the MUMS website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
-    </div>
-  </div>
+  
 
 <div class="copyright-area"> 
   <div class="row">              
@@ -686,15 +682,9 @@ S2 4SW
   
     <script type="text/javascript">
       
-      $('#booking_form').submit(function (event) {
-        event.preventDefault();
-        $('#cta_submit_button').prop('disabled',true).html('Sending...');
-        grecaptcha.reset();
-        grecaptcha.execute();
-      });
-      
-      function onSubmit(token) {
+      function onSubmit() {
         document.getElementById("booking_form").submit();
+        $('#cta_submit_button').prop('disabled',true).html('Sending...');
       }
         
     </script>

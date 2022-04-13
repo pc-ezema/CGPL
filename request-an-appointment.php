@@ -469,7 +469,7 @@
                 </div>
 
                 <div class="col-md-12 col-lg-12">
-                  <div class="g-recaptcha" data-sitekey="6Lc78HoaAAAAALW21Zp5vhEblIxDiGOufzibMnGd" data-size="invisible" data-callback="onSubmit"></div>                      
+                                        
                   <button type="submit" id="cta_submit_button" class="btn btn-block bg-cta text-white" style="pointer-events: all; cursor: pointer;">Send</button>                  
                   <div class="clearfix"></div>
                 </div>
@@ -577,11 +577,7 @@ S2 4SW
 </footer> 
 
 
-  <div class="mums_cookie_banner">
-    <div class="">
-        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
-    </div>
-  </div>
+  
 
 <div class="copyright-area"> 
   <div class="row">              
@@ -617,8 +613,7 @@ S2 4SW
       $('#booking_form').submit(function (event) {
         event.preventDefault();
         $('#cta_submit_button').prop('disabled',true).php('Sending...');
-        grecaptcha.reset();
-        grecaptcha.execute();
+        
       });
       
       function onSubmit(token) {

@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Private Specialist Medical Healthcare Practice - CGPL</title>
+    <title>Confortcare Group of Partnership Limited- CGPL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,7 +38,7 @@
     <script src="../www.google.com/recaptcha/api.js" async defer></script>
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/"/>
-    <meta property="og:title" content="Private Specialist Medical Healthcare Practice - CGPL"/>
+    <meta property="og:title" content="Confortcare Group of Partnership Limited- CGPL"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="website"/>
 
@@ -693,11 +693,7 @@ S2 4SW
 </footer> 
 
 
-  <div class="mums_cookie_banner">
-    <div class="">
-        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
-    </div>
-  </div>
+  
 
 <div class="copyright-area"> 
   <div class="row">              

@@ -1,5 +1,4 @@
- 
-<!doctype html>
+ <!doctype html>
 <html lang="en-gb">
   
 <!-- Mirrored from www.comfortcaregroups.co.uk/about/meet-the-team by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Apr 2022 20:04:41 GMT -->
@@ -385,7 +384,7 @@
   </div>
   <div class="row">
     <div class="col-md-2">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/Poonam-Pradhan.jpg" alt="Mr Richard Jones" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Dev.png" alt="Mr Richard Jones" />
           </div>
     <div class="col-md-10 cms_content" style="font-weight: 300; font-size: 90%">
        <div class="wpb_wrapper">
@@ -490,7 +489,7 @@
   </div>
 </div>        
             
-                  <div class="col-lg-3 mt-4 mb-4">
+                  <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
               <img style="border: 2px solid #0a98d5" src="../content/uploads/Dev.png" alt="Mr Dev Sarmah" />
@@ -500,7 +499,7 @@
       <h6 class="text-muted">Consultant Urologist</h6>  
     </div>
   </div>
-</div>        
+</div>         -->
             
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
@@ -868,11 +867,7 @@ S2 4SW
 </footer> 
 
 
-  <div class="mums_cookie_banner">
-    <div class="">
-        <div class="inner_banner">CGPL uses cookies for essential site functionality, as well as improving the CGPL website. For more details, read our <a class="text-white" style="text-decoration: underline" href="../cookie-policy.php">cookie policy</a> <button class="btn btn-secondary btn-sm" id="btn-cookie-accept">I'm ok with this</button></div>
-    </div>
-  </div>
+  
 
 <div class="copyright-area"> 
   <div class="row">              

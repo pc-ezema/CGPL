@@ -448,7 +448,6 @@ S2 4SW
 </footer> 
 
 
-
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">

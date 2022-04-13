@@ -556,7 +556,7 @@
       </div>
 
       <div class="text-center">
-        <div class="g-recaptcha" data-sitekey="6Lc78HoaAAAAALW21Zp5vhEblIxDiGOufzibMnGd" data-size="invisible" data-callback="onSubmit"></div>
+        
         <button type="submit" id="cta_submit_button" class="btn btn-block bg-cta text-white ">Send Appointment Request</button>          
       </div>
 
@@ -716,15 +716,9 @@ S2 4SW
   
     <script type="text/javascript">
       
-      $('#booking_form').submit(function (event) {
-        event.preventDefault();
-        $('#cta_submit_button').prop('disabled',true).html('Sending...');
-        grecaptcha.reset();
-        grecaptcha.execute();
-      });
-      
-      function onSubmit(token) {
+      function onSubmit() {
         document.getElementById("booking_form").submit();
+        $('#cta_submit_button').prop('disabled',true).html('Sending...');
       }
         
     </script>
