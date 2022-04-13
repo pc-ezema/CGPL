@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'>Nasal Cautery at MUMS</h3>
-                        <p>At MUMS our Ear, Nose and Throat Consultants (ENT Consultant)&nbsp;<a href="miss-emma-hoskison-ent-consultant.php">Miss Emma Hoskison</a>&nbsp;and&nbsp;<a href="mr-basavaiah-natesh-ent-consultant.php">Mr Basavaiah Natesh</a>&nbsp;perform Nasal Cautery.</p>
+                        <p>At MUMS our Ear, Nose and Throat Consultants (ENT Consultant)&nbsp;<a href="miss-emma-hoskison-ent-consultant.php">Dr Emma Hoskison</a>&nbsp;and&nbsp;<a href="mr-basavaiah-natesh-ent-consultant.php">Dr Basavaiah Natesh</a>&nbsp;perform Nasal Cautery.</p>
 
 <p>This may be recommended to stop or prevent nosebleeds. If an anteriorly located blood vessel can be identified on the nasal septum this can be performed.</p>
 

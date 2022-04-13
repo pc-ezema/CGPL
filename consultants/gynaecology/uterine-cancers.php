@@ -413,11 +413,11 @@
                         <h3 class='mt-4'></h3>
                         <p>This is mainly seen in the menopausal age group and is associated with obesity, diabetes and hypertension. Endometrial or Uterine cancer often presents with bleeding in the menopause and also abnormal bleeding prior to the menopause. Hence &nbsp;persistent abnormal bleeding at any age must be investigated. Pelvic ultrasound scan and biopsy will diagnose vast number of these cancers. The treatment often involves a Hysterectomy with removal of tubes and ovaries. The Mirena coil is used to treat women with precancerous cells or endometrial hyperplasia.</p>
 
-<p>A scan and consultation with Miss Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
+<p>A scan and consultation with Dr Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
 
 <p>NHS waiting times can cause anxiety when all that you want and need is peace of mind, rapid access to diagnosis and treatment.</p>
 
-<p>Miss Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Uterine Cancers.</p>
+<p>Dr Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Uterine Cancers.</p>
 
 <p>The blood tests associated with this investigation&nbsp;include <a href="../../tests-diagnostics/cancer.php">CA 125 and HE4 ROMA</a></p>
 

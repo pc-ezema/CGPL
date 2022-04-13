@@ -339,10 +339,10 @@
   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/Dev.png" alt="Mr Richard Jones" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Dev.png" alt="Dr Richard Jones" />
           </div>
           <div class="col-md-6">
-          <h5 class="text-purple">Mr Richard Jones</h5>
+          <h5 class="text-purple">Dr Richard Jones</h5>
         <h6 class="text-muted">Consultant Gynaecologist, FRCOG</h6>  
         </div>
   </div>
@@ -351,10 +351,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/anoop-rehal.jpg" alt="Mr Anoop Rehal" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/anoop-rehal.jpg" alt="Dr Anoop Rehal" />
           </div>
           <div class="col-md-6">
-          <h5 class="text-purple">Mr Anoop Rehal</h5>
+          <h5 class="text-purple">Dr Anoop Rehal</h5>
           <h6 class="text-muted">Fetal Medicine Consultant</h6> 
         </div>
   </div>
@@ -387,10 +387,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/AAmod.jpg" alt="Mr Aamod Nawathe" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/AAmod.jpg" alt="Dr Aamod Nawathe" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Mr Aamod Nawathe</h5>
+      <h5 class="text-purple">Dr Aamod Nawathe</h5>
       <h6 class="text-muted">Fetal Medicine Consultant</h6>  
     </div>
   </div>
@@ -399,10 +399,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/EH.jpg" alt="Miss Emma Hoskisson" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/EH.jpg" alt="Dr Emma Hoskisson" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Miss Emma Hoskisson</h5>
+      <h5 class="text-purple">Dr Emma Hoskisson</h5>
       <h6 class="text-muted">ENT Consultant</h6>  
     </div>
   </div>
@@ -414,7 +414,7 @@
               <div style="border: 2px solid #ccc"><p class="small text-muted font-w300 mt-4 mb-4 text-center">Photo coming soon</p></div>
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Mr Jerome Ment</h5>
+      <h5 class="text-purple">Dr Jerome Ment</h5>
       <h6 class="text-muted">Consultant Cardiologist</h6>  
     </div>
   </div>
@@ -426,7 +426,7 @@
               <div style="border: 2px solid #ccc"><p class="small text-muted font-w300 mt-4 mb-4 text-center">Photo coming soon</p></div>
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Mr David McArthur</h5>
+      <h5 class="text-purple">Dr David McArthur</h5>
       <h6 class="text-muted">Consultant in General Surgery and Colorectal Medicine</h6>  
     </div>
   </div>
@@ -435,10 +435,10 @@
                   <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/Dev.png" alt="Mr Dev Sarmah" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Dev.png" alt="Dr Dev Sarmah" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Mr Dev Sarmah</h5>
+      <h5 class="text-purple">Dr Dev Sarmah</h5>
       <h6 class="text-muted">Consultant Urologist</h6>  
     </div>
   </div>
@@ -447,10 +447,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/Seni.jpg" alt="Mr Seni Mylvaganam" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Seni.jpg" alt="Dr Seni Mylvaganam" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Mr Seni Mylvaganam</h5>
+      <h5 class="text-purple">Dr Seni Mylvaganam</h5>
       <h6 class="text-muted">Consultant Breast Surgeon</h6>  
     </div>
   </div>
@@ -459,10 +459,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/Maria_C.jpg" alt="Miss Maria Carillo" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Maria_C.jpg" alt="Dr Maria Carillo" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Miss Maria Carillo</h5>
+      <h5 class="text-purple">Dr Maria Carillo</h5>
       <h6 class="text-muted">Breast Radiologist</h6>  
     </div>
   </div>
@@ -471,10 +471,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/hannah-church-portrait.jpg" alt="Miss Hannah Church" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/hannah-church-portrait.jpg" alt="Dr Hannah Church" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Miss Hannah Church</h5>
+      <h5 class="text-purple">Dr Hannah Church</h5>
       <h6 class="text-muted">Consultant in Sexual Health</h6>  
     </div>
   </div>
@@ -483,10 +483,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/Swati_M.jpg" alt="Miss Swati More" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Swati_M.jpg" alt="Dr Swati More" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Miss Swati More</h5>
+      <h5 class="text-purple">Dr Swati More</h5>
       <h6 class="text-muted">Fertility Consultant</h6>  
     </div>
   </div>
@@ -495,10 +495,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/Camilo_Diaz.jpg" alt="Mr Camillo Diaz" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/Camilo_Diaz.jpg" alt="Dr Camillo Diaz" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Mr Camillo Diaz</h5>
+      <h5 class="text-purple">Dr Camillo Diaz</h5>
       <h6 class="text-muted">Consultant Dermatologist</h6>  
     </div>
   </div>
@@ -543,10 +543,10 @@
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
-              <img style="border: 2px solid #0a98d5" src="../content/uploads/IMG-20211109-WA0029.jpg" alt="Miss Kulsum Jaffer" />
+              <img style="border: 2px solid #0a98d5" src="../content/uploads/IMG-20211109-WA0029.jpg" alt="Dr Kulsum Jaffer" />
           </div>
     <div class="col-md-6">
-      <h5 class="text-purple">Miss Kulsum Jaffer</h5>
+      <h5 class="text-purple">Dr Kulsum Jaffer</h5>
       <h6 class="text-muted">Consultant Gynaecologist</h6>  
     </div>
   </div>

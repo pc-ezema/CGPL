@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Musculoskeletal ( MSK) Hand & Wrist Ultrasound Scan</h3>
-                        <p>CGPL Radiographer &ndash; Mr Adrian&nbsp;Burman&nbsp;offers MSK Hand &amp; Wrist Ultrasound Scans&nbsp;to patients aged 16 and over.</p>
+                        <p>CGPL Radiographer &ndash; Dr Adrian&nbsp;Burman&nbsp;offers MSK Hand &amp; Wrist Ultrasound Scans&nbsp;to patients aged 16 and over.</p>
 
 <p>An MSK Hand and Wrist scan will assess the major and some minor tendons, ligaments and nerves around the hand and wrist, whether it be related to pain and/or reduced movement from sports injuries, old age or general health conditions such as rheumatology and arthritis. &nbsp;</p>
 

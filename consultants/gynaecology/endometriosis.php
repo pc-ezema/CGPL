@@ -411,13 +411,13 @@
                         <h3 class='mt-4'></h3>
                         <p>This is a common condition which presents with pelvic pain along with painful periods and pain during intercourse. Pelvic scan will diagnose severe endometriosis with cysts on the ovaries called endometriomas. Mild endometriosis is often not diagnosed on pelvic ultrasound scan. This is a chronic debilitating condition and the treatment differs to suit the individual patient. It varies from surgery to hormone treatments.&nbsp;&nbsp;</p>
 
-<p>Adenomyosis: This condition is often seen alongside endometriosis. This gives rise to heavy painful periods and is fed by hormones. Miss Pradhan will diagnose the condition and discuss treatments in the initial visit.</p>
+<p>Adenomyosis: This condition is often seen alongside endometriosis. This gives rise to heavy painful periods and is fed by hormones. Dr Pradhan will diagnose the condition and discuss treatments in the initial visit.</p>
 
-<p>A scan and consultation with Miss Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
+<p>A scan and consultation with Dr Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
 
 <p>NHS waiting times can cause anxiety when all that you want and need is peace of mind, rapid access to diagnosis and treatment.</p>
 
-<p>Miss Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Endometriosis</p>
+<p>Dr Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Endometriosis</p>
 
 <p>If a biopsy is performed on the endometrium this costs &pound;175.00</p>
                     </div>

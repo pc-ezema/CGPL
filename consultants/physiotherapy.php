@@ -349,14 +349,14 @@
                         
                         
                         <h3 class='mt-4'>Specialist Physiotherapists at CGPL</h3>
-                        <p>CGPL have two very experienced and respected Physiotherapists, that treat both Adults and Children,&nbsp;<a href="physiotherapy/mr-freddie-george-physio.php">Mr Freddie&nbsp;George</a> and <a href="physiotherapy/miss-miriam-green-womens-health-physio.php">Miss Miriam Green</a>.</p>
+                        <p>CGPL have two very experienced and respected Physiotherapists, that treat both Adults and Children,&nbsp;<a href="physiotherapy/mr-freddie-george-physio.php">Dr Freddie&nbsp;George</a> and <a href="physiotherapy/miss-miriam-green-womens-health-physio.php">Dr Miriam Green</a>.</p>
 
 <p>There are no waiting times to see either of our physiotherapists and you do not require a referral letter from your GP.</p>
 
-<p><a href="physiotherapy/mr-freddie-george-physio.php">Mr Freddie George</a><br />
+<p><a href="physiotherapy/mr-freddie-george-physio.php">Dr Freddie George</a><br />
 Freddie has developed extensive knowledge and experience in physiotherapy through roles across the NHS, premiership football clubs and private practice where he has treated a wide range of musculoskeletal and orthopaedic conditions.</p>
 
-<p><a href="physiotherapy/miss-miriam-green-womens-health-physio.php">Miss Miriam Green</a><br />
+<p><a href="physiotherapy/miss-miriam-green-womens-health-physio.php">Dr Miriam Green</a><br />
 Miriam offers expert therapeutic assessments for diverse range of gynaecological and pelvic pain symptoms.&nbsp; Miriam is able to provide a detailed assessment of the pelvis and related pelvic organs and abdomen.&nbsp;</p>
 
 <p>&nbsp;</p>

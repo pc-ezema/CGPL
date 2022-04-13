@@ -348,16 +348,16 @@
                         
                         
                         
-                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Mr Jerome Ment – offers CARDIOMEMO 7 day Monitoring</h3>
+                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Dr Jerome Ment – offers CARDIOMEMO 7 day Monitoring</h3>
                         <p>Some people experience symptoms of palpitation relatively infrequently meaning that 24 hours of monitoring alone may not capture any heart rhythm abnormalities. A cardiomemo device is a very small portable monitor that can be used for weeks and allows for monitoring as and when symptoms are experienced to enable accurate identification of arrhythmias where shorter monitoring periods may miss episodes of palpitation.</p>
 
-<p>You will need a consultation with Mr Ment at CGPL &ndash; who will examine you, take a history, fit the Cardiomemo and remotely analyse and review your readings. The cost of a consultation with Mr Ment is &pound;230.00. If a CARDIOMEMO is fitted the cost of fit/readings review is &pound;350.00</p>
+<p>You will need a consultation with Dr Ment at CGPL &ndash; who will examine you, take a history, fit the Cardiomemo and remotely analyse and review your readings. The cost of a consultation with Dr Ment is &pound;230.00. If a CARDIOMEMO is fitted the cost of fit/readings review is &pound;350.00</p>
 
 <p>You will need a follow up consultation which costs &pound;150.00.</p>
 
 <p>You do not need a referral from your NHS GP.</p>
 
-<p>There are no waiting times at CGPL to see Mr Ment.</p>
+<p>There are no waiting times at CGPL to see Dr Ment.</p>
 
 <p><a href="../cardiology.php">Other cardiac tests at CGPL.</a></p>
                     </div>

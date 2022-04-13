@@ -349,9 +349,9 @@
                         
                         
                         <h3 class='mt-4'>Consultant UroGynaecologist Appointments</h3>
-                        <p><o:p>&nbsp;</o:p>&nbsp;<img alt="" src="../images/images/Afshan(1).png" />CGPL are fortunate to have Mrs Afshan Khaja, Consultant Gynaecologist and Urodynamic expert - providing expert assessment and treatment for stress incontinence. There are no waiting times to see Mrs Afshan Khaja and there is no need for a referral from your GP.<o:p></o:p></p>
+                        <p><o:p>&nbsp;</o:p>&nbsp;<img alt="" src="../images/images/Afshan(1).png" />CGPL are fortunate to have Drs Afshan Khaja, Consultant Gynaecologist and Urodynamic expert - providing expert assessment and treatment for stress incontinence. There are no waiting times to see Drs Afshan Khaja and there is no need for a referral from your GP.<o:p></o:p></p>
 
-<p>There is no need for women to suffer from stress incontinence &ndash; Mrs Afshan Khaja can rapidly assess and treat stress incontinence with the latest diagnostics, tests and treatments.&nbsp;</p>
+<p>There is no need for women to suffer from stress incontinence &ndash; Drs Afshan Khaja can rapidly assess and treat stress incontinence with the latest diagnostics, tests and treatments.&nbsp;</p>
 
 <p><o:p>During your consultation the following options will be discussed and a suitable management plan will be created.&nbsp;</o:p></p>
 
@@ -362,9 +362,9 @@
 	<li><o:p>Surgical management</o:p></li>
 </ul>
 
-<p>Mrs Afshan Khaja specialises in stress urinary incontinence and bladder investigations and sits on national interview panels for trainee doctors who are selected for gynaecology. She delivers lectures and is an examiner for 4th year medical students.<o:p></o:p></p>
+<p>Drs Afshan Khaja specialises in stress urinary incontinence and bladder investigations and sits on national interview panels for trainee doctors who are selected for gynaecology. She delivers lectures and is an examiner for 4th year medical students.<o:p></o:p></p>
 
-<p>Having Mrs Afshan Khaja on board at CGPL &ndash; complementing Mr Richard Jones and Miss Swati More &ndash; means CGPL consultants &ndash; have a totally holistical view of Gynaecology &ndash; a rare team.<o:p></o:p></p>
+<p>Having Drs Afshan Khaja on board at CGPL &ndash; complementing Dr Richard Jones and Dr Swati More &ndash; means CGPL consultants &ndash; have a totally holistical view of Gynaecology &ndash; a rare team.<o:p></o:p></p>
                     </div>
 
                 </div>

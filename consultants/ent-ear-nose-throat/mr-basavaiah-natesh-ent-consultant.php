@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Mr Basavaiah Natesh - ENT Consultations and CGPL</title>
+    <title>Dr Basavaiah Natesh - ENT Consultations and CGPL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,7 +38,7 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/consultants/ent-ear-nose-throat/mr-basavaiah-natesh-ent-consultant"/>
-    <meta property="og:title" content="Mr Basavaiah Natesh - ENT Consultations and CGPL"/>
+    <meta property="og:title" content="Dr Basavaiah Natesh - ENT Consultations and CGPL"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
@@ -323,7 +323,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-7">
-                    <h1 class='text-white'>Mr Basavaiah Natesh - ENT Consultant</h1>
+                    <h1 class='text-white'>Dr Basavaiah Natesh - ENT Consultant</h1>
                                         <h3 class="h4 text-white">See a ENT Consultant in a relaxed setting</h3>                    
                                         
                                           <a class='btn text-white bg-cta d-sm-inline d-md-none' href='#book_now'>Book Now</a>
@@ -348,10 +348,10 @@
                         
                         
                         
-                        <h3 class='mt-4'>Mr Basavaiah Natesh ENT Consultant</h3>
-                        <p>Mr Natesh is an Ear, Nose and Throat Consultant (ENT Consultant) who treats children and adults struggling with a wide range of symptoms and conditions.</p>
+                        <h3 class='mt-4'>Dr Basavaiah Natesh ENT Consultant</h3>
+                        <p>Dr Natesh is an Ear, Nose and Throat Consultant (ENT Consultant) who treats children and adults struggling with a wide range of symptoms and conditions.</p>
 
-<p>What can our consultant Adult and Child ENT Surgeon &ndash; Mr Natesh &ndash; help with?</p>
+<p>What can our consultant Adult and Child ENT Surgeon &ndash; Dr Natesh &ndash; help with?</p>
 
 <ul>
 	<li>Head and Neck conditions</li>
@@ -419,9 +419,9 @@
         <label>Service</label>
                               
           <select name="data[Appointment_request][service]" class="form-control">
-<option value="Mr Basavaiah Natesh ENT Consultation">Mr Basavaiah Natesh ENT Consultation</option>
-<option value=" Mr Basavaiah Natesh Tongue Tie"> Mr Basavaiah Natesh Tongue Tie</option>
-<option value=" Mr Basavaiah Natesh Ear Microsuction"> Mr Basavaiah Natesh Ear Microsuction</option>
+<option value="Dr Basavaiah Natesh ENT Consultation">Dr Basavaiah Natesh ENT Consultation</option>
+<option value=" Dr Basavaiah Natesh Tongue Tie"> Dr Basavaiah Natesh Tongue Tie</option>
+<option value=" Dr Basavaiah Natesh Ear Microsuction"> Dr Basavaiah Natesh Ear Microsuction</option>
 </select>
               </div>  
 

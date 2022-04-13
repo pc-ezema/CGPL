@@ -371,17 +371,17 @@
 
 <p dir="ltr"><strong>About Our Urology Consultant</strong></p>
 
-<p dir="ltr">Mr Bhupendra Dev Sarmah is a leading urologist with over 25 years of consultant-grade experience. Mr Sarmah retired from Heart of England NHS Foundation Trust (University Hospitals Birmingham) at the end of 2018. Mr Armah returned to the trust in July 2019 to complete part-time work until the lockdown in March 2020.&nbsp;</p>
+<p dir="ltr">Dr Bhupendra Dev Sarmah is a leading urologist with over 25 years of consultant-grade experience. Dr Sarmah retired from Heart of England NHS Foundation Trust (University Hospitals Birmingham) at the end of 2018. Dr Armah returned to the trust in July 2019 to complete part-time work until the lockdown in March 2020.&nbsp;</p>
 
-<p dir="ltr">Mr Sarmah is a very experienced endo-urologist who also has a specialist interest in treating prostate cancer, benign prostate enlargement (BPH), bladder cancer, kidney stones, minimally invasive vasectomy surgery and vasectomy reversal.</p>
+<p dir="ltr">Dr Sarmah is a very experienced endo-urologist who also has a specialist interest in treating prostate cancer, benign prostate enlargement (BPH), bladder cancer, kidney stones, minimally invasive vasectomy surgery and vasectomy reversal.</p>
 
-<p dir="ltr">He provides complete management of bladder and prostate cancer from diagnosis to treatment, including radical surgery, offering patients a wide range of treatment options to preserve the quality of life. Mr Sarmah is a proponent of Day Surgery where possible as well as feasible. His one-stop prostate assessment clinic has been very successful in his NHS practice.</p>
+<p dir="ltr">He provides complete management of bladder and prostate cancer from diagnosis to treatment, including radical surgery, offering patients a wide range of treatment options to preserve the quality of life. Dr Sarmah is a proponent of Day Surgery where possible as well as feasible. His one-stop prostate assessment clinic has been very successful in his NHS practice.</p>
 
-<p dir="ltr">At Heartlands Hospital, Mr Sarmah established GreenLight Laser (PVP) for BPH in 2008, upgraded to Moxy fibre in 2013, and is an avid supporter of day cases for this procedure. During the same year, Mr Sarmah took the lead to develop PDD Blue Light Cystoscopy for high-risk bladder cancer patients.&nbsp;</p>
+<p dir="ltr">At Heartlands Hospital, Dr Sarmah established GreenLight Laser (PVP) for BPH in 2008, upgraded to Moxy fibre in 2013, and is an avid supporter of day cases for this procedure. During the same year, Dr Sarmah took the lead to develop PDD Blue Light Cystoscopy for high-risk bladder cancer patients.&nbsp;</p>
 
 <p dir="ltr">He started Neobladder reconstruction following radical cystectomy in 2005. Since 2009, he has made advances in continuous anastomosis after open radical prostatectomy improving continence. Simultaneous use of modified TAB blocks means that over 90% of patients who undergo prostatectomy can be discharged within two days.&nbsp;</p>
 
-<p dir="ltr">Mr Sarmah is dedicated to informing both clinicians and the public of the latest treatments for bladder and prostate cancer and regularly offers talks and seminars within the hospital setting and the community. He has been a regular speaker at the Sheffield  Prostate cancer support group.</p>
+<p dir="ltr">Dr Sarmah is dedicated to informing both clinicians and the public of the latest treatments for bladder and prostate cancer and regularly offers talks and seminars within the hospital setting and the community. He has been a regular speaker at the Sheffield  Prostate cancer support group.</p>
 
 <p dir="ltr">Contact Us For A Private Urology Appointment</p>
 

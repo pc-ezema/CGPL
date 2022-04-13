@@ -349,9 +349,9 @@
                         
                         
                         <h3 class='mt-4'>CVS & Amniocentesis</h3>
-                        <p>Mr Anoop Rehal, Consultant in Obstetrics and Fetal Medicine at University Hospitals Birmingham NHS Foundation Trust &ndash; performs CVS and Amniocentesis&nbsp;at CGPL Sheffield  to diagnose fetal abnormalities.</p>
+                        <p>Dr Anoop Rehal, Consultant in Obstetrics and Fetal Medicine at University Hospitals Birmingham NHS Foundation Trust &ndash; performs CVS and Amniocentesis&nbsp;at CGPL Sheffield  to diagnose fetal abnormalities.</p>
 
-<p>The choice to have the test is entirely the decision of the patient following thorough counselling with Mr Anoop Rehal</p>
+<p>The choice to have the test is entirely the decision of the patient following thorough counselling with Dr Anoop Rehal</p>
 
 <p>A CVS can be performed from 11 to 14.1 weeks. An Amniocentesis<strong> </strong>can be performed from 15 weeks.</p>
 
@@ -395,7 +395,7 @@
 
 <p>If you have had Nuchal Screening/NIPT or an Ultrasound at CGPL which shows you may require invasive testing such as Amnio or CVS then this will be offered to you.</p>
 
-<p>To organise your CVS or Amniocentesis at CGPL call 0114 361 0114 or complete an online enquiry. We will organise for you to see Mr Anoop Rehal &ndash; Consultant in Fetal Medicine.</p>
+<p>To organise your CVS or Amniocentesis at CGPL call 0114 361 0114 or complete an online enquiry. We will organise for you to see Dr Anoop Rehal &ndash; Consultant in Fetal Medicine.</p>
                     </div>
 
                 </div>

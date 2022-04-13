@@ -349,13 +349,13 @@
                         
                         
                         <h3 class='mt-4'>Musculoskeletal (MSK) Knee Ultrasound Scan</h3>
-                        <p>CGPL Radiographer &ndash; Mr Adrian&nbsp;Burman&nbsp;offers MSK Knee Ultrasound Scans&nbsp;to patients aged 16 and over.<o:p></o:p></p>
+                        <p>CGPL Radiographer &ndash; Dr Adrian&nbsp;Burman&nbsp;offers MSK Knee Ultrasound Scans&nbsp;to patients aged 16 and over.<o:p></o:p></p>
 
 <p>A MSK knee scan will assess the major and some minor tendons, ligaments and nerves around the knee, whether it be related to pain and/or reduced movement from sports injuries, old age or general health conditions such as rheumatology and arthritis.&nbsp;&nbsp;</p>
 
 <p>Knee USS sound waves produce pictures of muscles, tendons, ligaments, joints, bone and soft tissues of the Knee. The radiographer can diagnose abnormalities of the muscles, for example tears and soft tissue masses. Foreign bodies can be seen as can bleeding, infection and some types of fluid collection. Ultrasound can diagnose benign and malignant soft tissue tumours. Arthritis can be seen on knee ultrasound. Ultrasound of the knee is very helpful and superior to other knee imaging to visualise the patella and quadriceps tendons, knee bursae, anterior and posterior tendinous structures and joint lines and capsular recesses.<o:p></o:p></p>
 
-<p>CGPL use ultrasound for guided knee injections. CGPL <a href="../../consultants/orthopaedic.php">Consultant Orthopaedic Surgeon, Mr Akash Sharma</a>, offers pain killing knee injections and surgery.</p>
+<p>CGPL use ultrasound for guided knee injections. CGPL <a href="../../consultants/orthopaedic.php">Consultant Orthopaedic Surgeon, Dr Akash Sharma</a>, offers pain killing knee injections and surgery.</p>
 
 <p>There is no need for a referral &ndash; you can self-refer for peace of mind.&nbsp;</p>
 

@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Microsuction is the gold standard for ear wax removal.</h3>
-                        <p>Our ENT Surgeons, Miss Emma&nbsp;Hoskison and Mr Basavaiah Natesh perform&nbsp;microscopic microscution ear wax removal. The ear wax is removed from the ear under a microscope in a treatment room.</p>
+                        <p>Our ENT Surgeons, Dr Emma&nbsp;Hoskison and Dr Basavaiah Natesh perform&nbsp;microscopic microscution ear wax removal. The ear wax is removed from the ear under a microscope in a treatment room.</p>
 
 <p>The&nbsp;microscope is used to directly visualise the ear canal and drum whilst wax it is being removed. Microsuction ear wax removal typically takes between 15 to 30 minutes to perform. This can vary depending on the amount and type of ear wax, how deep the ear wax is inside the ear canal, and whether you are having one or both ears treated. It is&nbsp;performed with you laying down on a bed with your head titled to the side so that the ear with ear wax can be accessed.</p>
 

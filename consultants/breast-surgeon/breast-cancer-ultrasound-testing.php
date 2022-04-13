@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Breast Reassurance Clinic</h3>
-                        <p>This breast reassurance clinic is for women aged 40 and under with breast symptoms or concerns regarding their breast health.&nbsp;&nbsp; In this group of women it is much more likely that any breast symptoms are benign and following expert assessment may be managed primarily with reassurance.&nbsp; You will be seen by an expert breast surgeon (Mr Seni Mylvaganam) who will undertake a history of the concerns and then perform a breast and armpit examination to complete the clinical assessment.&nbsp; Based on this Mr Mylvaganam will discuss with you any further assessments that may be required, which could include a breast ultrasound.&nbsp; If an ultrasound identifies an area of uncertainty it is likely a core biopsy would be recommended to confirm any diagnosis.</p>
+                        <p>This breast reassurance clinic is for women aged 40 and under with breast symptoms or concerns regarding their breast health.&nbsp;&nbsp; In this group of women it is much more likely that any breast symptoms are benign and following expert assessment may be managed primarily with reassurance.&nbsp; You will be seen by an expert breast surgeon (Dr Seni Mylvaganam) who will undertake a history of the concerns and then perform a breast and armpit examination to complete the clinical assessment.&nbsp; Based on this Dr Mylvaganam will discuss with you any further assessments that may be required, which could include a breast ultrasound.&nbsp; If an ultrasound identifies an area of uncertainty it is likely a core biopsy would be recommended to confirm any diagnosis.</p>
 
 <h3><br />
 Ultrasound scan of your breast</h3>
@@ -379,8 +379,8 @@ You will be able to go back to your normal daily activities after your appointme
 If you have had a core biopsy you may have some discomfort in the area the biopsy was taken from; this can be relieved with painkillers such as paracetamol. There may also be some bruising to the area but this settles quickly.</p>
 
 <p><strong>How do I get the results of the tests?</strong><br />
-If a woman requires an ultrasound only then most will get their scan undertaken and the result given at the clinic by Mr Mylvaganam so will not need to come back again and will be discharged from the clinic.<br />
-Some women may need to come back to another clinic if they have a biopsy taken to get the results of the biopsy from Mr Mylvaganam.</p>
+If a woman requires an ultrasound only then most will get their scan undertaken and the result given at the clinic by Dr Mylvaganam so will not need to come back again and will be discharged from the clinic.<br />
+Some women may need to come back to another clinic if they have a biopsy taken to get the results of the biopsy from Dr Mylvaganam.</p>
 
 <p>&nbsp;</p>
                     </div>

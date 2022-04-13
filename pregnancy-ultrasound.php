@@ -346,7 +346,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>CGPL (Comfortcare Group of Partnership Limited)&nbsp;in Sheffield  has provided private antenatal care to women for over 18&nbsp;years. This is provided by Mr Anoop Rehal and his team including consultants and midwives.</p>
+                        <p>CGPL (Comfortcare Group of Partnership Limited)&nbsp;in Sheffield  has provided private antenatal care to women for over 18&nbsp;years. This is provided by Dr Anoop Rehal and his team including consultants and midwives.</p>
 
 <p>Anoop is the lead consultant for labour ward at Good Hope Hospital. He is also the lead clinician for multiple pregnancy. His special interests include high-risk obstetrics, multiple pregnancy, and managing medical disorders in pregnancy.</p>
 

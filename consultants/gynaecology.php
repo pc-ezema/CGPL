@@ -357,7 +357,7 @@
 
 <h3 dir="ltr" style="line-height: 1.33941; margin-top: 8pt; margin-bottom: 8pt;">Our Gynaecology Services</h3>
 
-<p dir="ltr">Our private gynaecology consultant is Mr Richard Jones.&nbsp;Offering a one-stop scan service at our clinic, she can detect and provide suitable treatment options for a wealth of conditions including:</p>
+<p dir="ltr">Our private gynaecology consultant is Dr Richard Jones.&nbsp;Offering a one-stop scan service at our clinic, she can detect and provide suitable treatment options for a wealth of conditions including:</p>
 
 <ul dir="ltr">
 	<li><a href="gynaecology/fibroids.php">Fibroids</a></li>
@@ -374,7 +374,7 @@
 	<li><a href="gynaecology/previous-miscarriage-and-recurrent-miscarriage-investigations.php">Previous and Recurrent Miscarriage Investigations</a></li>
 </ul>
 
-<p dir="ltr">An expert in gynaecology scanning and treatments, Mr Richard Jones also performs <a href="../tests-diagnostics/cancer/cervical-smear-with-hpv-cervical-cancer-test.php">smear tests,</a> biopsies, and <a href="../contraception.php">coil insertions</a>&nbsp;at our clinic.&nbsp;</p>
+<p dir="ltr">An expert in gynaecology scanning and treatments, Dr Richard Jones also performs <a href="../tests-diagnostics/cancer/cervical-smear-with-hpv-cervical-cancer-test.php">smear tests,</a> biopsies, and <a href="../contraception.php">coil insertions</a>&nbsp;at our clinic.&nbsp;</p>
 
 <h3 dir="ltr">Treatments For Urinary Incontinence</h3>
 
@@ -388,7 +388,7 @@
 
 <p dir="ltr">Harmless and non-invasive, our patients see significant improvement in their <a href="urogynaecology.php">urinary incontinence</a> upon completing this treatment.</p>
 
-<p dir="ltr">At CGPL, we offer a <a href="urogynaecology.php">urinary incontinence</a> treatment package consisting of a consultation with Mr Richard Jones and six Emsella chair sessions.&nbsp; Extremely effective, these treatment packages remain in high demand.</p>
+<p dir="ltr">At CGPL, we offer a <a href="urogynaecology.php">urinary incontinence</a> treatment package consisting of a consultation with Dr Richard Jones and six Emsella chair sessions.&nbsp; Extremely effective, these treatment packages remain in high demand.</p>
 
 <h3 dir="ltr">Signs and Symptoms That Highlight A Gynaecology Consultation Is Needed</h3>
 
@@ -408,13 +408,13 @@
 
 <h3 dir="ltr">About Our Consultant Gynaecologist</h3>
 
-<p dir="ltr">Mr Richard Jones, Consultant Obstetrician and Gynaecologist, is available to see patients at CGPL.&nbsp; She has a specialist interest in menopause, HRT and problems arising from treatment with HRT She is a senior consultant at the University Hospital Birmingham with vast experience in pelvic Ultrasound scans.</p>
+<p dir="ltr">Dr Richard Jones, Consultant Obstetrician and Gynaecologist, is available to see patients at CGPL.&nbsp; She has a specialist interest in menopause, HRT and problems arising from treatment with HRT She is a senior consultant at the University Hospital Birmingham with vast experience in pelvic Ultrasound scans.</p>
 
 <p dir="ltr">Her interest in non-invasive treatment options has led her to offer the innovative EMSELLA treatment for urinary incontinence and Ultrafemme treatment for vaginal laxity and dryness.</p>
 
 <h3 dir="ltr">Contact Us To Arrange A Private Gynaecology Consultation</h3>
 
-<p dir="ltr">Mr Richard Jones can provide consultations, scans and treatments on Wednesdays, Thursdays, and Saturdays at our clinic.</p>
+<p dir="ltr">Dr Richard Jones can provide consultations, scans and treatments on Wednesdays, Thursdays, and Saturdays at our clinic.</p>
 
 <p dir="ltr">To arrange a private gynaecology consultation, <a href="../request-an-appointment.php">book an appointment</a>.&nbsp; Alternatively, call us directly on 0114 361 0114 today.</p>
 

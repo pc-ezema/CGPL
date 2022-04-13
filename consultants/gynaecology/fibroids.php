@@ -411,13 +411,13 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>Fibroids are round swellings of the uterine muscle. These are common and affect 1 in 3 women. Vast majority 99% are not cancerous. The treatment depends on a variety of factors and is often tailored to suit the patient. Miss Pradhan will scan and map out the type of fibroid and discuss treatments in the initial consultation.</p>
+                        <p>Fibroids are round swellings of the uterine muscle. These are common and affect 1 in 3 women. Vast majority 99% are not cancerous. The treatment depends on a variety of factors and is often tailored to suit the patient. Dr Pradhan will scan and map out the type of fibroid and discuss treatments in the initial consultation.</p>
 
-<p>A scan and consultation with Miss Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
+<p>A scan and consultation with Dr Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
 
 <p>NHS waiting times can cause anxiety when all that you want and need is peace of mind, rapid access to diagnosis and treatment.</p>
 
-<p>Miss Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Fibroids.</p>
+<p>Dr Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Fibroids.</p>
 
 <p>For more information on Gynaecological scans visit this link <a href="../../ultrasound/gynaecology-ultrasound.php">https://www.mums.me.uk/womens-health/gynaecology-ultrasound</a></p>
 

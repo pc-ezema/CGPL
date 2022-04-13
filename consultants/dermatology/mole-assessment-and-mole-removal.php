@@ -389,7 +389,7 @@
 	<li>If the mole is sent to the lab because it appears sinister/suspicious the cost is &pound;300</li>
 </ul>
 
-<p>CGPL Dermatologist assesses and removes moles in a one stop shop setting. Mr Camillo will send the removed mole to our partner laboratory for analysis if he feels it is suspicious. &nbsp;If you do not wish to have your mole sent to the lab but it appears suspicious to the consultant &ndash; he may not remove it and will refer you back to the NHS. In these cases &ndash; you only pay for the assessment - &pound;150.00</p>
+<p>CGPL Dermatologist assesses and removes moles in a one stop shop setting. Dr Camillo will send the removed mole to our partner laboratory for analysis if he feels it is suspicious. &nbsp;If you do not wish to have your mole sent to the lab but it appears suspicious to the consultant &ndash; he may not remove it and will refer you back to the NHS. In these cases &ndash; you only pay for the assessment - &pound;150.00</p>
 
 <p style="margin-left:36.0pt;">Other Minor Surgery Procedures</p>
 

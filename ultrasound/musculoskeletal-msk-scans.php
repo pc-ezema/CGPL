@@ -347,7 +347,7 @@
                         
                         
                         <h3 class='mt-4'>Book a musculoskeletal scan to suit you</h3>
-                        <p>CGPL Radiographer &ndash; Mr Adrian Burman&ndash; offers MusculoSkeletal Scans (MSK).</p>
+                        <p>CGPL Radiographer &ndash; Dr Adrian Burman&ndash; offers MusculoSkeletal Scans (MSK).</p>
 
 <p>An MSK scan will assess the major and some minor tendons, ligaments and nerves around the various aspects of the body parts, whether it be related to pain and/or reduced movement from sports injuries, old age or general health conditions such as rheumatology and arthritis.</p>
 

@@ -351,7 +351,7 @@
                         <h3 class='mt-4'>Echocardiogram</h3>
                         <p>An echocardiogram is an ultrasound scan of the heart.</p>
 
-<p>The scan can give accurate pictures of the heart muscle, the heart chambers, and structures within the heart such as the valves. Mr Jerome Ment, Consultant Cardiologist performs Echo&rsquo;s at CGPL.</p>
+<p>The scan can give accurate pictures of the heart muscle, the heart chambers, and structures within the heart such as the valves. Dr Jerome Ment, Consultant Cardiologist performs Echo&rsquo;s at CGPL.</p>
 
 <p>This diagnostic test is for patients who have palpitations, chest pain, shortness of breath, Atrial Fibrillation, Murmurs, Known or suspected heart failure.</p>
 

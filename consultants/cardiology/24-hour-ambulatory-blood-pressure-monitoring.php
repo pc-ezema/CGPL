@@ -348,12 +348,12 @@
                         
                         
                         
-                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Mr Jerome Ment – offers 24 Hour Ambulatory BP Monitoring.</h3>
+                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Dr Jerome Ment – offers 24 Hour Ambulatory BP Monitoring.</h3>
                         <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin: 0cm;"><span style="color:black">Ambulatory blood pressure monitoring is the gold standard to diagnose high blood pressure and helps differentiate it from &quot;white coat&quot; hypertension. One off blood pressure readings provide only a snapshot of blood pressure on a particular day and can be misleading but only ambulatory blood pressure monitoring can provide a comprehensive measurement to identify those individuals most at risk of high blood pressure in order to potentially reduce the risk of future strokes and heart disease through targeted therapy.<o:p></o:p></span></p>
 
 <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
 
-<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black">You will need a consultation with Mr Ment at CGPL &ndash; who will examine you, take a history, fit the monitor and remotely review your readings. The cost of a consultation with Mr Ment is &pound;230.00. If a 24 Hour Ambulatory Blood Pressure appliance is fitted the cost of fit/readings review is &pound;380.00<o:p></o:p></span></p>
+<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black">You will need a consultation with Dr Ment at CGPL &ndash; who will examine you, take a history, fit the monitor and remotely review your readings. The cost of a consultation with Dr Ment is &pound;230.00. If a 24 Hour Ambulatory Blood Pressure appliance is fitted the cost of fit/readings review is &pound;380.00<o:p></o:p></span></p>
 
 <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
 
@@ -365,7 +365,7 @@
 
 <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
 
-<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black">There are no waiting times at CGPL to see Mr Ment.<o:p></o:p></span></p>
+<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black">There are no waiting times at CGPL to see Dr Ment.<o:p></o:p></span></p>
 
 <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
 

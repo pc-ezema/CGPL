@@ -351,13 +351,13 @@
                         <h3 class='mt-4'>Consultant Breast Surgeon</h3>
                         <p><img alt="" src="../images/images/seni-mylvaganam-consultant-breast-surgeon.jpg" /></p>
 
-<p dir="ltr">Mr Seni Mylvaganam is CGPL&nbsp;breast consultant. Based in our clinic, Seni is a Consultant Oncoplastic Breast Surgeon who specialises in the surgical assessment and management of breast symptoms and benign disease, breast cancer and breast reconstruction. He also has expertise in the practice of cosmetic breast surgery.</p>
+<p dir="ltr">Dr Seni Mylvaganam is CGPL&nbsp;breast consultant. Based in our clinic, Seni is a Consultant Oncoplastic Breast Surgeon who specialises in the surgical assessment and management of breast symptoms and benign disease, breast cancer and breast reconstruction. He also has expertise in the practice of cosmetic breast surgery.</p>
 
 <p>A member of the Association of Breast Surgery Clinical Practice and Standards Committee, Seni initially qualified as a doctor in 2003 at the Royal Free and University College London Medical School before completing his bachelor&rsquo;s degree in Pharmacology at University College London. After completing his medical degree, he completed his specialist training with the National Oncoplastic Breast fellowship. The fellowship is restricted by competition to select breast and plastic surgeons each year. It is regarded as the gold standard for breast reconstructive training in the UK.</p>
 
 <p>After completing his specialist registrar training, he was appointed as Consultant Oncoplastic Breast Surgeon at the Royal Wolverhampton Hospitals NHS Trust. He also holds the role of professional clinical advisor in surgery to the NHS Breast screening programme. He is a member of the Association of Breast Surgery Clinical Practice and Standards Committee, part of the board responsible for UK national breast surgery practice standards.</p>
 
-<p>Mr Seni Mylvaganam aims to provide every patient with the highest quality assessment, advice, and treatment, whether this is regarding benign breast symptoms, breast cancer care or cosmetic considerations. His patients remain at the heart of his work, and he states that &quot;understanding their needs is essential to offering the best treatment tailored to each individual.&quot;.</p>
+<p>Dr Seni Mylvaganam aims to provide every patient with the highest quality assessment, advice, and treatment, whether this is regarding benign breast symptoms, breast cancer care or cosmetic considerations. His patients remain at the heart of his work, and he states that &quot;understanding their needs is essential to offering the best treatment tailored to each individual.&quot;.</p>
 
 <p>In the United Kingdom, breast surgery is one of the most common plastic surgery procedures carried out. Each year, approximately 7,727 breast enlargements take place. Meanwhile, 4,014 breast reductions are conducted. Here at CGPL, we offer breast surgery consultant consultations and breast cancer risk screenings to anyone that requires them.&nbsp; Find out more about our services here or contact us directly for our expert advice and guidance.</p>
 

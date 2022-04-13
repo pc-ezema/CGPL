@@ -422,8 +422,8 @@
         <label>Service</label>
                               
           <select name="data[Appointment_request][service]" class="form-control">
-<option value="Miss Miriam Green - Womens Health Physiotherapy Consultation">Miss Miriam Green - Womens Health Physiotherapy Consultation</option>
-<option value=" Miss Miriam Green Mummy MOT"> Miss Miriam Green Mummy MOT</option>
+<option value="Dr Miriam Green - Womens Health Physiotherapy Consultation">Dr Miriam Green - Womens Health Physiotherapy Consultation</option>
+<option value=" Dr Miriam Green Mummy MOT"> Dr Miriam Green Mummy MOT</option>
 </select>
               </div>  
 

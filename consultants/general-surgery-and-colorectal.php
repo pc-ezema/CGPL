@@ -352,7 +352,7 @@
                         <p><img alt="" src="../images/images/mr-david-mcarthur-consultant-general-surgeon.png" xss="removed" /><br />
 &nbsp;</p>
 
-<p dir="ltr">Mr. David McArthur, Consultant General Surgeon &amp; Colorectal Surgeon, is available to see patients at CGPL. Specialising in haemorrhoid treatment, hernia surgery, bowel cancer, bowel surgery, colostomy and ileostomy, Mr. David McArthur has a specialist interest in minimally-invasive techniques for managing colorectal and general surgical conditions.&nbsp;</p>
+<p dir="ltr">Dr. David McArthur, Consultant General Surgeon &amp; Colorectal Surgeon, is available to see patients at CGPL. Specialising in haemorrhoid treatment, hernia surgery, bowel cancer, bowel surgery, colostomy and ileostomy, Dr. David McArthur has a specialist interest in minimally-invasive techniques for managing colorectal and general surgical conditions.&nbsp;</p>
 
 <p dir="ltr">David is additionally accredited as an eXroid practitioner and runs monthly clinics to deliver this innovative technique to his patients. Learn more about the <a href="general-surgery-and-colorectal/exroid-haemorrhoid-treatment.php">eXroid treatment</a> that David provides to our patients.&nbsp; If you have any questions about eXroid treatment, <a href="https://www.exroid.com/contact">contact eXroid here</a><a href="https://www.exroid.com/contact">.</a></p>
 

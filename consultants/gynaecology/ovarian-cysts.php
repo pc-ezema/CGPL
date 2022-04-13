@@ -411,13 +411,13 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>1 in 1000 cysts are malignant in the premenopausal women and 3 in 1000 are malignant in the post menopausal age group. Therefore the vast majority of ovarian cysts are benign and need monitoring. Miss Pradhan will scan your ovaries and arrange tests to distinguish the benign from the worrying cysts. There are specific features of cancerous cysts and often a ultrasound scan will pick this up.</p>
+                        <p>1 in 1000 cysts are malignant in the premenopausal women and 3 in 1000 are malignant in the post menopausal age group. Therefore the vast majority of ovarian cysts are benign and need monitoring. Dr Pradhan will scan your ovaries and arrange tests to distinguish the benign from the worrying cysts. There are specific features of cancerous cysts and often a ultrasound scan will pick this up.</p>
 
-<p>A scan and consultation with Miss Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
+<p>A scan and consultation with Dr Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
 
 <p>NHS waiting times can cause anxiety when all that you want and need is peace of mind, rapid access to diagnosis and treatment.</p>
 
-<p>Miss Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Ovarian Cysts.</p>
+<p>Dr Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Ovarian Cysts.</p>
 
 <p>The blood tests associated with this investigation include <a href="../../tests-diagnostics/cancer.php">CA 125 and HE4 ROMA</a></p>
 

@@ -348,16 +348,16 @@
                         
                         
                         
-                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Mr Jerome Ment – offers 7 Day ECG Holter Monitoring</h3>
+                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Dr Jerome Ment – offers 7 Day ECG Holter Monitoring</h3>
                         <p>We also have the ability&nbsp; to continually monitor the heart for periods of up to 7 days. This is useful in instances where symptoms may be short-lived and relatively infrequent or where screening for heart rhythm abnormalities that don&#39;t always cause symptoms may be suspected such as atrial fibrillation.</p>
 
-<p>You will need a consultation with Mr Ment at CGPL &ndash; who will examine you, take a history, fit the ECG Holter and remotely analyse and review your readings. The cost of a consultation with Mr Ment is &pound;230.00. If a ECG Holter is fitted the cost of fit/readings review is &pound;650.00</p>
+<p>You will need a consultation with Dr Ment at CGPL &ndash; who will examine you, take a history, fit the ECG Holter and remotely analyse and review your readings. The cost of a consultation with Dr Ment is &pound;230.00. If a ECG Holter is fitted the cost of fit/readings review is &pound;650.00</p>
 
 <p>You will need a follow up consultation which costs &pound;150.00.</p>
 
 <p>You do not need a referral from your NHS GP.</p>
 
-<p>There are no waiting times at CGPL to see Mr Ment.</p>
+<p>There are no waiting times at CGPL to see Dr Ment.</p>
 
 <p><a href="../cardiology.php">Other cardiac tests at CGPL.</a></p>
                     </div>

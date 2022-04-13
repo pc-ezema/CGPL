@@ -414,9 +414,9 @@
 
 <p>These scans are often referred to as Follicle Tracking Scans.</p>
 
-<p>A fertility with Miss Pradhan or her colleagues at MUMS costs &pound;110.00 and includes a report to your NHS GP or Fertility Consultant.</p>
+<p>A fertility with Dr Pradhan or her colleagues at MUMS costs &pound;110.00 and includes a report to your NHS GP or Fertility Consultant.</p>
 
-<p>Miss Swati More is a Fertility Consultant at MUMS &ndash; for more information <a href="../fertility.php">visit this </a><a href="../fertility.php">link</a><a href="../fertility.php">&nbsp;</a></p>
+<p>Dr Swati More is a Fertility Consultant at MUMS &ndash; for more information <a href="../fertility.php">visit this </a><a href="../fertility.php">link</a><a href="../fertility.php">&nbsp;</a></p>
 
 <p>For more information on Gynaecological scans <a href="../../ultrasound/gynaecology-ultrasound.php">visit this link&nbsp;</a></p>
 

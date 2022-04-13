@@ -360,7 +360,7 @@
 
 <p>You can choose to have your AMH Tested with our Health Care Assistants in a Phlebotomy appointment but will need a consultation with our GPs, Gynaecologist or Fertility Expert to have the results explained to you. We recommend you have a consultation in the first instance and the results explained to you free of charge.</p>
 
-<p>At CGPL we test your AMH levels as part of our fertility investigations with <a href="../../consultants/fertility.php">Miss Swati More</a> who is an expert in measuring AMH and what it means for you.</p>
+<p>At CGPL we test your AMH levels as part of our fertility investigations with <a href="../../consultants/fertility.php">Dr Swati More</a> who is an expert in measuring AMH and what it means for you.</p>
 
 <p>Anti-M&uuml;llerian Hormone (AMH) is a substance made by the ovarian follicle that contains the egg, and your AMH levels can help CGPL identify the best course of treatment for you.&nbsp; AMH levels will naturally decline with age. It can be measured on any day of your cycle and it does not vary from month to month.</p>
 

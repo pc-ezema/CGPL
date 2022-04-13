@@ -411,9 +411,9 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>Mr Richard Jones, Consultant Gynaecologist offers investigation and treatment for miscarriage and recurrent miscarriage.</p>
+                        <p>Dr Richard Jones, Consultant Gynaecologist offers investigation and treatment for miscarriage and recurrent miscarriage.</p>
 
-<p>Where patients have already had a scan and consultation with Miss Pradhan and have become pregnant &ndash; then a &pound;35.00 Remote telephone consultation can take place for the prescribing of Progesterone. This service is suitable for pregnant women who have consulted with Miss Pradhan previously or have had a recent scan at MUMS with one of Miss Pradhan&rsquo;s colleagues and have decided they would like to take Progesterone. Where appropriate Miss Pradhan will prescribe progesterone.</p>
+<p>Where patients have already had a scan and consultation with Dr Pradhan and have become pregnant &ndash; then a &pound;35.00 Remote telephone consultation can take place for the prescribing of Progesterone. This service is suitable for pregnant women who have consulted with Dr Pradhan previously or have had a recent scan at MUMS with one of Dr Pradhan&rsquo;s colleagues and have decided they would like to take Progesterone. Where appropriate Dr Pradhan will prescribe progesterone.</p>
 
 <p>Recurrent miscarriages affect 1% of couples trying to conceive.&nbsp; To support patients through this somewhat distressing time, our investigations and treatments can determine whether an underlying condition has caused a miscarriage to occur.&nbsp;</p>
 

@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Miss Emma Hoskison - ENT Consultations and CGPL</title>
+    <title>Dr Emma Hoskison - ENT Consultations and CGPL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,7 +38,7 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/consultants/ent-ear-nose-throat/miss-emma-hoskison-ent-consultant"/>
-    <meta property="og:title" content="Miss Emma Hoskison - ENT Consultations and CGPL"/>
+    <meta property="og:title" content="Dr Emma Hoskison - ENT Consultations and CGPL"/>
     <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
     <meta property="og:type" content="article"/>
 
@@ -323,7 +323,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-7">
-                    <h1 class='text-white'>Miss Emma Hoskison - ENT Consultant</h1>
+                    <h1 class='text-white'>Dr Emma Hoskison - ENT Consultant</h1>
                                         <h3 class="h4 text-white">See a ENT Consultant in a relaxed setting</h3>                    
                                         
                                           <a class='btn text-white bg-cta d-sm-inline d-md-none' href='#book_now'>Book Now</a>
@@ -348,8 +348,8 @@
                         
                         
                         
-                        <h3 class='mt-4'>Miss Emma Hoskison - ENT Consultant</h3>
-                        <p><img alt="" src="../../images/images/Emma%20Hoskison.jpg" style="width: 400px; height: 400px;" />Miss Hoskison treats both Adults and Children at CGPL Clinic.</p>
+                        <h3 class='mt-4'>Dr Emma Hoskison - ENT Consultant</h3>
+                        <p><img alt="" src="../../images/images/Emma%20Hoskison.jpg" style="width: 400px; height: 400px;" />Dr Hoskison treats both Adults and Children at CGPL Clinic.</p>
 
 <p>What can our consultant Adult and Child ENT Surgeon &ndash; Emma Hoskison &ndash; help with?</p>
 
@@ -420,9 +420,9 @@
         <label>Service</label>
                               
           <select name="data[Appointment_request][service]" class="form-control">
-<option value="Miss Emma Hoskison ENT Consultation">Miss Emma Hoskison ENT Consultation</option>
-<option value=" Miss Emma Hoskison Tongue Tie"> Miss Emma Hoskison Tongue Tie</option>
-<option value=" Miss Emma Hoskison Ear Microsuction"> Miss Emma Hoskison Ear Microsuction</option>
+<option value="Dr Emma Hoskison ENT Consultation">Dr Emma Hoskison ENT Consultation</option>
+<option value=" Dr Emma Hoskison Tongue Tie"> Dr Emma Hoskison Tongue Tie</option>
+<option value=" Dr Emma Hoskison Ear Microsuction"> Dr Emma Hoskison Ear Microsuction</option>
 </select>
               </div>  
 

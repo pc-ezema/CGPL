@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Dermatology Consultation</h3>
-                        <p>CGPL are delighted&nbsp;to have Mr Camilo Diaz as our&nbsp;Consultant Dermatologist who treats adults with skin problems.</p>
+                        <p>CGPL are delighted&nbsp;to have Dr Camilo Diaz as our&nbsp;Consultant Dermatologist who treats adults with skin problems.</p>
 
 <p>Skin conditions are very common and can cause itching, discomfort, or pain. They can leave you feeling embarrassed, self-conscious and low.</p>
 
@@ -359,7 +359,7 @@
 
 <p>A Dermatology Consultation costs &pound;230.00</p>
 
-<p>Mr Camilo Diaz specialises in:</p>
+<p>Dr Camilo Diaz specialises in:</p>
 
 <ul>
 	<li>Acne</li>

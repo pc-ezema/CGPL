@@ -413,11 +413,11 @@
                         <h3 class='mt-4'></h3>
                         <p>Polycystic Ovarian Syndrome (PCOS)&nbsp;is a common genetic condition where the presenting symptoms are absent or missing periods and unwanted body hair. The diagnosis requires hormone tests and an ultrasound scan. The treatment varies and depends on a whole host of factors.&nbsp;</p>
 
-<p>A scan and consultation with Miss Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
+<p>A scan and consultation with Dr Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
 
 <p>NHS waiting times can cause anxiety when all that you want and need is peace of mind, rapid access to diagnosis and treatment.</p>
 
-<p>Miss Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of PCOS.</p>
+<p>Dr Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of PCOS.</p>
 
 <p>The blood test costs &pound;160.00 and tests oestrogen, prolactin, testosterone, thyroid function, follicle stimulating hormone and luteinising hormone and The Sex Hormone Binding Globulin</p>
 

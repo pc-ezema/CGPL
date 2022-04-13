@@ -536,7 +536,7 @@
             <h2 class="mb-4 font-w300 text-purple">About Us and Our Ethos</h2>
             <p>The ethos at CGPL is to provide the best possible support for informed choice and treatment for you and your family including your unborn baby&rsquo;s health, located in a professional and comfortable setting.</p>
 
-<p>Comfortcare Group of Partnership Limited is an established Specialist Consultant-led medical practice based in Sheffield ,  with highly qualified and experienced dedicated staff. CGPL Clinic was established in 2003 and is owned by Mr Richard Jones, Consultant Gynaecologist &amp; Obstetrician and is the only private practice offering complete pregnancy or obstetric care at Consultant level in the entire Midlands area. Mr Richard Jones offers a holistic approach and is supported by a team of Specialist Consultants and GPs.</p>
+<p>Comfortcare Group of Partnership Limited is an established Specialist Consultant-led medical practice based in Sheffield ,  with highly qualified and experienced dedicated staff. CGPL Clinic was established in 2003 and is owned by Dr Richard Jones, Consultant Gynaecologist &amp; Obstetrician and is the only private practice offering complete pregnancy or obstetric care at Consultant level in the entire Midlands area. Dr Richard Jones offers a holistic approach and is supported by a team of Specialist Consultants and GPs.</p>
 
 <p>CGPL has always prided itself in not only being at the forefront of technological development in ultrasound but also for the psychological support when entering the realms of screening or diagnostic testing.</p>
 

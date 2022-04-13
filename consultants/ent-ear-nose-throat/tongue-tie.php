@@ -465,9 +465,9 @@
 
 <p>The cost of the consultation and surgery is &pound;175.00. We take a &pound;50.00 deposit to secure your&nbsp;consultation. If the procedure does not go ahead the further &pound;125.00 will not need to be paid. We will use the deposit for the consultation.</p>
 
-<p>Miss Emma Hoskison provides this service at MUMS on a Monday for babies under 4 Months Old.</p>
+<p>Dr Emma Hoskison provides this service at MUMS on a Monday for babies under 4 Months Old.</p>
 
-<p>Mr Basavaiah Natesh provides this serivce at MUMS on a Wednesday for babies under 4 Months Old.</p>
+<p>Dr Basavaiah Natesh provides this serivce at MUMS on a Wednesday for babies under 4 Months Old.</p>
                     </div>
 
                 </div>

@@ -411,13 +411,13 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>This is a cancer that hides and is difficult to diagnose until the late stages. In the early stages it mimics IBS and patients often complain of irregularity in their bowel movements. Abdominal bloating is also a very common feature of this condition. It is often diagnosed in the post menopausal years however there is also another peak in the late teens/early twenties. Miss Pradhan will perform and scan and arrange tumour markers which help to diagnose this condition.</p>
+                        <p>This is a cancer that hides and is difficult to diagnose until the late stages. In the early stages it mimics IBS and patients often complain of irregularity in their bowel movements. Abdominal bloating is also a very common feature of this condition. It is often diagnosed in the post menopausal years however there is also another peak in the late teens/early twenties. Dr Pradhan will perform and scan and arrange tumour markers which help to diagnose this condition.</p>
 
-<p>A scan and consultation with Miss Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
+<p>A scan and consultation with Dr Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
 
 <p>NHS waiting times can cause anxiety when all that you want and need is peace of mind, rapid access to diagnosis and treatment.</p>
 
-<p>Miss Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Ovarian Cancer</p>
+<p>Dr Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Ovarian Cancer</p>
 
 <p>The blood tests associated with this investigation&nbsp;include <a href="../../tests-diagnostics/cancer.php">CA 125 and HE4 ROMA</a></p>
 

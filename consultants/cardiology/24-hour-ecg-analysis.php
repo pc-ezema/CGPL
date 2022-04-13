@@ -348,16 +348,16 @@
                         
                         
                         
-                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Mr Jerome Ment – offers 24 Hour ECG and Analysis</h3>
+                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Dr Jerome Ment – offers 24 Hour ECG and Analysis</h3>
                         <p>Whilst many modern wearable devices can measure heart rate , this does not allow us to adequately identify important heart rhythm abnormalities. Only contemporaneous ECG monitoring enables us to identify the various heart rhythm abnormalities to enable specific therapy. 24 hour ECG monitoring is a small wearable device that allows you to continue as normal with your everyday activity whilst undergoing continuous ECG monitoring. This allows for accurate assessment and can pick up early warning of heart rhythm abnormalities even before symptoms are experienced.</p>
 
-<p>You will need a consultation with Mr Ment at CGPL &ndash; who will examine you, take a history, fit the 24 hour ECG and remotely analyse and review your readings. The cost of a consultation with Mr Ment is &pound;230.00. If a 24 Hour ECG Device is fitted the cost of fit/readings review is &pound;350.00</p>
+<p>You will need a consultation with Dr Ment at CGPL &ndash; who will examine you, take a history, fit the 24 hour ECG and remotely analyse and review your readings. The cost of a consultation with Dr Ment is &pound;230.00. If a 24 Hour ECG Device is fitted the cost of fit/readings review is &pound;350.00</p>
 
 <p>You will need a follow up consultation which costs &pound;150.00.</p>
 
 <p>You do not need a referral from your NHS GP.</p>
 
-<p>There are no waiting times at CGPL to see Mr Ment.</p>
+<p>There are no waiting times at CGPL to see Dr Ment.</p>
 
 <p><a href="../cardiology.php">Other cardiac tests at CGPL.</a></p>
                     </div>

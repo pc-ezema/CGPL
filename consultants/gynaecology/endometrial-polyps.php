@@ -351,11 +351,11 @@
                         <h3 class='mt-4'></h3>
                         <p>These are often found in the women undergoing fertility investigations and need to be removed. They often give rise to bleeding in between periods and are best diagnosed just after a period. Post menopausal women with polyps present with bleeding and this must be investigated.</p>
 
-<p>A scan and consultation with Miss Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
+<p>A scan and consultation with Dr Pradhan costs &pound;350.00 and includes a report to your NHS GP or Consultant.</p>
 
 <p>NHS waiting times can cause anxiety when all that you want and need is peace of mind, rapid access to diagnosis and treatment.</p>
 
-<p>Miss Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Endometrial Polyps.</p>
+<p>Dr Pradhan is a Consultant Gynaecologist who specialises in the diagnosis and treatments of Endometrial Polyps.</p>
                     </div>
 
                 </div>

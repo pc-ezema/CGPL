@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Hernia Ultrasound</h3>
-                        <p>CGPL Radiographer &ndash; Mr Adrian Burman&ndash; offers Hernia Ultrasound Scans to patients aged 16 and over.</p>
+                        <p>CGPL Radiographer &ndash; Dr Adrian Burman&ndash; offers Hernia Ultrasound Scans to patients aged 16 and over.</p>
 
 <p>A hernia ultrasound is a musculoskeletal&nbsp;scan (MSK).&nbsp;Sometimes there can be a weakening in the body tissues causing deeper tissues to protrude through these weakened areas. These are termed hernias and can be assessed and diagnosed with ultrasound very easily.</p>
 

@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>ENT Consultations</h3>
-                        <p>CGPL have two very experienced and respected Ear, Nose and Throat Consultants&nbsp;(ENT Consultant) that treat both Adults and Children,&nbsp;<a href="ent-ear-nose-throat/miss-emma-hoskison-ent-consultant.php">Miss Emma Hoskison</a> and&nbsp;<a href="ent-ear-nose-throat/mr-basavaiah-natesh-ent-consultant.php">Mr Basavaiah Natesh</a>&nbsp;</p>
+                        <p>CGPL have two very experienced and respected Ear, Nose and Throat Consultants&nbsp;(ENT Consultant) that treat both Adults and Children,&nbsp;<a href="ent-ear-nose-throat/miss-emma-hoskison-ent-consultant.php">Dr Emma Hoskison</a> and&nbsp;<a href="ent-ear-nose-throat/mr-basavaiah-natesh-ent-consultant.php">Dr Basavaiah Natesh</a>&nbsp;</p>
 
 <p>Each year, more than 1.7 million people struggling with conditions such as tinnitus, hearing loss, breathing problems and head and neck tumours are referred for ear, nose and throat treatment by their local GP. However, extended NHS waiting times mean that fewer people secure an appointment with an ear, nose and throat consultant as and when needed.</p>
 

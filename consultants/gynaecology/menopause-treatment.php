@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>At MUMS our Menopause investigations and treatment is led by Mr Richard Jones &ndash; Consultant Gynaecologist. &nbsp;You will have an unrushed, indepth comprehensive consultation. This holistic check covers many aspects of your health to ascertain as to whether you are peri menopausal, menopausal or post menopausal.</p>
+                        <p>At MUMS our Menopause investigations and treatment is led by Dr Richard Jones &ndash; Consultant Gynaecologist. &nbsp;You will have an unrushed, indepth comprehensive consultation. This holistic check covers many aspects of your health to ascertain as to whether you are peri menopausal, menopausal or post menopausal.</p>
 
 <p>The menopause is the time when a woman stops having periods, and she is no longer able to get pregnant. It&rsquo;s common to have symptoms such as hot flushes, night sweats and mood changes when you go through the menopause.</p>
 
@@ -438,7 +438,7 @@
 	<li>Letter to NHS Registered GP with consent for onward prescribing</li>
 </ul>
 
-<p>Miss Pradhan will arrange blood tests as necessary.</p>
+<p>Dr Pradhan will arrange blood tests as necessary.</p>
 
 <p>The menopause consultation is also fit for women who experience abnormal bleeding whilst using HRT. These women typically need a pelvic scan and biopsy to rule out any abnormal cells hiding inside the womb. Treatment of the menopause can dramatically improve a woman&rsquo;s well being and therefore help restore personal and social relationships.</p>
 

@@ -350,7 +350,7 @@
                         <h3 class='mt-4'>Private Antenatal Care Package</h3>
                         <p>CGPL clinic (Comfortcare Group of Partnership Limited) has been providing&nbsp;private antenatal care to women for almost two decades.</p>
 
-<p>Private antenatal care at CGPL is provided by Mr Anoop Rehal and his Midwife Lara and Coordinator Donna. Anoop is the lead consultant for labour ward at Good Hope Hospital. He is also the lead clinician for multiple pregnancy. His special interests include high-risk obstetrics, multiple pregnancy, and managing medical disorders in pregnancy.</p>
+<p>Private antenatal care at CGPL is provided by Dr Anoop Rehal and his Midwife Lara and Coordinator Donna. Anoop is the lead consultant for labour ward at Good Hope Hospital. He is also the lead clinician for multiple pregnancy. His special interests include high-risk obstetrics, multiple pregnancy, and managing medical disorders in pregnancy.</p>
 
 <p>We offer a full private antenatal care package which can be accessed on its own or in combination with the private delivery package.</p>
 
@@ -360,7 +360,7 @@
 
 <p>Private antenatal and postnatal care without <a href="private-births.php">private delivery</a> costs &pound;5500.&nbsp;</p>
 
-<p><a href="private-births.php">We also offer one off Scan/Consultation/Bloods with our Consultant &ndash; Mr Anoop Rehal which cost &pound;400.00 for those patients not wanting to purchase the package.</a></p>
+<p><a href="private-births.php">We also offer one off Scan/Consultation/Bloods with our Consultant &ndash; Dr Anoop Rehal which cost &pound;400.00 for those patients not wanting to purchase the package.</a></p>
 
 <p>The full antenatal and postnatal package includes:</p>
 

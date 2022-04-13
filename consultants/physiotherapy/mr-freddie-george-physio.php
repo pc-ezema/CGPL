@@ -414,8 +414,8 @@ Freddie offers the following services at CGPL Sheffield :</p>
 
       <div class="form-group">
         <label>Service</label>
-                  <input class="form-control" type="text" placeholder="Service..." value="Mr Freddie George Physiotherapy Consultation" readonly disabled>
-          <input type="hidden" name='data[Appointment_request][service]' value="Mr Freddie George Physiotherapy Consultation">
+                  <input class="form-control" type="text" placeholder="Service..." value="Dr Freddie George Physiotherapy Consultation" readonly disabled>
+          <input type="hidden" name='data[Appointment_request][service]' value="Dr Freddie George Physiotherapy Consultation">
               </div>  
 
       <div class="form-group">

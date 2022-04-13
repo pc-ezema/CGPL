@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'> Musculoskeletal (MSK) Shoulder Ultrasound Scan </h3>
-                        <p>CGPL Radiographer &ndash; Mr Adrian&nbsp;Burman&nbsp;offers MSK Shoulder Ultrasound Scans&nbsp;to patients aged 16 and over.</p>
+                        <p>CGPL Radiographer &ndash; Dr Adrian&nbsp;Burman&nbsp;offers MSK Shoulder Ultrasound Scans&nbsp;to patients aged 16 and over.</p>
 
 <p>An MSK shoulder scan will assess the major and some minor tendons, ligaments and nerves around the shoulder body parts, whether it be related to pain and/or reduced movement from sports injuries, old age or general health conditions such as rheumatology and arthritis. &nbsp;</p>
 
