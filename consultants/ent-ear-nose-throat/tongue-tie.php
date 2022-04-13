@@ -411,7 +411,7 @@
                         
                         
                         <h3 class='mt-4'>Tongue Tie at MUMS</h3>
-                        <p>At MUMS, we have two experienced ENT consultants who have&nbsp;a wealth of experience dealing with ENT issues, including tongue tie in babies. As our clinic is based in Sheffield , we are an ideal location for patients from across the West Midlands.</p>
+                        <p>At MUMS, we have two experienced ENT consultants who have&nbsp;a wealth of experience dealing with ENT issues, including tongue tie in babies. As our clinic is based in Sheffield , we are an ideal location for patients from across the .</p>
 
 <p>Our ENT specialists offers baby tongue tie consultations where the baby will be examined to ascertain&nbsp;whether they have a tongue tie or not and can provide tongue tie release surgery if required at the time of the consultation.</p>
 

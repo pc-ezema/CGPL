@@ -437,7 +437,7 @@
 
 <p>Sheffield </p>
 
-<p>West Midlands</p>
+<p></p>
 
 <p><span class="LrzXr">B91 3EJ</span></p>
 

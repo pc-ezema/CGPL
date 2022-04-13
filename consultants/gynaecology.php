@@ -380,7 +380,7 @@
 
 <p dir="ltr"><a href="urogynaecology.php">Urinary incontinence</a> and <a href="urogynaecology.php">urine leakage </a>is a widespread problem, with 50% of women thought to suffer from the condition. Usually encountered by the age of 50 due to weakness in the pelvic floor caused by childbirth, menopause and ageing, urinary incontinence worsens with age.</p>
 
-<p dir="ltr">Treatment for <a href="urogynaecology.php">urinary incontinence</a> varies. However, here at CGPL, we are delighted to be the only West Midlands clinic offering the revolutionary Emsella Chair to treat urinary incontinence. The Emsella breakthrough treatment gives a staggering 11,000 contractions to the pelvic floor muscles in 28 minutes.&nbsp;</p>
+<p dir="ltr">Treatment for <a href="urogynaecology.php">urinary incontinence</a> varies. However, here at CGPL, we are delighted to be the only  clinic offering the revolutionary Emsella Chair to treat urinary incontinence. The Emsella breakthrough treatment gives a staggering 11,000 contractions to the pelvic floor muscles in 28 minutes.&nbsp;</p>
 
 <p dir="ltr">Patients sit on the Emsella chair, which holds a strong magnet that creates the electromagnetic fields and penetrates deep into the pelvic floor muscles, creating a maximum contraction of the muscles.</p>
 

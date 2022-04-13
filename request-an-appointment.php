@@ -316,7 +316,7 @@
    	
     
    <!-- Page Title -->
-<div class="page-title-area-small page-title-four text-md-left" >
+   <div class="page-title-area page-title-four text-md-left" style="background-image: url('content/uploads/appointment.jpg')">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="page-title-item">

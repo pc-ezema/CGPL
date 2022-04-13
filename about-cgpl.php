@@ -315,17 +315,14 @@
    	
     
    <!-- Page Title -->
-<div class="page-title-area page-title-four text-md-left" >
+   <div class="page-title-area page-title-four text-md-left" style="background-image: url('content/uploads/about.jpg')">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="page-title-item">
               <div class="container">
                 <div class="row">
                   <div class="col-md-7">
-                    <h1 class='text-white'>About CGPL</h1>
-                                        
-                                          
-                                        
+                    <h1 class='text-white'>About CGPL</h1>     
                   </div>
                 </div>
               </div>  
@@ -337,11 +334,11 @@
   <div class="container">
     <div class='row mt-4 cms_content'>
        <div class='col-lg-12'>
-        <p>CGPL is an established specialist consultant-led practice based in Sheffield , West Midlands. We provide our patients the best possible care at every stage of their journey through life.</p>
+        <p>CGPL is an established specialist consultant-led practice based in Sheffield , . We provide our patients the best possible care at every stage of their journey through life.</p>
 
-<p>We offer a caring and bespoke service to suit the needs of our local community.</p>
+        <p>We offer a caring and bespoke service to suit the needs of our local community.</p>
 
-<p>We have been trusted for over 17 years &ndash; due to the bespoke, tailored care offered by our clinicians.</p>
+        <p>We have been trusted for over 17 years &ndash; due to the bespoke, tailored care offered by our clinicians.</p>
 
 <p>We strive for the best possible patient perception and health outcomes &ndash; ensuring our clinicians offer comprehensive consultations, diagnosis and treatment.</p>
 
@@ -370,7 +367,7 @@
                         <a href="tel:0114 361 0114">0114 361 0114</a>                                        
                       </li>
                       <li>
-                        1 Park Avenue, Sheffield , West Midlands, B91 3EJ
+                        1 Park Avenue, Sheffield , , B91 3EJ
                       </li>
                     </ul>
                 </div>

@@ -314,7 +314,7 @@
    	
     
    <!-- Page Title -->
-<div class="page-title-area-small page-title-four text-md-left" >
+   <div class="page-title-area page-title-four text-md-left" style="background-image: url('../content/uploads/team.jpg')">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="page-title-item">
@@ -336,46 +336,27 @@
 <div class="container">
   <div class="row mb-4">
       
-            
-                  <div class="col-lg-12 mt-4 mb-4">
+  <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
-    <div class="col-md-12">
-      <h5 class="text-purple">Mr Richard Jones</h5>
-      <h6 class="text-muted">Consultant Gynaecologist, FRCOG</h6>  
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-6">
               <img style="border: 2px solid #0a98d5" src="../content/uploads/Dev.png" alt="Mr Richard Jones" />
           </div>
-    <div class="col-md-10 cms_content" style="font-weight: 300; font-size: 90%">
-       <div class="wpb_wrapper">
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<p xss="removed">Mr Richard Jones has been a Consultant Obstetrician and Gynaecologist practicing at Heartlands and Sheffield  Hospitals since 2004. Additionally, Poonam Consults at Spire Healthcare and at CGPL Clinic (Comfortcare Group of Partnership Limited) in Sheffield . Poonam is a general gynaecologist who has expertise in transvaginal scanning for the detection of gynaecological problems including cancers. She performs surgery including laparoscopy and hysterectomy.</p>
-</div>
-</div>
-</div>
-    </div>
+          <div class="col-md-6">
+          <h5 class="text-purple">Mr Richard Jones</h5>
+        <h6 class="text-muted">Consultant Gynaecologist, FRCOG</h6>  
+        </div>
   </div>
-</div>        
+</div>    
             
-                  <div class="col-lg-12 mt-4 mb-4">
+                  <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
-    <div class="col-md-12">
-      <h5 class="text-purple">Mr Anoop Rehal</h5>
-      <h6 class="text-muted">Fetal Medicine Consultant</h6>  
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-6">
               <img style="border: 2px solid #0a98d5" src="../content/uploads/anoop-rehal.jpg" alt="Mr Anoop Rehal" />
           </div>
-    <div class="col-md-10 cms_content" style="font-weight: 300; font-size: 90%">
-       <div>Mr Anoop Rehal is a consultant obstetrician at University Hospitals Birmingham. He began my postgraduate training in the East Midlands, obtaining the MRCOG in 2015 and then secured a research fellowship at the Harris Birthright Research Centre for Fetal Medicine at Kings College Hospital, under the auspices of Professor Kypros Nicolaides. Following this, he obtained dual sub-specialist accreditation in both Obstetrics and Maternal-Fetal medicine, also from Kings College Hospital.</div>
-
-<p>In his current role providing obstetric care for both low and high risk pregnancies, he is the lead consultant for labour ward at Good Hope Hospital. He is also the lead clinician for multiple pregnancy. His special interests include high-risk obstetrics, multiple pregnancy, and managing medical disorders in pregnancy. CGPL offers an ideal environment to support women and couples to enable them to make choices about their pregnancies and their deliveries.</p>
-    </div>
+          <div class="col-md-6">
+          <h5 class="text-purple">Mr Anoop Rehal</h5>
+          <h6 class="text-muted">Fetal Medicine Consultant</h6> 
+        </div>
   </div>
 </div>        
             
