@@ -69,7 +69,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple">
-        <div class="container-fluid">
+        <!-- <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
                     <div class="header-top-item">
@@ -107,7 +107,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <!-- End Header Top --> 
     
@@ -426,7 +426,7 @@ S2 4SW
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="..about-cgpl.php.php">Read more...</a></p>
+                  <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
               </div>
             </div>

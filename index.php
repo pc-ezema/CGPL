@@ -54,8 +54,7 @@
     
   </head>
   <body class="_cms_template_1">
-      
-          
+
       <!-- Google Tag Manager (noscript) -->
       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVKBQBZ"
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -69,7 +68,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple">
-        <div class="container-fluid">
+        <!-- <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
                     <div class="header-top-item">
@@ -97,7 +96,6 @@
                     <div class="header-top-item">
                         <div class="header-top-right">
                             <ul>
-          
                                 <li>
                                     <a style="width: auto; color: white" href="contact-us.php">
                                         Contact Us                                    </a>
@@ -107,7 +105,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <!-- End Header Top --> 
     
@@ -358,9 +356,9 @@
           <div class="container">
               <div class="row">
                 <div class="col-md-6">
-                    <h1 class="text-white">Welcome to Comfortcare<br>Group of Partnership Limited</h1>
-                    <div class="text-white">
-                        <h3 class="h4 text-white font-w300">Trusted excellence in<br />private healthcare</h3>
+                    <h1 class="text-dark">Welcome to <br>Comfortcare Group of Partnership Limited</h1>
+                    <div class="text-dark">
+                        <h3 class="h4 text-dark font-w300">Trusted excellence in<br />private healthcare</h3>
                     </div>
                     <div class="common-btn-two">
                         <a class="btn text-white bg-cta mb-4 mt-4" href="request-an-appointment.php">Request an Appointment</a>                      

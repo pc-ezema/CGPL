@@ -548,7 +548,7 @@ S2 4SW
                 <div class="footer-quick">
                   <h3>About CGPL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
-                  <p><a class="text-white" href="../..about-cgpl.php.html">Read more...</a></p>
+                  <p><a class="text-white" href="../../about-cgpl.php.html">Read more...</a></p>
                 </div>
               </div>
             </div>

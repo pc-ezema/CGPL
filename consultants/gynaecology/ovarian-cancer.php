@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple">
-        <div class="container-fluid">
+        <!-- <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-sm-6 col-lg-6">
                     <div class="header-top-item">
@@ -105,7 +105,7 @@
                                 </li>
                                 <li>
                                     <a href="https://twitter.com/mums_care">
-                                        <i class="icofont-twitter"></i>
+                                        <i class="icofoitter"></i>
                                     </a>
                                 </li>
                                 <li>
