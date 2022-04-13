@@ -427,7 +427,7 @@
   </div>
 </div>        
             
-                  <div class="col-lg-3 mt-4 mb-4">
+                  <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
               <div style="border: 2px solid #ccc"><p class="small text-muted font-w300 mt-4 mb-4 text-center">Photo coming soon</p></div>
@@ -437,9 +437,9 @@
       <h6 class="text-muted">Consultant Cardiologist</h6>  
     </div>
   </div>
-</div>        
+</div>         -->
             
-                  <div class="col-lg-3 mt-4 mb-4">
+                  <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
               <div style="border: 2px solid #ccc"><p class="small text-muted font-w300 mt-4 mb-4 text-center">Photo coming soon</p></div>
@@ -449,7 +449,7 @@
       <h6 class="text-muted">Consultant in General Surgery and Colorectal Medicine</h6>  
     </div>
   </div>
-</div>        
+</div>         -->
             
                   <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
@@ -547,7 +547,7 @@
   </div>
 </div>        
             
-                  <div class="col-lg-3 mt-4 mb-4">
+                  <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
               <div style="border: 2px solid #ccc"><p class="small text-muted font-w300 mt-4 mb-4 text-center">Photo coming soon</p></div>
@@ -557,7 +557,7 @@
       <h6 class="text-muted">General Practitioner</h6>  
     </div>
   </div>
-</div>        
+</div>         -->
             
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
@@ -631,7 +631,7 @@
   </div>
 </div>        
             
-                  <div class="col-lg-3 mt-4 mb-4">
+                  <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
               <div style="border: 2px solid #ccc"><p class="small text-muted font-w300 mt-4 mb-4 text-center">Photo coming soon</p></div>
@@ -641,7 +641,7 @@
       <h6 class="text-muted">HCA</h6>  
     </div>
   </div>
-</div>        
+</div>         -->
             
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
@@ -654,7 +654,7 @@
     </div>
   </div>
 </div>        
-            
+<!--             
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
@@ -665,9 +665,9 @@
       <h6 class="text-muted">HCA</h6>  
     </div>
   </div>
-</div>        
+</div>         -->
             
-                  <div class="col-lg-3 mt-4 mb-4">
+                  <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
               <div style="border: 2px solid #ccc"><p class="small text-muted font-w300 mt-4 mb-4 text-center">Photo coming soon</p></div>
@@ -677,9 +677,9 @@
       <h6 class="text-muted">Midwife</h6>  
     </div>
   </div>
-</div>        
+</div>         -->
             
-                  <div class="col-lg-3 mt-4 mb-4">
+                  <!-- <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
               <div style="border: 2px solid #ccc"><p class="small text-muted font-w300 mt-4 mb-4 text-center">Photo coming soon</p></div>
@@ -689,8 +689,8 @@
       <h6 class="text-muted">Physiotherapist</h6>  
     </div>
   </div>
-</div>        
-            
+</div>         -->
+<!--             
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
     <div class="col-md-6">
@@ -701,7 +701,7 @@
       <h6 class="text-muted">Assistant Manager</h6>  
     </div>
   </div>
-</div>        
+</div>         -->
             
                   <div class="col-lg-3 mt-4 mb-4">
   <div class="row">
