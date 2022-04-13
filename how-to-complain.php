@@ -68,47 +68,9 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
-        <!-- <div class="container-fluid">
-            <div class="row align-items-center">
-                <div class="col-sm-6 col-lg-6">
-                    <div class="header-top-item">
-                        <div class="header-top-left">
-                            <ul>
-                                <li>
-                                  <a class="btn btn-sm text-white bg-cta" style="margin-left: -5px" href="/request-an-appointment"><i class=" text-white icofont-calendar"></i> Request Appointment Now</a>
-                                </li>
-                                <li>
-                                  <a class="text-white" href="tel:0121 704 2669">
-                                    <i class="text-white icofont-ui-call"></i>
-                                    0121 704 2669                                  </a>
-                                </li>
-                                <li>
-                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
-                                    <i class="text-white icofont-ui-message"></i>
-                                    comfortcaregroups.co.uk                                   </a>
-                                </li>                                
-                                
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-6">
-                    <div class="header-top-item">
-                        <div class="header-top-right">
-                            <ul>
-                                
-                                <li>
-                                    <a style="width: auto; color: white" href="/contact-us">
-                                        Contact Us                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-    </div>
+    <div class="header-top bg-mums-purple text-center">
+        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+    </div>           
     <!-- End Header Top --> 
     
       <div class="navbar-area sticky-top">
@@ -469,7 +431,7 @@ info@iscas.org.uk</p>
 <p>Where the investigation of the complaint requires consideration of the patient&rsquo;s medical records, the Complaints Manager must inform the patient or person acting on his/her behalf if the investigation will involve disclosure of information contained in those records to a person other than the Practice or an employee of the Practice.</p>
 
 <ol>
-	<li>If you have a complaint about any aspect of the service, care or treatment provided, please make this known to Stephanie Byrom, Director of Operations in the first instance. You may initially make this complaint in person, in writing or any other medium. Email:&nbsp;<a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>. Either you or someone acting on your behalf may complain. Please supply name and full address for reference.</li>
+	<li>If you have a complaint about any aspect of the service, care or treatment provided, please make this known to Stephanie Byrom, Director of Operations in the first instance. You may initially make this complaint in person, in writing or any other medium. Email:&nbsp;<a href="mailto:administrator@comfortcaregroups.co.uk">administrator@comfortcaregroups.co.uk</a>. Either you or someone acting on your behalf may complain. Please supply name and full address for reference.</li>
 	<li>Your complaint will be acknowledged in writing within 2 working days.</li>
 	<li>We would ask you to confirm your complaint in writing as soon as possible to avoid any misunderstandings.</li>
 	<li>After a full investigation you will be sent a letter of explanation within 20 working days. If investigations are still ongoing after that stage you will be sent a letter letting you know what is happening.</li>
@@ -489,10 +451,10 @@ info@iscas.org.uk</p>
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
+                        <a href="mailto:administrator@comfortcaregroups.co.uk">administrator@comfortcaregroups.co.uk</a>                                        
                       </li>
                       <li>
-                        <a href="tel:0121 704 2669">0121 704 2669</a>                                        
+                        <a href="tel:0114 361 0114">0114 361 0114</a>                                        
                       </li>
                       <li>
                         The Blades Centre John Street

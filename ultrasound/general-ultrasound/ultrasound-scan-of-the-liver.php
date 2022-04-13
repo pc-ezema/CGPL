@@ -69,47 +69,9 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
-        <!-- <div class="container-fluid">
-            <div class="row align-items-center">
-                <div class="col-sm-6 col-lg-6">
-                    <div class="header-top-item">
-                        <div class="header-top-left">
-                            <ul>
-                                <li>
-                                  <a class="btn btn-sm text-white bg-cta" style="margin-left: -5px" href="/request-an-appointment"><i class=" text-white icofont-calendar"></i> Request Appointment Now</a>
-                                </li>
-                                <li>
-                                  <a class="text-white" href="tel:0121 704 2669">
-                                    <i class="text-white icofont-ui-call"></i>
-                                    0121 704 2669                                  </a>
-                                </li>
-                                <li>
-                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
-                                    <i class="text-white icofont-ui-message"></i>
-                                    comfortcaregroups.co.uk                                   </a>
-                                </li>                                
-                                
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-6">
-                    <div class="header-top-item">
-                        <div class="header-top-right">
-                            <ul>
-                                
-                                <li>
-                                    <a style="width: auto; color: white" href="/contact-us">
-                                        Contact Us                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-    </div>
+    <div class="header-top bg-mums-purple text-center">
+        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+    </div>           
     <!-- End Header Top --> 
     
       <div class="navbar-area sticky-top">
@@ -397,7 +359,7 @@
 
 <p>CGPL patients can self-refer or bring a referral from their clinician. There are no waiting times and booking is easy. A liver scan costs &pound;195.00. You will be given a report at the end of the scan. The report can be analysed by CGPL clinicians for any onward referral or more investigative testing such as liver function testing.</p>
 
-<p>You can call us on 0121 704 2669 to book or you can make an enquiry on our website. You can even book an pay online.</p>
+<p>You can call us on 0114 361 0114 to book or you can make an enquiry on our website. You can even book an pay online.</p>
 
 <p>CGPL has been offering ultrasound for two decades &ndash; offering affordable ultrasound for rapid diagnosis using the&nbsp;the most experienced clinicians.</p>
                     </div>
@@ -599,10 +561,10 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
+                        <a href="mailto:administrator@comfortcaregroups.co.uk">administrator@comfortcaregroups.co.uk</a>                                        
                       </li>
                       <li>
-                        <a href="tel:0121 704 2669">0121 704 2669</a>                                        
+                        <a href="tel:0114 361 0114">0114 361 0114</a>                                        
                       </li>
                       <li>
                         The Blades Centre John Street

@@ -69,47 +69,9 @@
       
           
     <!-- Header Top -->
-    <div class="header-top bg-mums-purple">
-        <!-- <div class="container-fluid">
-            <div class="row align-items-center">
-                <div class="col-sm-6 col-lg-6">
-                    <div class="header-top-item">
-                        <div class="header-top-left">
-                            <ul>
-                                <li>
-                                  <a class="btn btn-sm text-white bg-cta" style="margin-left: -5px" href="/request-an-appointment"><i class=" text-white icofont-calendar"></i> Request Appointment Now</a>
-                                </li>
-                                <li>
-                                  <a class="text-white" href="tel:0121 704 2669">
-                                    <i class="text-white icofont-ui-call"></i>
-                                    0121 704 2669                                  </a>
-                                </li>
-                                <li>
-                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
-                                    <i class="text-white icofont-ui-message"></i>
-                                    comfortcaregroups.co.uk                                   </a>
-                                </li>                                
-                                
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-lg-6">
-                    <div class="header-top-item">
-                        <div class="header-top-right">
-                            <ul>
-                                
-                                <li>
-                                    <a style="width: auto; color: white" href="/contact-us">
-                                        Contact Us                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-    </div>
+    <div class="header-top bg-mums-purple text-center">
+        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+    </div>           
     <!-- End Header Top --> 
     
       <div class="navbar-area sticky-top">
@@ -435,7 +397,7 @@
 
 <p dir="ltr">Whether you require an instant test, contraception, such as the contraceptive pill, or need to have an existing contraceptive implant removed and replaced, we welcome you to contact us to arrange an appointment at our private sexual health clinic.</p>
 
-<p dir="ltr">Regardless of the sexual health service you require, our service is discreet, and confidential, and we will do everything we can to put your mind at rest. Contact us directly by calling 0121 704 2669.&nbsp;Alternatively, <a href="contact-us.php">contact us</a> here.</p>
+<p dir="ltr">Regardless of the sexual health service you require, our service is discreet, and confidential, and we will do everything we can to put your mind at rest. Contact us directly by calling 0114 361 0114.&nbsp;Alternatively, <a href="contact-us.php">contact us</a> here.</p>
 
 <p dir="ltr">Each year, approximately 3.3 million sexual health-related appointments are made in the United Kingdom. Although sexual health services can be commonly accessed via NHS sexual health clinics, here at CGPL, our private sexual health clinic provides an extensive range of services that can be rapidly accessed every day.</p>
 
@@ -564,10 +526,10 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
+                        <a href="mailto:administrator@comfortcaregroups.co.uk">administrator@comfortcaregroups.co.uk</a>                                        
                       </li>
                       <li>
-                        <a href="tel:0121 704 2669">0121 704 2669</a>                                        
+                        <a href="tel:0114 361 0114">0114 361 0114</a>                                        
                       </li>
                       <li>
                         The Blades Centre John Street

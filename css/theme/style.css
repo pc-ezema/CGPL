@@ -213,7 +213,7 @@ button:focus {
 /*-- Header Top --*/
 .header-top {
   padding-top: 15px;
-  padding-bottom: 15px;
+  /* padding-bottom: 15px; */
   border-bottom: 1px solid #0a98d5;
   background-color: #ffffff;
   z-index: 1;
@@ -1595,10 +1595,10 @@ background-size: cover;
   display: block;
   color: #ffffff;
   font-weight: 500;
-  font-size: 18px;
+  /* font-size: 18px; */
   padding-left: 20px;
   position: relative;
-  margin-bottom: 15px;
+  /* margin-bottom: 15px; */
 }
 
 .footer-item .footer-contact ul li:last-child {

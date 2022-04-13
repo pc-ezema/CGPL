@@ -76,14 +76,14 @@
                                   <a class="btn btn-sm text-white bg-cta" style="margin-left: -5px" href="/request-an-appointment"><i class=" text-white icofont-calendar"></i> Request Appointment Now</a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="tel:0121 704 2669">
+                                  <a class="text-white" href="tel:0114 361 0114">
                                     <i class="text-white icofont-ui-call"></i>
-                                    0121 704 2669                                  </a>
+                                    0114 361 0114                                  </a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="mailto:comfortcaregroups.co.uk ">
+                                  <a class="text-white" href="mailto:administrator@comfortcaregroups.co.uk">
                                     <i class="text-white icofont-ui-message"></i>
-                                    comfortcaregroups.co.uk                                   </a>
+                                    administrator@comfortcaregroups.co.uk                                  </a>
                                 </li>                                
                                 
                             </ul>
@@ -370,10 +370,10 @@
                 <div class="footer-contact">                    
                     <ul>
                       <li class="mt-4">
-                        <a href="mailto:comfortcaregroups.co.uk ">comfortcaregroups.co.uk </a>                                        
+                        <a href="mailto:administrator@comfortcaregroups.co.uk">administrator@comfortcaregroups.co.uk</a>                                        
                       </li>
                       <li>
-                        <a href="tel:0121 704 2669">0121 704 2669</a>                                        
+                        <a href="tel:0114 361 0114">0114 361 0114</a>                                        
                       </li>
                       <li>
                         The Blades Centre John Street

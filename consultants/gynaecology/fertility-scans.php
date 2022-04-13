@@ -80,9 +80,9 @@
                                   <a class="btn btn-sm text-white bg-cta" style="margin-left: -5px" href="../../request-an-appointment.php"><i class=" text-white icofont-calendar"></i> Request Appointment Now</a>
                                 </li>
                                 <li>
-                                  <a class="text-white" href="tel:0121 704 2669">
+                                  <a class="text-white" href="tel:0114 361 0114">
                                     <i class="text-white icofont-ui-call"></i>
-                                    0121 704 2669                                  </a>
+                                    0114 361 0114                                  </a>
                                 </li>
                                 <li>
                                   <a class="text-white" href="mailto:administrator@mums.me.uk">
@@ -532,7 +532,7 @@
                         <a href="mailto:administrator@mums.me.uk">administrator@mums.me.uk</a>                                        
                       </li>
                       <li>
-                        <a href="tel:0121 704 2669">0121 704 2669</a>                                        
+                        <a href="tel:0114 361 0114">0114 361 0114</a>                                        
                       </li>
                       <li>
                         The Blades Centre John Street
