@@ -35,7 +35,7 @@
     <link rel="icon" href="../../images/favicons/logo_32.png" sizes="32x32" />
     <link rel="icon" href="../../images/favicons/logo_192.png" sizes="192x192" />
     
-    <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
+    
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/tests-diagnostics/cancer/early-cdt-lung"/>
     <meta property="og:title" content="Early CDT Lung Test"/>
@@ -433,7 +433,7 @@ EarlyCDT-Lung has been developed so that individuals at moderate or high risk of
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="../thank-you.php" id="booking_form">
+    <form autocomplete="off" method="post" action="../../thank-you.php" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  

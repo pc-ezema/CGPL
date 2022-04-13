@@ -35,7 +35,7 @@
     <link rel="icon" href="../../images/favicons/logo_32.png" sizes="32x32" />
     <link rel="icon" href="../../images/favicons/logo_192.png" sizes="192x192" />
     
-    <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
+    
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/tests-diagnostics/blood-tests/testosterone-and-testosterone-free"/>
     <meta property="og:title" content="Testosterone and Testosterone FREE"/>
@@ -480,7 +480,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="../thank-you.php" id="booking_form">
+    <form autocomplete="off" method="post" action="../../thank-you.php" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  

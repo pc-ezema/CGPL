@@ -34,8 +34,7 @@
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />    
     <link rel="icon" href="images/favicons/logo_32.png" sizes="32x32" />
     <link rel="icon" href="images/favicons/logo_192.png" sizes="192x192" />
-    
-    <script src="../www.google.com/recaptcha/api.js" async defer></script>
+
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/tests-diagnostics"/>
     <meta property="og:title" content="Tests and Diagnostics | Private Blood Tests - CGPL"/>

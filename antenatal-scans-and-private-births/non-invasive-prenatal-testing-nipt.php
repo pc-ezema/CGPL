@@ -35,7 +35,7 @@
     <link rel="icon" href="../images/favicons/logo_32.png" sizes="32x32" />
     <link rel="icon" href="../images/favicons/logo_192.png" sizes="192x192" />
     
-    <script src="../../www.google.com/recaptcha/api.js" async defer></script>
+    
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/antenatal-scans-and-private-births/non-invasive-prenatal-testing-nipt"/>
     <meta property="og:title" content="Non-Invasive Prenatal Testing (NIPT) | Private Tests - CGPL"/>

@@ -35,7 +35,7 @@
     <link rel="icon" href="../../images/favicons/logo_32.png" sizes="32x32" />
     <link rel="icon" href="../../images/favicons/logo_192.png" sizes="192x192" />
     
-    <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
+    
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/tests-diagnostics/blood-tests/hepatitis-b-core-antibodies-test"/>
     <meta property="og:title" content="Hepatitis B Core Antibodies Test"/>
@@ -431,7 +431,7 @@
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="../thank-you.php" id="booking_form">
+    <form autocomplete="off" method="post" action="../../thank-you.php" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  

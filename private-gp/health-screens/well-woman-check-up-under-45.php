@@ -35,7 +35,7 @@
     <link rel="icon" href="../../images/favicons/logo_32.png" sizes="32x32" />
     <link rel="icon" href="../../images/favicons/logo_192.png" sizes="192x192" />
     
-    <script src="../../../www.google.com/recaptcha/api.js" async defer></script>
+    
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/private-gp/health-screens/well-woman-check-up-under-45"/>
     <meta property="og:title" content="Private Health Screen - Well Woman Check-Up (Under 45) - CGPL"/>
@@ -611,7 +611,7 @@ A copy of your results will also be emailed to you along with your health screen
   
   <div class="appointment-form">
 
-    <form autocomplete="off" method="post" action="../thank-you.php" id="booking_form">
+    <form autocomplete="off" method="post" action="../../thank-you.php" id="booking_form">
       <input type="hidden" name="form_action" value="booking_request" />
 
       <div class="d-none">  
