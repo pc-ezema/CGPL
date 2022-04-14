@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Invasive Prenatal Testing | Private Tests - CGPL</title>
+    <title>Invasive Prenatal Testing | Private Tests - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/pregnancy-ultrasound/invasive-prenatal-testing"/>
-    <meta property="og:title" content="Invasive Prenatal Testing | Private Tests - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="Invasive Prenatal Testing | Private Tests - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="invasive-prenatal-testing.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>CVS & Amniocentesis</h3>
-                        <p>Dr Anoop Rehal, Consultant in Obstetrics and Fetal Medicine at University Hospitals Birmingham NHS Foundation Trust &ndash; performs CVS and Amniocentesis&nbsp;at CGPL Sheffield  to diagnose fetal abnormalities.</p>
+                        <p>Dr Anoop Rehal, Consultant in Obstetrics and Fetal Medicine at University Hospitals Birmingham NHS Foundation Trust &ndash; performs CVS and Amniocentesis&nbsp;at CPGL Sheffield  to diagnose fetal abnormalities.</p>
 
 <p>The choice to have the test is entirely the decision of the patient following thorough counselling with Dr Anoop Rehal</p>
 
@@ -359,7 +359,7 @@
 
 <p>The test can be done earlier than an amniocentesis at 11-14 weeks of pregnancy and involves passing a thin needle into the placenta through the uterus under ultrasound guidance to remove a small volume of cells from the placenta.</p>
 
-<p>Patients who qualify to have CVS at CGPL:</p>
+<p>Patients who qualify to have CVS at CPGL:</p>
 
 <ul>
 	<li>Will have been offered CVS if they have a higher than average chance of giving birth to a child with a genetic abnormality</li>
@@ -374,7 +374,7 @@
 
 <p>Amniocentesis is a medical procedure that can be performed from 15 weeks or pregnancy. Amniocentesis is used primarily in prenatal diagnosis of chromosomal abnormalities and fetal infection. In this procedure, a small amount of amniotic fluid, which contains fetal tissues, is sampled from the amniotic sac surrounding a developing fetus.</p>
 
-<p>Patients who qualify to have Amniocentesis at CGPL:</p>
+<p>Patients who qualify to have Amniocentesis at CPGL:</p>
 
 <ul>
 	<li>Will have been offered amniocentesis if they have a higher than average chance of giving birth to a child with a genetic abnormality</li>
@@ -387,15 +387,15 @@
 
 <p><u><strong>Costs </strong></u></p>
 
-<p><a href="../images/files/Patient%20Information%20and%20Aftercare%20Leaflet%20CVS%20and%20AMNIO%20at%20CGPL.pdf">CGPL CVS and Amniocentesis Patient Information Leaflet </a>provides much more detail about the test and the results.</p>
+<p><a href="../images/files/Patient%20Information%20and%20Aftercare%20Leaflet%20CVS%20and%20AMNIO%20at%20CPGL.pdf">CPGL CVS and Amniocentesis Patient Information Leaflet </a>provides much more detail about the test and the results.</p>
 
 <p>The Cost of CVS or Amniocentesis is &pound;695.00</p>
 
 <p>Additional costs will apply where there is additional chromosome abnormality laboratory analysis &ndash; dependent upon individual cases and the suspected abnormality.</p>
 
-<p>If you have had Nuchal Screening/NIPT or an Ultrasound at CGPL which shows you may require invasive testing such as Amnio or CVS then this will be offered to you.</p>
+<p>If you have had Nuchal Screening/NIPT or an Ultrasound at CPGL which shows you may require invasive testing such as Amnio or CVS then this will be offered to you.</p>
 
-<p>To organise your CVS or Amniocentesis at CGPL call 0114 361 0114 or complete an online enquiry. We will organise for you to see Dr Anoop Rehal &ndash; Consultant in Fetal Medicine.</p>
+<p>To organise your CVS or Amniocentesis at CPGL call 0114 361 0114 or complete an online enquiry. We will organise for you to see Dr Anoop Rehal &ndash; Consultant in Fetal Medicine.</p>
                     </div>
 
                 </div>
@@ -505,7 +505,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -530,7 +530,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -594,7 +594,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

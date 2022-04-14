@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/tests-diagnostics/blood-tests/liver-function-test-lft"/>
     <meta property="og:title" content="Liver Function Test (LFT)"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="liver-function-test-lft.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -358,11 +358,11 @@
 
 <p>If you opt for a consultation in which to have the test then you will be followed up with a telephone consultation to have the results explained to you.</p>
 
-<p>The turnaround time for the results getting back to CGPL is 24 hours.</p>
+<p>The turnaround time for the results getting back to CPGL is 24 hours.</p>
 
 <p>If you opt for a phlebotomy appointment in which to have the test &ndash; then you will need to book a remote consultation to have the results of the test explained to you.</p>
 
-<p>The liver function test at CGPL includes:<br />
+<p>The liver function test at CPGL includes:<br />
 &nbsp;<br />
 Bilirubin, ALT, AST, Total Protein, Alkaline Phos, Albumin Globulin, Gamma-GT.<br />
 &nbsp;<br />
@@ -385,7 +385,7 @@ You might have this test to check for a liver disease such as hepatitis (an illn
 <p>&nbsp;<br />
 Often, however, you don&rsquo;t notice any symptoms.<br />
 &nbsp;<br />
-You may wish to have this test at CGPL if you:</p>
+You may wish to have this test at CPGL if you:</p>
 
 <ul>
 	<li>Drink heavily or have an alcohol use disorder</li>
@@ -396,7 +396,7 @@ You may wish to have this test at CGPL if you:</p>
 </ul>
 
 <p>&nbsp;<br />
-The liver function test can also help CGPL clinicians learn whether an illness is getting worse or how well treatment is working.</p>
+The liver function test can also help CPGL clinicians learn whether an illness is getting worse or how well treatment is working.</p>
                     </div>
 
                 </div>
@@ -508,7 +508,7 @@ The liver function test can also help CGPL clinicians learn whether an illness i
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -533,7 +533,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -597,7 +597,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

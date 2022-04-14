@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Confortcare Group of Partnership Limited- CGPL</title>
+    <title>Comfortcare Partnership Group Limited- CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/"/>
-    <meta property="og:title" content="Confortcare Group of Partnership Limited- CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="Comfortcare Partnership Group Limited- CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="website"/>
 
     <link href="index.php" rel="canonical">
@@ -68,7 +68,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>
     <!-- End Header Top --> 
     
@@ -76,7 +76,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="index.php" class="logo">
-          <img src="images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -85,7 +85,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index.php">
-                      <img src="images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -319,7 +319,7 @@
           <div class="container">
               <div class="row">
                 <div class="col-md-6">
-                    <h1 class="text-dark">Welcome to <br>Comfortcare Group of Partnership Limited</h1>
+                    <h1 class="text-dark">Welcome to <br>Comfortcare Partnership Group Limited</h1>
                     <div class="text-dark">
                         <h3 class="h4 text-dark font-w300">Trusted excellence in<br />private healthcare</h3>
                     </div>
@@ -341,7 +341,7 @@
   <div class="container">
       <div class="row align-items-center">
           <div class="col-lg-12">            
-            <p>CGPL is a specialist Consultant-led medical practice based in Sheffield ,  offering a number of medical services. The Consultants and GPs at CGPL are proud to offer the highest standard of patient-centred healthcare.</p>
+            <p>CPGL is a specialist Consultant-led medical practice based in Sheffield ,  offering a number of medical services. The Consultants and GPs at CPGL are proud to offer the highest standard of patient-centred healthcare.</p>
 
 <p>We offer a comprehensive range of ultrasound pregnancy scans and birth options, so whether you choose to have just one scan or our full private care and delivery package, you will be guaranteed to receive one-to-one care and understanding.</p>
           </div>
@@ -534,11 +534,11 @@
       <div class="row align-items-center">
           <div class="col-lg-12">
             <h2 class="mb-4 font-w300 text-purple">About Us and Our Ethos</h2>
-            <p>The ethos at CGPL is to provide the best possible support for informed choice and treatment for you and your family including your unborn baby&rsquo;s health, located in a professional and comfortable setting.</p>
+            <p>The ethos at CPGL is to provide the best possible support for informed choice and treatment for you and your family including your unborn baby&rsquo;s health, located in a professional and comfortable setting.</p>
 
-<p>Comfortcare Group of Partnership Limited is an established Specialist Consultant-led medical practice based in Sheffield ,  with highly qualified and experienced dedicated staff. CGPL Clinic was established in 2003 and is owned by Dr Richard Jones, Consultant Gynaecologist &amp; Obstetrician and is the only private practice offering complete pregnancy or obstetric care at Consultant level in the entire Midlands area. Dr Richard Jones offers a holistic approach and is supported by a team of Specialist Consultants and GPs.</p>
+<p>Comfortcare Partnership Group Limited is an established Specialist Consultant-led medical practice based in Sheffield ,  with highly qualified and experienced dedicated staff. CPGL Clinic was established in 2003 and is owned by Dr Richard Jones, Consultant Gynaecologist &amp; Obstetrician and is the only private practice offering complete pregnancy or obstetric care at Consultant level in the entire Midlands area. Dr Richard Jones offers a holistic approach and is supported by a team of Specialist Consultants and GPs.</p>
 
-<p>CGPL has always prided itself in not only being at the forefront of technological development in ultrasound but also for the psychological support when entering the realms of screening or diagnostic testing.</p>
+<p>CPGL has always prided itself in not only being at the forefront of technological development in ultrasound but also for the psychological support when entering the realms of screening or diagnostic testing.</p>
 
 <p>Our Sheffield  Practice provides a bespoke atmosphere of warmth and professionalism combined with privacy to make you feel relaxed and supported.</p>
           </div>
@@ -570,7 +570,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -595,7 +595,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
@@ -659,7 +659,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

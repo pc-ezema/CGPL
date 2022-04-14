@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>How to Complain | CGPL Group of Partnership Limited</title>
+    <title>How to Complain | CPGL Group of Partnership Limited</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/how-to-complain"/>
-    <meta property="og:title" content="How to Complain | CGPL Group of Partnership Limited"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="How to Complain | CPGL Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="how-to-complain.php" rel="canonical">
@@ -69,7 +69,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -77,7 +77,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="index.php" class="logo">
-          <img src="images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -86,7 +86,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index.php">
-                      <img src="images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -337,7 +337,7 @@
 <div class="container">
   <div class='row mt-4'>
      <div class='col-lg-12'>
-      <p>At Comfortcare Group of Partnership Limited we strive to provide world class healthcare &ndash; a caring environment where we take complaints very seriously. We learn from our complaints and take action to improve the service and communicate with our patients to achieve this.</p>
+      <p>At Comfortcare Partnership Group Limited we strive to provide world class healthcare &ndash; a caring environment where we take complaints very seriously. We learn from our complaints and take action to improve the service and communicate with our patients to achieve this.</p>
 
 <p>All complaints, written and verbal will be recorded, and written complaints will be acknowledged in writing within 2 working days of receipt. Patients will be encouraged to complain in writing where possible.</p>
 
@@ -360,7 +360,7 @@ Complaints may be received either verbally or in writing and must be forwarded t
 <ul>
 	<li>Acknowledge in writing within the period of 2 working days beginning with the day on which the complaint was made or, where that is not possible, as soon as reasonably practicable. When a complaint arrives via email at the weekend &ndash; we contact the patient the next working day. Include an offer to discuss the matter in person. Advise the patient of potential timescales and the next steps;</li>
 	<li>Ensure the complaint is properly investigated. Where the complaint involves more than one organisation the Complaints Manager will liaise with his / her counterpart to agree responsibilities and ensure that one coordinated response is sent;</li>
-	<li>Where the complaint has been sent to the incorrect organisation, advise the patient within 3 working days and ask them to contact the service provider. CGPL provide appropriate contact details to the client.</li>
+	<li>Where the complaint has been sent to the incorrect organisation, advise the patient within 3 working days and ask them to contact the service provider. CPGL provide appropriate contact details to the client.</li>
 	<li>Provide a full response, following thorough investigation, within 20 working days</li>
 </ul>
 
@@ -372,13 +372,13 @@ Complaints may be received either verbally or in writing and must be forwarded t
 	<li>A clear statement of the issues, investigations and the findings, giving clear evidence-based reasons for decisions if appropriate.</li>
 	<li>Where errors have occurred, explain these fully and state what will be done to put these right, or prevent repetition.</li>
 	<li>A focus on fair and proportionate outcomes for the patient, including any remedial action or compensation.</li>
-	<li>A clear statement that the response is a STAGE 1 response and that if the complainant is not satisfied they can ask for an independent investigation ( someone who has not been involved at STAGE 1 within CGPL Organisation )</li>
+	<li>A clear statement that the response is a STAGE 1 response and that if the complainant is not satisfied they can ask for an independent investigation ( someone who has not been involved at STAGE 1 within CPGL Organisation )</li>
 	<li>An apology or explanation as appropriate.</li>
 </ul>
 
 <p><strong>STAGE 2</strong></p>
 
-<p>Complaining can be stressful, so the aim should always be to try and sort out any problems as quickly and informally as possible. If a patient&rsquo;s complaint is responded to effectively at Stage 1 when they first raise their concerns, then it is unlikely that matters will need to be escalated again &ndash; via a STAGE 2 Independent CGPL &ndash; Medical Director.</p>
+<p>Complaining can be stressful, so the aim should always be to try and sort out any problems as quickly and informally as possible. If a patient&rsquo;s complaint is responded to effectively at Stage 1 when they first raise their concerns, then it is unlikely that matters will need to be escalated again &ndash; via a STAGE 2 Independent CPGL &ndash; Medical Director.</p>
 
 <p>Timeframes for Stage 2:</p>
 
@@ -388,9 +388,9 @@ Complaints may be received either verbally or in writing and must be forwarded t
 	<li>Complaint should be concluded within 3 months (unless there is a good reason to explain longer timeframe)</li>
 </ol>
 
-<p>The independent CGPL investigator shall conduct an objective review of the investigation into the complaint and the response that was provided at Stage 1. The Independent CGPL investigator will provide a single full written response to the complainant that includes a summary of the outstanding heads of complain and the matters that remain unresolved; A summary of the process of review; The findings of the review, Detailed signposting to the next stage of the complaints process, including information on how to escalate a complaint via ISCAS and confirmation that this must be done in within six months of the final response at Stage 2.</p>
+<p>The independent CPGL investigator shall conduct an objective review of the investigation into the complaint and the response that was provided at Stage 1. The Independent CPGL investigator will provide a single full written response to the complainant that includes a summary of the outstanding heads of complain and the matters that remain unresolved; A summary of the process of review; The findings of the review, Detailed signposting to the next stage of the complaints process, including information on how to escalate a complaint via ISCAS and confirmation that this must be done in within six months of the final response at Stage 2.</p>
 
-<p>However &ndash; CGPL are subscribers to ISCAS and as such &ndash; follow the ISCAS 3 stage process.</p>
+<p>However &ndash; CPGL are subscribers to ISCAS and as such &ndash; follow the ISCAS 3 stage process.</p>
 
 <ol>
 	<li>Stage 1 &ndash; Investigation and Complaint</li>
@@ -398,7 +398,7 @@ Complaints may be received either verbally or in writing and must be forwarded t
 	<li>Stage 3 &ndash; Signpost to ISCAS for Independent Adjudicator</li>
 </ol>
 
-<p>Patients of CGPL have the right to escalate the complaint to ISCAS, Independent Sector Complaints Adjudications Service, Patients may not be satisfied with the way CGPL dealt with their complaint or may not be satisfied with the written investigation and response and wish for an independent review.</p>
+<p>Patients of CPGL have the right to escalate the complaint to ISCAS, Independent Sector Complaints Adjudications Service, Patients may not be satisfied with the way CPGL dealt with their complaint or may not be satisfied with the written investigation and response and wish for an independent review.</p>
 
 <p>If patients are not satisfied with the complaint review at stage 2, they have the right to refer the matter to stage 3 independent external adjudication through ISCAS (for subscribing providers). They need to do this within 6 months of receiving the final response at stage 2 and ISCAS aims to complete its adjudications within 3-6 months. The person making a complaint does not pay for the complaints process.</p>
 
@@ -406,9 +406,9 @@ Complaints may be received either verbally or in writing and must be forwarded t
 
 <p>If patients wish to escalate their complaint to ISCAS at stage 3, they should do this in writing.</p>
 
-<p>ISCAS will provide a written acknowledgement to them within 3 working days. It will then write to CGPL to advise that they wish to escalate their complaint. The provider will have 10 working days to object, where relevant, for example because the earlier stages of the process have not yet been exhausted.</p>
+<p>ISCAS will provide a written acknowledgement to them within 3 working days. It will then write to CPGL to advise that they wish to escalate their complaint. The provider will have 10 working days to object, where relevant, for example because the earlier stages of the process have not yet been exhausted.</p>
 
-<p>An Independent Adjudicator will send CGPL a letter to confirm that they have received a complaint. They will then compile a chronology of events, identify the main points (&lsquo;key heads&rsquo;) of the complaint and write to CGPL setting out their understanding of your complaint. The Independent Adjudicator will keep CGPL updated with progress, at a minimum, every 20 working days. The Independent Adjudicator will decide to uphold or not uphold each aspect of the complaint. They have the discretion to award a goodwill payment up to a limit of &pound;5,000, in accordance with the ISCAS Goodwill Payments Guide.</p>
+<p>An Independent Adjudicator will send CPGL a letter to confirm that they have received a complaint. They will then compile a chronology of events, identify the main points (&lsquo;key heads&rsquo;) of the complaint and write to CPGL setting out their understanding of your complaint. The Independent Adjudicator will keep CPGL updated with progress, at a minimum, every 20 working days. The Independent Adjudicator will decide to uphold or not uphold each aspect of the complaint. They have the discretion to award a goodwill payment up to a limit of &pound;5,000, in accordance with the ISCAS Goodwill Payments Guide.</p>
 
 <p>There is no appeal to Stage 3 adjudication and the Independent Adjudicator&rsquo;s decision is final. However complainants are able to seek legal action at any point during or after the ISCAS complaints process and their statutory rights are not affected. If patients are not satisfied with the way ISCAS has managed the stage 3 process they are entitled to make a&nbsp;<a href="https://iscas.cedr.com/about/complaints-about-iscas/">complaint about ISCAS</a>.</p>
 
@@ -445,7 +445,7 @@ info@iscas.org.uk</p>
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -470,7 +470,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
@@ -534,7 +534,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

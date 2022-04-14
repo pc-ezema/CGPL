@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/tests-diagnostics/allergy/cereal-allergy-test"/>
     <meta property="og:title" content="Cereal Allergy Test"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="cereal-allergy-test.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -323,7 +323,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-7">
-                    <h1 class='text-white'>CGPL Cereal Allergy Testing</h1>
+                    <h1 class='text-white'>CPGL Cereal Allergy Testing</h1>
                                         
                                           <a class='btn text-white bg-cta d-sm-inline d-md-none' href='#book_now'>Book Now</a>
                                           
@@ -348,7 +348,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p><img alt="" src="../../images/images/Food%20Allergy.jpg" style="width: 400px; height: 233px;" />Having an Allergy Test to see if you have a particular food allergy/sensitivity/intolerance at CGPL Sheffield  is easy. We offer simple blood tests but combine a number of different foods together to make a profile to give you a bigger picture of what type of food you may be allergic to or intolerant of.</p>
+                        <p><img alt="" src="../../images/images/Food%20Allergy.jpg" style="width: 400px; height: 233px;" />Having an Allergy Test to see if you have a particular food allergy/sensitivity/intolerance at CPGL Sheffield  is easy. We offer simple blood tests but combine a number of different foods together to make a profile to give you a bigger picture of what type of food you may be allergic to or intolerant of.</p>
 
 <p>You may choose to have this test within a GP Consultation to discuss your history and symptoms.</p>
 
@@ -375,17 +375,17 @@
 
 <p>You may well think you are allergic to gluten. Wheat, Barley and Rye contain gluten which is a protein.</p>
 
-<p>At CGPL we also offer coeliac testing. It is for this reason we recommend a GP Consultation to ensure which test is appropriate for you. Coeliac disease is very different from intolerances and allergies and is caused by inflammation of the small intestine.</p>
+<p>At CPGL we also offer coeliac testing. It is for this reason we recommend a GP Consultation to ensure which test is appropriate for you. Coeliac disease is very different from intolerances and allergies and is caused by inflammation of the small intestine.</p>
 
 <p>If you are allergic to gluten you may experience symptoms which worsen over time. You may want to find out as to whether you might be allergic to gluten and we well let you know if you test positive.</p>
 
 <p>You may not know what you are allergic to and want to find out to avoid any of the above.</p>
 
-<p>A lot of people have a reaction to certain food types. For example, digestive problems such as abdominal pain and bloating or skin problems such as rashes and hives. There is a difference between intolerance and allergies but they are both unpleasant. It is best to jot down what you have eaten and so when you have a reaction you have a better chance of pinning down what it might be. If you have a strong reaction you should seek medical advice. At CGPL &ndash; our Private GPs consult with you and take a full history and examination and help you manage your allergies and intolerances by eliminating what it is your body does not like.</p>
+<p>A lot of people have a reaction to certain food types. For example, digestive problems such as abdominal pain and bloating or skin problems such as rashes and hives. There is a difference between intolerance and allergies but they are both unpleasant. It is best to jot down what you have eaten and so when you have a reaction you have a better chance of pinning down what it might be. If you have a strong reaction you should seek medical advice. At CPGL &ndash; our Private GPs consult with you and take a full history and examination and help you manage your allergies and intolerances by eliminating what it is your body does not like.</p>
 
 <p>If you suffer from bloating or abdominal pain or diarrhoea following certain foods or you have skin sensitivities and develop itching or rashes or hives &ndash; although these can be caused by other factors such as stress and IBS &ndash; they could be due to some of the foods listed above that you should avoid.</p>
 
-<p>CGPL experience of providing allergy testing has enabled us to group common allergen tests together.</p>
+<p>CPGL experience of providing allergy testing has enabled us to group common allergen tests together.</p>
 
 <p>This Cereal combination test gives our GPs and you a good idea as to what it is that is causing your allergic symptoms or your intolerance of.</p>
 
@@ -508,7 +508,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -533,7 +533,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -597,7 +597,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

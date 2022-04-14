@@ -86,7 +86,7 @@ body {
   font-family: "Poppins";
   color: #666;
   background-color: #ffffff;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -350,7 +350,7 @@ button:focus {
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a {
   color: #000;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover, .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:focus, .main-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
@@ -367,7 +367,7 @@ button:focus {
 
 .main-nav nav .navbar-nav .nav-item a {
   font-weight: 400;
-  font-size: 15px;
+  font-size: 14px;
   color: #000;
   text-transform: capitalize;
 }
@@ -446,7 +446,7 @@ button:focus {
   width: 300px;
   background-color: #dddddd80;
   border: 1px solid #ddd;
-  font-size: 15px;
+  font-size: 14px;
   height: 45px;
   border-radius: 0;
 }
@@ -540,7 +540,7 @@ button:focus {
   display: inline-block;
   color: #0a98d5;
   background-color: #ffffff;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
   padding: 12px 18px;
   border-radius: 5px;
@@ -725,7 +725,7 @@ button:focus {
 
 .about-item a {
   display: inline-block;
-  font-size: 15px;
+  font-size: 14px;
   color: #ffffff;
   background-color: #0a98d5;
   font-weight: 500;
@@ -1273,7 +1273,7 @@ button:focus {
 .doctor-item .doctor-top a {
   display: inline-block;
   color: #0a98d5;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   padding: 15px 0;
   position: absolute;
@@ -1318,7 +1318,7 @@ button:focus {
 .doctor-item .doctor-bottom span {
   display: block;
   color: #000;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .doctor-btn {
@@ -1425,7 +1425,7 @@ button:focus {
   list-style-type: none;
   color: #0a98d5;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .blog-item .blog-bottom ul li i {
@@ -1446,7 +1446,7 @@ button:focus {
   display: block;
   color: #0a98d5;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .blog-item .blog-bottom ul li a:hover {
@@ -1495,7 +1495,7 @@ button:focus {
 .newsletter-item p {
   margin-bottom: 0;
   color: #676767;
-  font-size: 15px;
+  font-size: 14px;
   max-width: 550px;
   margin-left: 0;
 }
@@ -1596,7 +1596,7 @@ background-size: cover;
   color: #ffffff;
   font-weight: 500;
   /* font-size: 18px; */
-  padding-left: 20px;
+  /* padding-left: 20px; */
   position: relative;
   /* margin-bottom: 15px; */
 }
@@ -1662,7 +1662,7 @@ background-size: cover;
 .footer-item .footer-quick ul li a {
   display: block;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 14px;
   color: #ffffff;
 }
 
@@ -1682,7 +1682,7 @@ background-size: cover;
 }
 
 .footer-item .footer-feedback .form-group .form-control {
-  font-size: 15px;
+  font-size: 14px;
   background-color: transparent;
   border-radius: 0;
   border: 0;
@@ -1980,7 +1980,7 @@ background-size: cover;
 .section-title-two span {
   display: inline-block;
   color: #0a98d5;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   margin-bottom: 5px;
 }
@@ -2213,7 +2213,7 @@ background-size: cover;
 .appointment-item span {
   display: block;
   color: #000;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   margin-bottom: 50px;
 }
@@ -2236,7 +2236,7 @@ background-size: cover;
 .appointment-item .appointment-form .form-group label {
   margin-bottom: 10px;
   color: #000;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
 }
 
@@ -2244,7 +2244,7 @@ background-size: cover;
   border-radius: 0;
   border: 0;
   border-bottom: 1px solid #0a98d59e;
-  font-size: 15px;
+  font-size: 14px;
   padding-left: 0;
   padding-bottom: 8px;
   height: 40px;
@@ -2277,7 +2277,7 @@ background-size: cover;
   color: #ffffff;
   background-color: #0a98d5;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 14px;
   border-radius: 5px;
   padding: 18px 45px;
   -webkit-transition: 0.5s all ease;
@@ -2328,7 +2328,7 @@ background-size: cover;
   display: inline-block;
   color: #ffffff;
   background-color: #0a98d5;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
   padding: 12px 18px;
   border-radius: 5px;
@@ -2607,7 +2607,7 @@ background-size: cover;
   background-color: #0a98d5;
   border-radius: 10px;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 14px;
   padding: 20px 42px;
 }
 
@@ -2822,7 +2822,7 @@ background-size: cover;
 .slider-for div p {
   margin-bottom: 0;
   color: #000000;
-  font-size: 15px;
+  font-size: 14px;
   text-align: center;
   max-width: 580px;
   margin-left: auto;
@@ -2962,13 +2962,13 @@ background-size: cover;
 
 .doctor-search-item .form-group label {
   color: #000;
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 5px;
 }
 
 .doctor-search-item .form-group .form-control {
   font-weight: 600;
-  font-size: 15px;
+  font-size: 14px;
   border-radius: 0;
   border: 0;
   padding-left: 0;
@@ -3391,7 +3391,7 @@ background: #0a98d5;
 }
 
 .blog-details-item .blog-details-img p {
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 22px;
 }
 
@@ -3399,7 +3399,7 @@ background: #0a98d5;
   color: #232323;
   font-weight: 700;
   margin-top: 10px;
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 25px;
 }
 
@@ -3435,7 +3435,7 @@ background: #0a98d5;
 
 .blog-details-item .blog-details-previous .prev-next ul li a {
   display: block;
-  font-size: 15px;
+  font-size: 14px;
   color: #0045be;
   border: 1px solid #0045be;
   padding: 10px 25px;
@@ -3536,7 +3536,7 @@ background: #0a98d5;
 .blog-details-item .blog-details-recent ul li a {
   display: block;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 14px;
   color: #232323;
   margin-bottom: 15px;
   padding-top: 4px;
@@ -3550,7 +3550,7 @@ background: #0a98d5;
   display: inline-block;
   padding-left: 0;
   color: #3a5ed3;
-  font-size: 15px;
+  font-size: 14px;
   margin-right: 25px;
   padding-bottom: 0;
 }
@@ -3652,7 +3652,7 @@ background: #0a98d5;
 
 .blog-details-item .blog-details-tags ul li a {
   display: block;
-  font-size: 15px;
+  font-size: 14px;
   color: #000;
   background-color: #e5e5e5;
   padding: 12px 25px;
@@ -3727,7 +3727,7 @@ background: #0a98d5;
 .blog-details-form .blog-details-form-wrap .blog-details-form-btn {
   color: #ffffff;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 14px;
   padding: 15px 34px;
   background-color: #0a98d5;
   -webkit-transition: 0.5s all ease;
@@ -3890,7 +3890,7 @@ background: #0a98d5;
 
 .drop-item .drop-left .drop-btn {
   font-weight: 600;
-  font-size: 15px;
+  font-size: 14px;
   color: #ffffff;
   padding: 14px 35px;
   -webkit-transition: 0.5s all ease;
@@ -3956,7 +3956,7 @@ background: #0a98d5;
 }
 
 .accordion p {
-  font-size: 15px;
+  font-size: 14px;
   display: none;
   padding: 20px 45px 15px 20px;
   margin-bottom: 0;
@@ -4131,7 +4131,7 @@ background: #0a98d5;
   height: 35px;
   line-height: 35px;
   border-radius: 50%;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .coming-item ul li a:hover {
@@ -4305,7 +4305,7 @@ background: #0a98d5;
   height: 45px;
   border: 1px solid #000;
   padding-left: 20px;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .signup-item .signup-form .form-group .form-control:focus {
@@ -4555,7 +4555,7 @@ background: #0a98d5;
 }
 
 .services-details-img blockquote {
-  font-size: 15px;
+  font-size: 14px;
   color: #000;
   background-color: #0a98d514;
   padding: 30px 75px;
@@ -4932,7 +4932,7 @@ background: #0a98d5;
 .slider-item-three .slider-text span {
   display: inline-block;
   color: #111111;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
   position: relative;
   padding-left: 25px;

@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>2nd Opinions | Pregnancy Ultrasounds - CGPL</title>
+    <title>2nd Opinions | Pregnancy Ultrasounds - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/pregnancy-ultrasound/2nd-opinions"/>
-    <meta property="og:title" content="2nd Opinions | Pregnancy Ultrasounds - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="2nd Opinions | Pregnancy Ultrasounds - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="2nd-opinions.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Obstetric 2nd Opinions</h3>
-                        <p>CGPL offer second opinion antenatal scans with our Consultants in Obstetrics&nbsp;and Fetal Medicine.</p>
+                        <p>CPGL offer second opinion antenatal scans with our Consultants in Obstetrics&nbsp;and Fetal Medicine.</p>
 
 <p>Approximately 2-3 of every 100 babies may have an abnormality or condition for which the pregnancy would require specialist care. Some minor congenital problems do not pose risk to the baby and do not require treatment. Some congenital problems may require treatment during pregnancy or an operation soon after birth. Rarely there may be a severe congenital problem which could be life-limiting or could cause significant disability.</p>
 
@@ -399,7 +399,7 @@
                                   <a>I’ve been told there is something wrong with my baby, I want a second opinion and time to ask questions.</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                                  <p >At CGPL we have fetal medicine doctors who have many years of experience. If you would like a second opinion or the USS explaining in more detail, please book in so we can assist you.</p>
+                                  <p >At CPGL we have fetal medicine doctors who have many years of experience. If you would like a second opinion or the USS explaining in more detail, please book in so we can assist you.</p>
                                 </div>
                             </li>
 
@@ -519,7 +519,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -544,7 +544,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -608,7 +608,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

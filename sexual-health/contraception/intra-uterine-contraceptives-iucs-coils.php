@@ -41,7 +41,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/sexual-health/contraception/intra-uterine-contraceptives-iucs-coils"/>
     <meta property="og:title" content="Private IUC Fitting - Contraceptive Coil Fitting & Removal"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="intra-uterine-contraceptives-iucs-coils.php" rel="canonical">
@@ -72,7 +72,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -80,7 +80,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -89,7 +89,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -353,9 +353,9 @@
                         <h3 class='mt-4'></h3>
                         <h3><strong>Intra Uterine Contraceptives IUC&rsquo;s &ndash; Copper Coils/IUD and Hormonal Coils</strong></h3>
 
-<p>Dr Kulsum Jaffer, Consultant Gynaecologist at CGPL - &nbsp;fits and removes coils and specialises in female contraceptive services.</p>
+<p>Dr Kulsum Jaffer, Consultant Gynaecologist at CPGL - &nbsp;fits and removes coils and specialises in female contraceptive services.</p>
 
-<p>Here are the Coil/IUD services we offer at CGPL and the cost which includes the consultation, procedure and chosen IUC:</p>
+<p>Here are the Coil/IUD services we offer at CPGL and the cost which includes the consultation, procedure and chosen IUC:</p>
 
 <ul>
 	<li>Copper Coil fitting - &pound;310.00.</li>
@@ -375,7 +375,7 @@
 
 <p>Some people choose an IUC because of the length of stay of the coil.</p>
 
-<p>At CGPL we offer both the copper and hormone coils.</p>
+<p>At CPGL we offer both the copper and hormone coils.</p>
 
 <p><strong>Hormonal COIL &ndash; Intra Uterine system ( IUS)</strong></p>
 
@@ -643,7 +643,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -668,7 +668,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -732,7 +732,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Private Births & Private Midwifery Clinic - CGPL</title>
+    <title>Private Births & Private Midwifery Clinic - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/antenatal-scans-and-private-births/private-births"/>
-    <meta property="og:title" content="Private Births & Private Midwifery Clinic - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="Private Births & Private Midwifery Clinic - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="private-births.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -351,17 +351,17 @@
                         <h3 class='mt-4'>Private Births</h3>
                         <p><strong>About the team</strong></p>
 
-<p><img alt="" src="../images/images/anoop-rehal.jpg" style="border-width: 1px; border-style: solid; margin: 5px; float: right; width: 225px; height: 300px;" />Dr Anoop Rehal, Fetal Medicine Consultant at CGPL,&nbsp;provides private antenatal care and private deliveries. Anoop and the team are fully committed to providing a caring and safe experience for you and your baby which is tailored according to your needs.</p>
+<p><img alt="" src="../images/images/anoop-rehal.jpg" style="border-width: 1px; border-style: solid; margin: 5px; float: right; width: 225px; height: 300px;" />Dr Anoop Rehal, Fetal Medicine Consultant at CPGL,&nbsp;provides private antenatal care and private deliveries. Anoop and the team are fully committed to providing a caring and safe experience for you and your baby which is tailored according to your needs.</p>
 
-<p>During the antenatal period you will be seen regularly at CGPL for a detailed consultation and ultrasound scan. This is followed by a midwifery consultation focusing on health promotion and education. We only perform planned deliveries of Caesarean Section and Induction of Labour.&nbsp;During the delivery process we use the NHS facilities at Birmingham Heartlands Hospital with the support of the hospital staff. Our presence during labour is complimented with the hospital midwives so you always have someone directly at hand. Dr Rehal will deliver the baby, whom you will have built a relationship with during your appointments with him at CGPL.&nbsp;Outside of Greater London, CGPL is the only provider of private deliveries.&nbsp;</p>
+<p>During the antenatal period you will be seen regularly at CPGL for a detailed consultation and ultrasound scan. This is followed by a midwifery consultation focusing on health promotion and education. We only perform planned deliveries of Caesarean Section and Induction of Labour.&nbsp;During the delivery process we use the NHS facilities at Birmingham Heartlands Hospital with the support of the hospital staff. Our presence during labour is complimented with the hospital midwives so you always have someone directly at hand. Dr Rehal will deliver the baby, whom you will have built a relationship with during your appointments with him at CPGL.&nbsp;Outside of Greater London, CPGL is the only provider of private deliveries.&nbsp;</p>
 
-<p><strong>What are the advantages of using CGPL?</strong></p>
+<p><strong>What are the advantages of using CPGL?</strong></p>
 
 <p>The vast majority of the time the NHS provides good care during pregnancy and delivery. However, sometimes the care cannot fully facilitate or meet your requirements. These requirements may be to have a Consultant you know and trust delivering your baby or facilitating your chosen form of delivery. You will have full 24-hour access, 7 days a week to Anoop to discuss concerns or worries no matter how small they may appear.&nbsp;</p>
 
-<p><strong>What happens if Anoop is away from the hospital or CGPL?</strong></p>
+<p><strong>What happens if Anoop is away from the hospital or CPGL?</strong></p>
 
-<p>Anoop can always be contacted through CGPL during office hours. If you are having full private care you will have access to his mobile number for out-of-hours emergencies.</p>
+<p>Anoop can always be contacted through CPGL during office hours. If you are having full private care you will have access to his mobile number for out-of-hours emergencies.</p>
 
 <p><strong>What is the cost?</strong></p>
 
@@ -375,7 +375,7 @@
 
 <p><strong>How do I arrange an appointment?</strong></p>
 
-<p>If you wish to discuss private care, please contact the Practice on 0114 361 0114 or email <a href="mailto:administrator@comfortcaregroups.co.uk">donna@CGPL.me.uk</a>. NO REFERRAL IS NECESSARY FROM YOUR GP.</p>
+<p>If you wish to discuss private care, please contact the Practice on 0114 361 0114 or email <a href="mailto:administrator@comfortcaregroups.co.uk">donna@CPGL.me.uk</a>. NO REFERRAL IS NECESSARY FROM YOUR GP.</p>
 
 <p>We can liaise with all your NHS providers to inform them of your choice etc if you so wish. You are encouraged to maintain contact with your NHS community midwife.</p>
                     </div>
@@ -496,7 +496,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -521,7 +521,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -585,7 +585,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

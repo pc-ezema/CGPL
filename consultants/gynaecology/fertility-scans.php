@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.mums.me.uk/consultants/gynaecology/fertility-scans"/>
     <meta property="og:title" content="Fertility Scans"/>
-    <meta property="og:site_name" content="MUMS | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="MUMS | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="fertility-scans.php" rel="canonical">
@@ -612,7 +612,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/private-gp/immunisations-and-travel-vaccinations/hep-a-and-b-combined-vaccination"/>
     <meta property="og:title" content="Hep A and B Combined Vaccination"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="hep-a-and-b-combined-vaccination.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -364,9 +364,9 @@
 
 <p>We can also check for immunity to Hepatitis B.</p>
 
-<p>CGPL Also offers an accelerated course.</p>
+<p>CPGL Also offers an accelerated course.</p>
 
-<p>The accelerated course consists of&nbsp;three doses prior to travel&nbsp;and a fourth dose 12 months later to fully complete the course. The second dose is given one week after the first dose and the third dose is given two weeks after the second dose. A fourth dose can be administered 12 months later for full protection. Hep A and Hep B Immunity tests are available at CGPL Sheffield  to check your immunity levels.</p>
+<p>The accelerated course consists of&nbsp;three doses prior to travel&nbsp;and a fourth dose 12 months later to fully complete the course. The second dose is given one week after the first dose and the third dose is given two weeks after the second dose. A fourth dose can be administered 12 months later for full protection. Hep A and Hep B Immunity tests are available at CPGL Sheffield  to check your immunity levels.</p>
 
 <p>Once you have completed the full course you will be protected against hep A for 25 years and against hep B for 5 years.</p>
 
@@ -491,7 +491,7 @@ If you remain at risk of either disease after your protection runs out you may n
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -516,7 +516,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -580,7 +580,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/ultrasound/general-ultrasound"/>
     <meta property="og:title" content="General Ultrasound"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="general-ultrasound.php" rel="canonical">
@@ -69,7 +69,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -77,7 +77,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -86,7 +86,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -323,7 +323,7 @@
                 <div class="row">
                   <div class="col-md-7">
                     <h1 class='text-white'>General Ultrasound</h1>
-                                        <h3 class="h4 text-white">CGPL offer a range of ultrasound services</h3>                    
+                                        <h3 class="h4 text-white">CPGL offer a range of ultrasound services</h3>                    
                                         
                                           
                                         
@@ -347,13 +347,13 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p>In addition to <a href="../pregnancy-ultrasound/antenatal-scans.php">antenatal</a> and <a href="gynaecology-ultrasound.php">gynaecological</a> scans &ndash; Comfortcare Group of Partnership Limited &ndash; CGPL &ndash; offers a wide range of diagnostic ultrasound scans using the latest technology to ensure the very best diagnosis and treatment for you.</p>
+                        <p>In addition to <a href="../pregnancy-ultrasound/antenatal-scans.php">antenatal</a> and <a href="gynaecology-ultrasound.php">gynaecological</a> scans &ndash; Comfortcare Partnership Group Limited &ndash; CPGL &ndash; offers a wide range of diagnostic ultrasound scans using the latest technology to ensure the very best diagnosis and treatment for you.</p>
 
-<p>CGPL Private Ultrasound Scans&nbsp;are performed on patients aged 16 and over by&nbsp;experienced radiographers and sonographers that actively practice at local NHS and private providers, providing you with the highest level of care. There is no need for a referral to have an ultrasound at CGPL. Access is easy and there are no waiting times. Our experienced radiographers and sonographers provide ultrasound scanning 6 days a week to assist your clinician in identifying and monitoring your condition. Our expert team can provide diagnosis and advice.</p>
+<p>CPGL Private Ultrasound Scans&nbsp;are performed on patients aged 16 and over by&nbsp;experienced radiographers and sonographers that actively practice at local NHS and private providers, providing you with the highest level of care. There is no need for a referral to have an ultrasound at CPGL. Access is easy and there are no waiting times. Our experienced radiographers and sonographers provide ultrasound scanning 6 days a week to assist your clinician in identifying and monitoring your condition. Our expert team can provide diagnosis and advice.</p>
 
-<p>Our team are fully registered and regulated for practice in the United Kingdom &ndash; so that CGPL patients receive expert reports and the very best outcomes.</p>
+<p>Our team are fully registered and regulated for practice in the United Kingdom &ndash; so that CPGL patients receive expert reports and the very best outcomes.</p>
 
-<p>Peace of mind and patient reassurance is of utmost importance to CGPL &ndash; and this is why we have high calibre and highly qualified clinicians providing affordable excellence in private healthcare, particularly ultrasound diagnostics.</p>
+<p>Peace of mind and patient reassurance is of utmost importance to CPGL &ndash; and this is why we have high calibre and highly qualified clinicians providing affordable excellence in private healthcare, particularly ultrasound diagnostics.</p>
 
 <p>We welcome self-referrals and referrals from your clinician to diagnose conditions.</p>
 
@@ -371,17 +371,17 @@
 	<li><a href="general-ultrasound/ultrasound-scan-of-the-scrotum.php">Ultrasound Scan of the Scrotum</a></li>
 </ul>
 
-<p><strong>What you can expect at CGPL when attending for an ultrasound.</strong></p>
+<p><strong>What you can expect at CPGL when attending for an ultrasound.</strong></p>
 
 <p>Ultrasound is a painless procedure with little or no preparation. An ultrasound lasts for approximately 15-30 minutes.</p>
 
-<p>A chaperone assistant will greet you and take you to one of CGPL ultrasound suites. CGPL uses the latest scanning machines and displays the images on a large screen for you. The chaperone assistant will respect your dignity with drapes.</p>
+<p>A chaperone assistant will greet you and take you to one of CPGL ultrasound suites. CPGL uses the latest scanning machines and displays the images on a large screen for you. The chaperone assistant will respect your dignity with drapes.</p>
 
 <p>The radiographer/sonographer/consultant will commence scanning and listen to the sounds and whilst examining the images and preparing the report.</p>
 
 <p>Once the ultrasound is complete the clinician will talk to you about his/her findings and report and hand you a signed copy and offer you a follow up with one of our <a href="../private-gp.php">GPs</a> or <a href="../consultants.php">Consultants </a>or send a copy to your clinician GP.</p>
 
-<p>CGPL has been offering ultrasound diagnostics for two&nbsp;decades offering:</p>
+<p>CPGL has been offering ultrasound diagnostics for two&nbsp;decades offering:</p>
 
 <ul>
 	<li>Quality</li>
@@ -496,7 +496,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -521,7 +521,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -585,7 +585,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

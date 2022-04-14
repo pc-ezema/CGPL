@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/privacy-policy"/>
     <meta property="og:title" content="Privacy Policy"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="privacy-policy.php" rel="canonical">
@@ -69,7 +69,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -77,7 +77,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="index.php" class="logo">
-          <img src="images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -86,7 +86,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index.php">
-                      <img src="images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -357,7 +357,7 @@
 
 <p>Security - We respect the security of your data and treat it in accordance with the law. International transfer: We work with international medical providers where we may transfer data with the patient&rsquo;s express consent.</p>
 
-<p>Comfortcare Group of Partnership Limited respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after patient&rsquo;s personal data and tell you about your privacy rights and how the law protects you.</p>
+<p>Comfortcare Partnership Group Limited respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after patient&rsquo;s personal data and tell you about your privacy rights and how the law protects you.</p>
 
 <p>Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.</p>
 
@@ -391,7 +391,7 @@
 
 <p>You have the right to make a complaint at any time to the Information Commissioner&rsquo;s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.</p>
 
-<p>CGPL (Midlands Ultrasound &amp; Medical Services (CGPL) Limited) is registered with the ICO, registration number Z8276804.</p>
+<p>CPGL (Midlands Ultrasound &amp; Medical Services (CPGL) Limited) is registered with the ICO, registration number Z8276804.</p>
 
 <p>&nbsp;</p>
 
@@ -696,7 +696,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -721,7 +721,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
@@ -785,7 +785,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

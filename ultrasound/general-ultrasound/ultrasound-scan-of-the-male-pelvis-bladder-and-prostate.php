@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/ultrasound/general-ultrasound/ultrasound-scan-of-the-male-pelvis-bladder-and-prostate"/>
     <meta property="og:title" content="Ultrasound Scan of the Male Pelvis - Bladder and Prostate"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="ultrasound-scan-of-the-male-pelvis-bladder-and-prostate.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -349,11 +349,11 @@
                         
                         
                         <h3 class='mt-4'>Ultrasound Scan of the Male Pelvis - Bladder and Prostate</h3>
-                        <p>At CGPL we offer ultrasound scan of the Male Pelvis - Bladder and Prostate as a combined scan to patients aged 16 and over.</p>
+                        <p>At CPGL we offer ultrasound scan of the Male Pelvis - Bladder and Prostate as a combined scan to patients aged 16 and over.</p>
 
-<p>An ultrasound of your bladder is performed to diagnose bladder problems such as the bladder wall, diverticula ( pouches ) of the bladder, bladder stones and large bladder tumours. CGPL radiographers, sonographers and&nbsp;<a href="../../consultants/urology.php"><u>Consultant Urologist</u>&nbsp;</a>&ndash; offers <a href="ultrasound-scan-of-the-prostate.php">prostate ultrasound</a> too as part of the male pelvis ultrasound. This diagnostic is safe, non-invasive and reliable.</p>
+<p>An ultrasound of your bladder is performed to diagnose bladder problems such as the bladder wall, diverticula ( pouches ) of the bladder, bladder stones and large bladder tumours. CPGL radiographers, sonographers and&nbsp;<a href="../../consultants/urology.php"><u>Consultant Urologist</u>&nbsp;</a>&ndash; offers <a href="ultrasound-scan-of-the-prostate.php">prostate ultrasound</a> too as part of the male pelvis ultrasound. This diagnostic is safe, non-invasive and reliable.</p>
 
-<p>CGPL radiographers and sonographers use this painless, non-invasive technique &ndash; using sound waves that bounce off tissue and organs to examine the bladder and prostate.</p>
+<p>CPGL radiographers and sonographers use this painless, non-invasive technique &ndash; using sound waves that bounce off tissue and organs to examine the bladder and prostate.</p>
 
 <p>Our clinicians can see detailed images to examine your prostate and bladder to look for the presence of abnormalities, cancer and other prostate and bladder related conditions. The procedure takes around 30 minutes.</p>
 
@@ -361,11 +361,11 @@
 
 <p>We can offer peace of mind and&nbsp;reassurance with high calibre radiographers performing a scan on your Bladder and Prostate. Ultrasound is non-invasive, safe and reliable.&nbsp;</p>
 
-<p>CGPL patients can self-refer or bring a referral from their clinician. There are no waiting times and booking is easy. A Male Pelvis scan costs &pound;275.00. You will be given a report at the end of the scan. The report can be analysed by CGPL clinicians for any onward referral or to see CGPL <a href="../../consultants/urology.php">Consultant Urologist.</a></p>
+<p>CPGL patients can self-refer or bring a referral from their clinician. There are no waiting times and booking is easy. A Male Pelvis scan costs &pound;275.00. You will be given a report at the end of the scan. The report can be analysed by CPGL clinicians for any onward referral or to see CPGL <a href="../../consultants/urology.php">Consultant Urologist.</a></p>
 
 <p>You can call us on 0114 361 0114 to book or you can make an enquiry on our website. You can even book an pay online.</p>
 
-<p>CGPL has been offering ultrasound for two decades &ndash; offering affordable ultrasound for rapid diagnosis using the&nbsp;the most experienced clinicians.</p>
+<p>CPGL has been offering ultrasound for two decades &ndash; offering affordable ultrasound for rapid diagnosis using the&nbsp;the most experienced clinicians.</p>
 
 <p>&nbsp;</p>
                     </div>
@@ -433,7 +433,7 @@
     
     <div class="container" style="padding-top: 15px">
 
-      <ul class="nav nav-pills nav-CGPL-book-online" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills nav-CPGL-book-online" id="pills-tab" role="tablist">
         <li class="nav-item" style="width: 50%">
             <a class="nav-link active" id="pills-booknow-tab" data-toggle="pill" href="#pills-booknow" role="tab" aria-controls="pills-booknow" aria-selected="false">
                 Book &amp; Pay Now
@@ -561,7 +561,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -586,7 +586,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -650,7 +650,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

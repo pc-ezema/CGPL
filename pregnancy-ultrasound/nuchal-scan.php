@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Nuchal Ultrasound Scan | Pre-Birth Checks - CGPL</title>
+    <title>Nuchal Ultrasound Scan | Pre-Birth Checks - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/pregnancy-ultrasound/nuchal-scan"/>
-    <meta property="og:title" content="Nuchal Ultrasound Scan | Pre-Birth Checks - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="Nuchal Ultrasound Scan | Pre-Birth Checks - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="nuchal-scan.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -352,7 +352,7 @@
                         <p><strong>A nuchal scan is a screening test for Downs Syndrome and two other chromosomal abnormalities, Edward&rsquo;s and Patau&#39;s Syndrome.</strong></p>
 
 <div>
-<p>Many NHS hospitals now offer a nuchal scan, but the NHS scan does not look for all of the markers for Downs syndrome that CGPL does. They do not look for the presence of a nasal bone, the heart and the blood flow studies. Therefore our detection rate is much higher than the NHS can offer as we are looking at the baby in more detail. All nuchal scans performed at CGPL are undertaken by a fetal medicine specialist, who is highly skilled in this screening process.</p>
+<p>Many NHS hospitals now offer a nuchal scan, but the NHS scan does not look for all of the markers for Downs syndrome that CPGL does. They do not look for the presence of a nasal bone, the heart and the blood flow studies. Therefore our detection rate is much higher than the NHS can offer as we are looking at the baby in more detail. All nuchal scans performed at CPGL are undertaken by a fetal medicine specialist, who is highly skilled in this screening process.</p>
 
 <p>All women whatever their age, have a small risk of delivering a baby with Downs Syndrome; the risk increases as the age of the mother increases. These syndromes are chromosomal abnormalities caused by the presence of an extra chromosome within the cells of the baby.</p>
 
@@ -423,14 +423,14 @@
                                   <a>How do I get my results? </a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                                  <p style="display: block">If you attend CGPL 3 days prior to your scan, we can take your blood test and give you the results on the day of your USS. Please contact CGPL and we are happy to talk through your appointment. </p>
+                                  <p style="display: block">If you attend CPGL 3 days prior to your scan, we can take your blood test and give you the results on the day of your USS. Please contact CPGL and we are happy to talk through your appointment. </p>
                                 </div>
                             </li>
 
                           
                             <li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="wow fadeInUp" data-wow-delay=".3s">
                                 <div>
-                                  <a>Can I attend my NHS booking scan if I come to CGPL for a nuchal scan?</a>
+                                  <a>Can I attend my NHS booking scan if I come to CPGL for a nuchal scan?</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                   <p >Yes, your NHS booking scan is important, please still attend it, however we would recommend not having the Nuchal scan and blood test again. </p>
@@ -450,10 +450,10 @@
                           
                             <li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="wow fadeInUp" data-wow-delay=".3s">
                                 <div>
-                                  <a>Why is the CGPL nuchal scan different to the NHS? </a>
+                                  <a>Why is the CPGL nuchal scan different to the NHS? </a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                                  <p >The CGPL nuchal scan is 98% accurate as it checks for more markers such as:
+                                  <p >The CPGL nuchal scan is 98% accurate as it checks for more markers such as:
 
 •	Nasal bone, most babies with down syndrome do not display a calcified nasal bone at this stage. 
 •	Tricuspid Regurgitation which is a leaking heart valve.
@@ -579,7 +579,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -604,7 +604,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -668,7 +668,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

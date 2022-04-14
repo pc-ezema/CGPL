@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/consultants/paediatrics"/>
     <meta property="og:title" content="Private Specialist Consultant Paediatrician in Sheffield  Consultant "/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="paediatrics.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Dr Vijay Iyer - Consultant Paediatrician </h3>
-                        <p><img alt="" src="../images/images/Vijay%20Iyer%202.png" style="width: 351px; height: 400px;" />At CGPL&nbsp;our consultant paediatrician offers a wealth of private paediatric services that enable parents rapid access to an expert for their children without the need for a GP Referral.</p>
+                        <p><img alt="" src="../images/images/Vijay%20Iyer%202.png" style="width: 351px; height: 400px;" />At CPGL&nbsp;our consultant paediatrician offers a wealth of private paediatric services that enable parents rapid access to an expert for their children without the need for a GP Referral.</p>
 
 <p>There are no waiting times and making an appointment is easy.</p>
 
@@ -416,7 +416,7 @@
                           
                             <li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="wow fadeInUp" data-wow-delay=".3s">
                                 <div>
-                                  <a>Do I need a copy of my son/daughters NHS Record to see the paediatrician at CGPL?</a>
+                                  <a>Do I need a copy of my son/daughters NHS Record to see the paediatrician at CPGL?</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                   <p >No – you can attend without any information. A full history will be taken and the presenting complaint listened to.</p>
@@ -426,10 +426,10 @@
                           
                             <li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="wow fadeInUp" data-wow-delay=".3s">
                                 <div>
-                                  <a>Will my child be able to have any tests or diagnostics at CGPL?</a>
+                                  <a>Will my child be able to have any tests or diagnostics at CPGL?</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                                  <p >Yes – CGPL offer blood tests and ultrasound scans. We have paediatric phlebotomists and Dr Iyer also takes blood. We have consultants who perform ultrasound on children.</p>
+                                  <p >Yes – CPGL offer blood tests and ultrasound scans. We have paediatric phlebotomists and Dr Iyer also takes blood. We have consultants who perform ultrasound on children.</p>
                                 </div>
                             </li>
 
@@ -459,7 +459,7 @@
                                   <a>Will I be able to use our family health insurance.</a>
                                 </div>
                                 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                                  <p >Unfortunately not – CGPL is a self pay clinic.</p>
+                                  <p >Unfortunately not – CPGL is a self pay clinic.</p>
                                 </div>
                             </li>
 
@@ -579,7 +579,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -604,7 +604,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -668,7 +668,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

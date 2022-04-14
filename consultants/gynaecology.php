@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Gynaecology | Private Health Consultants - CGPL</title>
+    <title>Gynaecology | Private Health Consultants - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/consultants/gynaecology"/>
-    <meta property="og:title" content="Gynaecology | Private Health Consultants - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="Gynaecology | Private Health Consultants - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="gynaecology.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Consultant Gynaecologist Appointments</h3>
-                        <p><img alt="" src="../images/images/Poonam-Pradhan.jpg" />At CGPL&nbsp;our consultant gynaecologist offers a wealth of private gynaecology services that enable women across the country to secure the medical advice, guidance, and treatment they need when they need it.&nbsp;</p>
+                        <p><img alt="" src="../images/images/Poonam-Pradhan.jpg" />At CPGL&nbsp;our consultant gynaecologist offers a wealth of private gynaecology services that enable women across the country to secure the medical advice, guidance, and treatment they need when they need it.&nbsp;</p>
 
 <p dir="ltr">Offering appointments and results within a short time frame, our gynaecology services significantly reduce waiting times often encountered via the NHS and ensure that a diagnosis can be made within a matter of days.&nbsp;&nbsp;</p>
 
@@ -380,15 +380,15 @@
 
 <p dir="ltr"><a href="urogynaecology.php">Urinary incontinence</a> and <a href="urogynaecology.php">urine leakage </a>is a widespread problem, with 50% of women thought to suffer from the condition. Usually encountered by the age of 50 due to weakness in the pelvic floor caused by childbirth, menopause and ageing, urinary incontinence worsens with age.</p>
 
-<p dir="ltr">Treatment for <a href="urogynaecology.php">urinary incontinence</a> varies. However, here at CGPL, we are delighted to be the only  clinic offering the revolutionary Emsella Chair to treat urinary incontinence. The Emsella breakthrough treatment gives a staggering 11,000 contractions to the pelvic floor muscles in 28 minutes.&nbsp;</p>
+<p dir="ltr">Treatment for <a href="urogynaecology.php">urinary incontinence</a> varies. However, here at CPGL, we are delighted to be the only  clinic offering the revolutionary Emsella Chair to treat urinary incontinence. The Emsella breakthrough treatment gives a staggering 11,000 contractions to the pelvic floor muscles in 28 minutes.&nbsp;</p>
 
 <p dir="ltr">Patients sit on the Emsella chair, which holds a strong magnet that creates the electromagnetic fields and penetrates deep into the pelvic floor muscles, creating a maximum contraction of the muscles.</p>
 
-<p dir="ltr">CGPL believe this is a massive breakthrough in the treatment of <a href="urogynaecology.php">urinary incontinence</a>. The principle of the treatment is high intensity focused electromagnetic technology (HIFEM).</p>
+<p dir="ltr">CPGL believe this is a massive breakthrough in the treatment of <a href="urogynaecology.php">urinary incontinence</a>. The principle of the treatment is high intensity focused electromagnetic technology (HIFEM).</p>
 
 <p dir="ltr">Harmless and non-invasive, our patients see significant improvement in their <a href="urogynaecology.php">urinary incontinence</a> upon completing this treatment.</p>
 
-<p dir="ltr">At CGPL, we offer a <a href="urogynaecology.php">urinary incontinence</a> treatment package consisting of a consultation with Dr Richard Jones and six Emsella chair sessions.&nbsp; Extremely effective, these treatment packages remain in high demand.</p>
+<p dir="ltr">At CPGL, we offer a <a href="urogynaecology.php">urinary incontinence</a> treatment package consisting of a consultation with Dr Richard Jones and six Emsella chair sessions.&nbsp; Extremely effective, these treatment packages remain in high demand.</p>
 
 <h3 dir="ltr">Signs and Symptoms That Highlight A Gynaecology Consultation Is Needed</h3>
 
@@ -408,7 +408,7 @@
 
 <h3 dir="ltr">About Our Consultant Gynaecologist</h3>
 
-<p dir="ltr">Dr Richard Jones, Consultant Obstetrician and Gynaecologist, is available to see patients at CGPL.&nbsp; She has a specialist interest in menopause, HRT and problems arising from treatment with HRT She is a senior consultant at the University Hospital Birmingham with vast experience in pelvic Ultrasound scans.</p>
+<p dir="ltr">Dr Richard Jones, Consultant Obstetrician and Gynaecologist, is available to see patients at CPGL.&nbsp; She has a specialist interest in menopause, HRT and problems arising from treatment with HRT She is a senior consultant at the University Hospital Birmingham with vast experience in pelvic Ultrasound scans.</p>
 
 <p dir="ltr">Her interest in non-invasive treatment options has led her to offer the innovative EMSELLA treatment for urinary incontinence and Ultrafemme treatment for vaginal laxity and dryness.</p>
 
@@ -436,7 +436,7 @@
     
     <div class="container" style="padding-top: 15px">
 
-      <ul class="nav nav-pills nav-CGPL-book-online" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills nav-CPGL-book-online" id="pills-tab" role="tablist">
         <li class="nav-item" style="width: 50%">
             <a class="nav-link active" id="pills-booknow-tab" data-toggle="pill" href="#pills-booknow" role="tab" aria-controls="pills-booknow" aria-selected="false">
                 Book &amp; Pay Now
@@ -581,7 +581,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -606,7 +606,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -670,7 +670,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

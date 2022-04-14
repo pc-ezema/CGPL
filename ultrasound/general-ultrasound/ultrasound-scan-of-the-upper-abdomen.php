@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/ultrasound/general-ultrasound/ultrasound-scan-of-the-upper-abdomen"/>
     <meta property="og:title" content="Ultrasound Scan of the Upper Abdomen "/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="ultrasound-scan-of-the-upper-abdomen.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -349,9 +349,9 @@
                         
                         
                         <h3 class='mt-4'>Ultrasound Scan of the Upper Abdomen</h3>
-                        <p>At CGPL we offer ultrasound scan of the Upper Abdominal area to patients aged 16 and over.</p>
+                        <p>At CPGL we offer ultrasound scan of the Upper Abdominal area to patients aged 16 and over.</p>
 
-<p>CGPL radiographers, sonographers offer upper abdominal ultrasound. This diagnostic is safe, non-invasive and reliable. Bouncing sound waves off your bodies tissues and organs &ndash; our clinicians can see detailed images to examine your upper abdominal area to look for the presence of abnormalities and diagnose pain or distention ( enlargement). The procedure takes around 20 minutes. Using ultrasound to assess the upper abdominal area helps clinicians identify prostate conditions before they become serious or unmanageable.&nbsp;Abdominal ultrasound examinates all areas of the upper abdominal area and the organs to include:</p>
+<p>CPGL radiographers, sonographers offer upper abdominal ultrasound. This diagnostic is safe, non-invasive and reliable. Bouncing sound waves off your bodies tissues and organs &ndash; our clinicians can see detailed images to examine your upper abdominal area to look for the presence of abnormalities and diagnose pain or distention ( enlargement). The procedure takes around 20 minutes. Using ultrasound to assess the upper abdominal area helps clinicians identify prostate conditions before they become serious or unmanageable.&nbsp;Abdominal ultrasound examinates all areas of the upper abdominal area and the organs to include:</p>
 
 <ul>
 	<li>Liver</li>
@@ -362,7 +362,7 @@
 	<li>Abdominal Aorta&nbsp;</li>
 </ul>
 
-<p>CGPL sonographers and radiographers can evaluate the cause of stomach pain or bloating, liver disease and tumours and many other conditions. Our&nbsp;<a href="../../consultants/general-surgery-and-colorectal.php">Consultant General Surgeon</a>&nbsp;can see you for follow up to discuss any abnormalities found on the scan.&nbsp;</p>
+<p>CPGL sonographers and radiographers can evaluate the cause of stomach pain or bloating, liver disease and tumours and many other conditions. Our&nbsp;<a href="../../consultants/general-surgery-and-colorectal.php">Consultant General Surgeon</a>&nbsp;can see you for follow up to discuss any abnormalities found on the scan.&nbsp;</p>
 
 <p>Your doctor may recommend that you have an upper abdominal ultrasound if you&#39;re at risk of an abdominal aortic aneurysm.&nbsp;</p>
 
@@ -372,13 +372,13 @@
 
 <p>Our chaperone assistants will provide you with drapes for your dignity. Gel is used to glide the transducer and pictures and measurements of the upper abdominal area are taken by the clinician.</p>
 
-<p>You will be given a detailed report that you can give to your referring clinician and a copy will be in your CGPL electronic medical record should you wish to consult with the&nbsp;Consultant or Private GP&nbsp;at CGPL.</p>
+<p>You will be given a detailed report that you can give to your referring clinician and a copy will be in your CPGL electronic medical record should you wish to consult with the&nbsp;Consultant or Private GP&nbsp;at CPGL.</p>
 
-<p>There are no waiting times at CGPL. We offer abdominal ultrasound most days of week. The cost of Upper Abdominal Ultrasound is &pound;210.00</p>
+<p>There are no waiting times at CPGL. We offer abdominal ultrasound most days of week. The cost of Upper Abdominal Ultrasound is &pound;210.00</p>
 
 <p>You can call us on 0114 361 0114 to book or you can make an enquiry on our website. You can even book an pay online.</p>
 
-<p>CGPL has been offering ultrasound for two decades &ndash; offering affordable ultrasound for rapid diagnosis using the&nbsp;the most experienced clinicians.</p>
+<p>CPGL has been offering ultrasound for two decades &ndash; offering affordable ultrasound for rapid diagnosis using the&nbsp;the most experienced clinicians.</p>
                     </div>
 
                 </div>
@@ -454,7 +454,7 @@
     
     <div class="container" style="padding-top: 15px">
 
-      <ul class="nav nav-pills nav-CGPL-book-online" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills nav-CPGL-book-online" id="pills-tab" role="tablist">
         <li class="nav-item" style="width: 50%">
             <a class="nav-link active" id="pills-booknow-tab" data-toggle="pill" href="#pills-booknow" role="tab" aria-controls="pills-booknow" aria-selected="false">
                 Book &amp; Pay Now
@@ -582,7 +582,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -607,7 +607,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -671,7 +671,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

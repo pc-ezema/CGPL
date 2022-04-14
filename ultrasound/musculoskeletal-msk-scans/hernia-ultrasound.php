@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/ultrasound/musculoskeletal-msk-scans/hernia-ultrasound"/>
     <meta property="og:title" content="Hernia Ultrasound"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="hernia-ultrasound.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Hernia Ultrasound</h3>
-                        <p>CGPL Radiographer &ndash; Dr Adrian Burman&ndash; offers Hernia Ultrasound Scans to patients aged 16 and over.</p>
+                        <p>CPGL Radiographer &ndash; Dr Adrian Burman&ndash; offers Hernia Ultrasound Scans to patients aged 16 and over.</p>
 
 <p>A hernia ultrasound is a musculoskeletal&nbsp;scan (MSK).&nbsp;Sometimes there can be a weakening in the body tissues causing deeper tissues to protrude through these weakened areas. These are termed hernias and can be assessed and diagnosed with ultrasound very easily.</p>
 
@@ -372,13 +372,13 @@
 
 <p>Gel is used to glide the transducer and pictures and measurements of the Hernia area are taken by the Radiographer.</p>
 
-<p>You will be given a detailed report that you can give to your referring clinician and a copy will be in your CGPL electronic medical record should you wish to consult with any of CGPL Private GPs for onward referral.</p>
+<p>You will be given a detailed report that you can give to your referring clinician and a copy will be in your CPGL electronic medical record should you wish to consult with any of CPGL Private GPs for onward referral.</p>
 
-<p>There are no waiting times at CGPL.&nbsp;</p>
+<p>There are no waiting times at CPGL.&nbsp;</p>
 
 <p>You can call us on 0114 361 0114 to book or you can make an enquiry on our website. You can even book an pay online.</p>
 
-<p>CGPL has been offering ultrasound for two decades &ndash; offering affordable ultrasound for rapid diagnosis using the&nbsp;the most experienced clinicians.</p>
+<p>CPGL has been offering ultrasound for two decades &ndash; offering affordable ultrasound for rapid diagnosis using the&nbsp;the most experienced clinicians.</p>
                     </div>
 
                 </div>
@@ -474,7 +474,7 @@
     
     <div class="container" style="padding-top: 15px">
 
-      <ul class="nav nav-pills nav-CGPL-book-online" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills nav-CPGL-book-online" id="pills-tab" role="tablist">
         <li class="nav-item" style="width: 50%">
             <a class="nav-link active" id="pills-booknow-tab" data-toggle="pill" href="#pills-booknow" role="tab" aria-controls="pills-booknow" aria-selected="false">
                 Book &amp; Pay Now
@@ -602,7 +602,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -627,7 +627,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -691,7 +691,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

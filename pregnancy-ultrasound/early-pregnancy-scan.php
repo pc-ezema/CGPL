@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Early Pregnancy Ultrasound Scans | Private Guidance - CGPL</title>
+    <title>Early Pregnancy Ultrasound Scans | Private Guidance - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/pregnancy-ultrasound/early-pregnancy-scan"/>
-    <meta property="og:title" content="Early Pregnancy Ultrasound Scans | Private Guidance - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="Early Pregnancy Ultrasound Scans | Private Guidance - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="early-pregnancy-scan.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -349,7 +349,7 @@
                         
                         
                         <h3 class='mt-4'>Early Pregnancy Scans</h3>
-                        <p><strong>CGPL understands that the first few months of pregnancy can be quite an anxious time for many women with various concerns as to whether the pregnancy is developing normally.</strong></p>
+                        <p><strong>CPGL understands that the first few months of pregnancy can be quite an anxious time for many women with various concerns as to whether the pregnancy is developing normally.</strong></p>
 
 <div>
 <div>
@@ -357,7 +357,7 @@
 
 <p>If you are unsure of your dates or have irregular cycles we do ask that you have a scan two weeks after your first positive pregnancy test.</p>
 
-<p>Early Pregnancy Scans are not routinely offered on the NHS but you can have one privately without affecting your NHS entitlement. Sometimes it is requested by a doctor or midwife to confirm that your pregnancy is healthy (in this case your scan is often called a viability scan) and to calculate the date when your baby is due (usually referred to as a dating scan). It can also be performed to confirm the results of a pregnancy test or just to provide you with some reassurance that all is progressing as it should be. At CGPL we are very proud of our professional experienced and caring staff who will ensure that you receive the best care possible and give advice and support where appropriate.</p>
+<p>Early Pregnancy Scans are not routinely offered on the NHS but you can have one privately without affecting your NHS entitlement. Sometimes it is requested by a doctor or midwife to confirm that your pregnancy is healthy (in this case your scan is often called a viability scan) and to calculate the date when your baby is due (usually referred to as a dating scan). It can also be performed to confirm the results of a pregnancy test or just to provide you with some reassurance that all is progressing as it should be. At CPGL we are very proud of our professional experienced and caring staff who will ensure that you receive the best care possible and give advice and support where appropriate.</p>
 
 <div class="wpb_text_column wpb_content_element " xss="removed">
 <div class="wpb_wrapper">
@@ -473,7 +473,7 @@
     
     <div class="container" style="padding-top: 15px">
 
-      <ul class="nav nav-pills nav-CGPL-book-online" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills nav-CPGL-book-online" id="pills-tab" role="tablist">
         <li class="nav-item" style="width: 50%">
             <a class="nav-link active" id="pills-booknow-tab" data-toggle="pill" href="#pills-booknow" role="tab" aria-controls="pills-booknow" aria-selected="false">
                 Book &amp; Pay Now
@@ -601,7 +601,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -626,7 +626,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -690,7 +690,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

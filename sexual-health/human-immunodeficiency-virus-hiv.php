@@ -9,7 +9,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Private HIV Testing (Human Immunodeficiency Virus)</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-          <meta name="description" content="CGPL Private GP Clinic provides testing for HIV. Call us today to book a test or consultation." />
+          <meta name="description" content="CPGL Private GP Clinic provides testing for HIV. Call us today to book a test or consultation." />
               
         
       <!-- Google Tag Manager -->
@@ -40,7 +40,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/sexual-health/human-immunodeficiency-virus-hiv"/>
     <meta property="og:title" content="Private HIV Testing (Human Immunodeficiency Virus)"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="human-immunodeficiency-virus-hiv.php" rel="canonical">
@@ -71,7 +71,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -79,7 +79,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -88,7 +88,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -351,7 +351,7 @@
                         <h3 class='mt-4'></h3>
                         <h2>Human Immunodeficiency Virus (HIV)</h2>
 
-<p>CGPL tests for HIV.</p>
+<p>CPGL tests for HIV.</p>
 
 <ul>
 	<li>
@@ -365,7 +365,7 @@
 	</li>
 </ul>
 
-<p>You can choose to have HIV testing at CGPL with the Health Care Assistant, which costs &pound;25.00,&nbsp;our&nbsp;Sexual Health Consultant which costs &pound;85.00, or GP which costs &pound;95.00. If you choose to have your test with one of our Health Care Assistant&#39;s, then you will need a consultation with the GP or Sexual Health Consultant to have the results explained to you.</p>
+<p>You can choose to have HIV testing at CPGL with the Health Care Assistant, which costs &pound;25.00,&nbsp;our&nbsp;Sexual Health Consultant which costs &pound;85.00, or GP which costs &pound;95.00. If you choose to have your test with one of our Health Care Assistant&#39;s, then you will need a consultation with the GP or Sexual Health Consultant to have the results explained to you.</p>
 
 <p><a href="combined-sexual-health-testing.php">HIV testing is also included in our combined STI multiple tests.</a></p>
 
@@ -473,7 +473,7 @@
 
 <p>PEP is a course of HIV medication which you can take if you have been at risk of HIV infection. The course of HIV medication lasts 28 days and, if it is started within 72 hours, it may be able to prevent you becoming infected with HIV.</p>
 
-<p>You can get PEP prescribed at CGPL, at a <a href="http://www.gmfa.org.uk/sex/clinics/index#londonclinics">sexual health clinic</a> or in the Accident &amp; Emergency (A&amp;E) department of most hospitals.&nbsp;</p>
+<p>You can get PEP prescribed at CPGL, at a <a href="http://www.gmfa.org.uk/sex/clinics/index#londonclinics">sexual health clinic</a> or in the Accident &amp; Emergency (A&amp;E) department of most hospitals.&nbsp;</p>
 
 <p><strong>Can I take any measures to stop HIV acquisition?</strong></p>
 
@@ -487,7 +487,7 @@
 	<p>Do not share needles. There are many needle exchange schemes</p>
 	</li>
 	<li>
-	<p>If you think you have been exposed to HIV in the last 72 hours attend CGPL, sexual health clinics or A&amp;E and ask about Post Exposure Prophylaxis (PEP)</p>
+	<p>If you think you have been exposed to HIV in the last 72 hours attend CPGL, sexual health clinics or A&amp;E and ask about Post Exposure Prophylaxis (PEP)</p>
 	</li>
 	<li>
 	<p>If you feel you may be at ongoing risk of HIV acquisition, please talk to our sexual health and HIV consultant about Pre-Exposure Prophylaxis (PrEP). This is a daily or on demand medication that you can take to prevent HIV acquisition.</p>
@@ -607,7 +607,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -632,7 +632,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -696,7 +696,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

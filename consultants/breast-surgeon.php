@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Breast Reassurance Clinic and Testing - CGPL</title>
+    <title>Breast Reassurance Clinic and Testing - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/consultants/breast-surgeon"/>
-    <meta property="og:title" content="Breast Reassurance Clinic and Testing - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="Breast Reassurance Clinic and Testing - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="breast-surgeon.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -351,7 +351,7 @@
                         <h3 class='mt-4'>Consultant Breast Surgeon</h3>
                         <p><img alt="" src="../images/images/seni-mylvaganam-consultant-breast-surgeon.jpg" /></p>
 
-<p dir="ltr">Dr Seni Mylvaganam is CGPL&nbsp;breast consultant. Based in our clinic, Seni is a Consultant Oncoplastic Breast Surgeon who specialises in the surgical assessment and management of breast symptoms and benign disease, breast cancer and breast reconstruction. He also has expertise in the practice of cosmetic breast surgery.</p>
+<p dir="ltr">Dr Seni Mylvaganam is CPGL&nbsp;breast consultant. Based in our clinic, Seni is a Consultant Oncoplastic Breast Surgeon who specialises in the surgical assessment and management of breast symptoms and benign disease, breast cancer and breast reconstruction. He also has expertise in the practice of cosmetic breast surgery.</p>
 
 <p>A member of the Association of Breast Surgery Clinical Practice and Standards Committee, Seni initially qualified as a doctor in 2003 at the Royal Free and University College London Medical School before completing his bachelor&rsquo;s degree in Pharmacology at University College London. After completing his medical degree, he completed his specialist training with the National Oncoplastic Breast fellowship. The fellowship is restricted by competition to select breast and plastic surgeons each year. It is regarded as the gold standard for breast reconstructive training in the UK.</p>
 
@@ -359,13 +359,13 @@
 
 <p>Dr Seni Mylvaganam aims to provide every patient with the highest quality assessment, advice, and treatment, whether this is regarding benign breast symptoms, breast cancer care or cosmetic considerations. His patients remain at the heart of his work, and he states that &quot;understanding their needs is essential to offering the best treatment tailored to each individual.&quot;.</p>
 
-<p>In the United Kingdom, breast surgery is one of the most common plastic surgery procedures carried out. Each year, approximately 7,727 breast enlargements take place. Meanwhile, 4,014 breast reductions are conducted. Here at CGPL, we offer breast surgery consultant consultations and breast cancer risk screenings to anyone that requires them.&nbsp; Find out more about our services here or contact us directly for our expert advice and guidance.</p>
+<p>In the United Kingdom, breast surgery is one of the most common plastic surgery procedures carried out. Each year, approximately 7,727 breast enlargements take place. Meanwhile, 4,014 breast reductions are conducted. Here at CPGL, we offer breast surgery consultant consultations and breast cancer risk screenings to anyone that requires them.&nbsp; Find out more about our services here or contact us directly for our expert advice and guidance.</p>
 
 <p>&nbsp;</p>
 
 <h2 dir="ltr">Breast Surgery Consultations</h2>
 
-<p>While breast surgery consultations must be provided before cosmetic breast surgery procedures are completed, breast surgery consultations are additionally required to manage and investigate symptoms associated with breast disease, cancer, and reconstructions. At CGPL, our breast surgery consultations see our breast surgery consultants review our client&#39;s general health, pre-existing health conditions, risk factors and breasts before recommending a suitable course of action. If breast surgery consultations are required to detect breast cancer or the risk of breast cancer, our consultant can conduct breast cancer risk screening and tests.</p>
+<p>While breast surgery consultations must be provided before cosmetic breast surgery procedures are completed, breast surgery consultations are additionally required to manage and investigate symptoms associated with breast disease, cancer, and reconstructions. At CPGL, our breast surgery consultations see our breast surgery consultants review our client&#39;s general health, pre-existing health conditions, risk factors and breasts before recommending a suitable course of action. If breast surgery consultations are required to detect breast cancer or the risk of breast cancer, our consultant can conduct breast cancer risk screening and tests.</p>
 
 <p>&nbsp;</p>
 
@@ -413,7 +413,7 @@
 
 <p>&nbsp;</p>
 
-<p dir="ltr">Irrespective of whether you wish to detect your risk of breast cancer or require a breast surgery consultation to discuss cosmetic breast surgery, here at CGPL, we welcome you to book a private breast surgery consultation at our clinic.</p>
+<p dir="ltr">Irrespective of whether you wish to detect your risk of breast cancer or require a breast surgery consultation to discuss cosmetic breast surgery, here at CPGL, we welcome you to book a private breast surgery consultation at our clinic.</p>
 
 <p dir="ltr">Alternatively, call us today to find out more about <a href="../consultants.php">our consultations</a> and <a href="../contact-us.php">ask any questions</a> you may have.</p>
 
@@ -433,7 +433,7 @@
     
     <div class="container" style="padding-top: 15px">
 
-      <ul class="nav nav-pills nav-CGPL-book-online" id="pills-tab" role="tablist">
+      <ul class="nav nav-pills nav-CPGL-book-online" id="pills-tab" role="tablist">
         <li class="nav-item" style="width: 50%">
             <a class="nav-link active" id="pills-booknow-tab" data-toggle="pill" href="#pills-booknow" role="tab" aria-controls="pills-booknow" aria-selected="false">
                 Book &amp; Pay Now
@@ -561,7 +561,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -586,7 +586,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -650,7 +650,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

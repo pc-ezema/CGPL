@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>General Surgery and Colorectal Consultations - CGPL</title>
+    <title>General Surgery and Colorectal Consultations - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/consultants/general-surgery-and-colorectal"/>
-    <meta property="og:title" content="General Surgery and Colorectal Consultations - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="General Surgery and Colorectal Consultations - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="general-surgery-and-colorectal.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../index.php" class="logo">
-          <img src="../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../index.php">
-                      <img src="../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -352,11 +352,11 @@
                         <p><img alt="" src="../images/images/mr-david-mcarthur-consultant-general-surgeon.png" xss="removed" /><br />
 &nbsp;</p>
 
-<p dir="ltr">Dr. David McArthur, Consultant General Surgeon &amp; Colorectal Surgeon, is available to see patients at CGPL. Specialising in haemorrhoid treatment, hernia surgery, bowel cancer, bowel surgery, colostomy and ileostomy, Dr. David McArthur has a specialist interest in minimally-invasive techniques for managing colorectal and general surgical conditions.&nbsp;</p>
+<p dir="ltr">Dr. David McArthur, Consultant General Surgeon &amp; Colorectal Surgeon, is available to see patients at CPGL. Specialising in haemorrhoid treatment, hernia surgery, bowel cancer, bowel surgery, colostomy and ileostomy, Dr. David McArthur has a specialist interest in minimally-invasive techniques for managing colorectal and general surgical conditions.&nbsp;</p>
 
 <p dir="ltr">David is additionally accredited as an eXroid practitioner and runs monthly clinics to deliver this innovative technique to his patients. Learn more about the <a href="general-surgery-and-colorectal/exroid-haemorrhoid-treatment.php">eXroid treatment</a> that David provides to our patients.&nbsp; If you have any questions about eXroid treatment, <a href="https://www.exroid.com/contact">contact eXroid here</a><a href="https://www.exroid.com/contact">.</a></p>
 
-<p dir="ltr">General surgery and colorectal conditions such as colon cancer, bowel cancer, colitis and Crohn&#39;s disease impair the lives of thousands of individuals every day. While those over 50 are more likely to be affected, more than<a href="https://www.google.com/search?q=how+many+people+need+colorectal+treatment+uk&amp;client=safari&amp;rls=en&amp;sxsrf=ALeKk020BLu41qpr0N9L0kYETmMIfu59jw%3A1628680950516&amp;ei=9rITYe-lHsKF9u8PxqOaoAk&amp;oq=how+many+people+need+colorectal+treatment+uk&amp;gs_lcp=Cgdnd3Mtd2l6EAM6CQgAELADEAcQHjoICAAQgAQQsAM6BwgAELADEB46CQgAELADEAgQHjoECCMQJzoFCAAQkQI6BAgAEEM6CwgAEIAEELEDEIMBOg4ILhCABBCxAxDHARCjAjoKCAAQgAQQhwIQFDoFCAAQgAQ6BQgAELEDOggIABCxAxCDAToNCAAQgAQQhwIQsQMQFDoICAAQgAQQyQM6CAgAEIAEELEDSgQIQRgBUNCVAljEvwJghMECaARwAHgAgAGlAYgBvxuSAQQ0NC4ymAEAoAEByAEKwAEB&amp;sclient=gws-wiz&amp;ved=0ahUKEwjv-Ias7ajyAhXCgv0HHcaRBpQQ4dUDCA0&amp;uact=5"> 49 colorectal diseases</a> are diagnosed in those between 20 and 54 years old daily. Securing treatment for a colorectal condition via the NHS requires numerous referrals from GP&rsquo;s.&nbsp; Regrettably, this delays treatment, which can ultimately see underlying conditions escalate.&nbsp;Ensuring that treatment can be sought in a timely manner, here at CGPL, we provide private general surgery and colorectal consultations to those in need.</p>
+<p dir="ltr">General surgery and colorectal conditions such as colon cancer, bowel cancer, colitis and Crohn&#39;s disease impair the lives of thousands of individuals every day. While those over 50 are more likely to be affected, more than<a href="https://www.google.com/search?q=how+many+people+need+colorectal+treatment+uk&amp;client=safari&amp;rls=en&amp;sxsrf=ALeKk020BLu41qpr0N9L0kYETmMIfu59jw%3A1628680950516&amp;ei=9rITYe-lHsKF9u8PxqOaoAk&amp;oq=how+many+people+need+colorectal+treatment+uk&amp;gs_lcp=Cgdnd3Mtd2l6EAM6CQgAELADEAcQHjoICAAQgAQQsAM6BwgAELADEB46CQgAELADEAgQHjoECCMQJzoFCAAQkQI6BAgAEEM6CwgAEIAEELEDEIMBOg4ILhCABBCxAxDHARCjAjoKCAAQgAQQhwIQFDoFCAAQgAQ6BQgAELEDOggIABCxAxCDAToNCAAQgAQQhwIQsQMQFDoICAAQgAQQyQM6CAgAEIAEELEDSgQIQRgBUNCVAljEvwJghMECaARwAHgAgAGlAYgBvxuSAQQ0NC4ymAEAoAEByAEKwAEB&amp;sclient=gws-wiz&amp;ved=0ahUKEwjv-Ias7ajyAhXCgv0HHcaRBpQQ4dUDCA0&amp;uact=5"> 49 colorectal diseases</a> are diagnosed in those between 20 and 54 years old daily. Securing treatment for a colorectal condition via the NHS requires numerous referrals from GP&rsquo;s.&nbsp; Regrettably, this delays treatment, which can ultimately see underlying conditions escalate.&nbsp;Ensuring that treatment can be sought in a timely manner, here at CPGL, we provide private general surgery and colorectal consultations to those in need.</p>
 
 <p dir="ltr">&nbsp;</p>
 
@@ -509,7 +509,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -534,7 +534,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -598,7 +598,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

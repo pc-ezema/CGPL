@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/tests-diagnostics/allergy/insect-allergy-test"/>
     <meta property="og:title" content="Insect Allergy Test"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="insect-allergy-test.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -323,7 +323,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-7">
-                    <h1 class='text-white'>CGPL Insect Allergy Testing</h1>
+                    <h1 class='text-white'>CPGL Insect Allergy Testing</h1>
                                         
                                           <a class='btn text-white bg-cta d-sm-inline d-md-none' href='#book_now'>Book Now</a>
                                           
@@ -348,7 +348,7 @@
                         
                         
                         <h3 class='mt-4'></h3>
-                        <p><img alt="" src="../../images/images/Bee%20Sting.jpg" style="width: 350px; height: 269px;" />Having an Allergy Test to see if you have a particular insect allergy at CGPL Sheffield  is easy. We offer simple blood tests but combine a number of different insects together to make a profile to give you a bigger picture of what type of insects you may be allergic to.</p>
+                        <p><img alt="" src="../../images/images/Bee%20Sting.jpg" style="width: 350px; height: 269px;" />Having an Allergy Test to see if you have a particular insect allergy at CPGL Sheffield  is easy. We offer simple blood tests but combine a number of different insects together to make a profile to give you a bigger picture of what type of insects you may be allergic to.</p>
 
 <p>You may choose to have this test within a GP Consultation to discuss your history and symptoms.</p>
 
@@ -525,7 +525,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -550,7 +550,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -614,7 +614,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

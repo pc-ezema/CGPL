@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Ultrasound | Private Medical Scans - CGPL</title>
+    <title>Ultrasound | Private Medical Scans - CPGL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
               
         
@@ -38,8 +38,8 @@
     
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/ultrasound"/>
-    <meta property="og:title" content="Ultrasound | Private Medical Scans - CGPL"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:title" content="Ultrasound | Private Medical Scans - CPGL"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="ultrasound.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="index.php" class="logo">
-          <img src="images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index.php">
-                      <img src="images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -316,7 +316,7 @@
    	
     
    <!-- Page Title -->
-<div class="page-title-area page-title-four text-md-left" style="background-image: url('content/uploads/ultrasound-CGPL1.jpg')">
+<div class="page-title-area page-title-four text-md-left" style="background-image: url('content/uploads/ultrasound-CPGL1.jpg')">
     <div class="d-table">
         <div class="d-table-cell">
             <div class="page-title-item">
@@ -345,17 +345,17 @@
                 <div class="doctor-details-right">
                     <div class="doctor-details-biography">
                         <h3 class='mt-4'>Medical Ultrasound Scans For Your Health</h3>
-                        <p>Are you hoping to arrange a private ultrasound to get to the bottom of new symptoms that have you recently come to experience?&nbsp; Or do you want to arrange an early pregnancy scan? Irrespective of your reasons for requiring an ultrasound, here at CGPL, we welcome you to book a private ultrasound with us today.</p>
+                        <p>Are you hoping to arrange a private ultrasound to get to the bottom of new symptoms that have you recently come to experience?&nbsp; Or do you want to arrange an early pregnancy scan? Irrespective of your reasons for requiring an ultrasound, here at CPGL, we welcome you to book a private ultrasound with us today.</p>
 
 <h2 dir="ltr">What Are Private Ultrasounds?</h2>
 
-<p dir="ltr">Ultrasound imaging (sonography) is a non-invasive technique used to take pictures of your internal organs in order to help diagnose the symptoms you have been experiencing. Ultrasound is a safe way to obtain images of your internal organs. There are no waiting times at CGPL Sheffield  for an Ultrasound Scan. Unlike ultrasounds often provided by the NHS, private ultrasounds offer rapid access to images and same-day results. We perform <a href="ultrasound/follicle-tracking-scan.php">fertility</a>, <a href="ultrasound/gynaecology-ultrasound.php">gynaecological</a> and <a href="ultrasound/echocardiogram.php">cardiology</a> scans and many other ultrasound scans such as liver, gall bladder, abdominal scans.</p>
+<p dir="ltr">Ultrasound imaging (sonography) is a non-invasive technique used to take pictures of your internal organs in order to help diagnose the symptoms you have been experiencing. Ultrasound is a safe way to obtain images of your internal organs. There are no waiting times at CPGL Sheffield  for an Ultrasound Scan. Unlike ultrasounds often provided by the NHS, private ultrasounds offer rapid access to images and same-day results. We perform <a href="ultrasound/follicle-tracking-scan.php">fertility</a>, <a href="ultrasound/gynaecology-ultrasound.php">gynaecological</a> and <a href="ultrasound/echocardiogram.php">cardiology</a> scans and many other ultrasound scans such as liver, gall bladder, abdominal scans.</p>
 
 <p dir="ltr">&nbsp;</p>
 
-<h2 dir="ltr">What Ultrasound Services Are Offered By CGPL?</h2>
+<h2 dir="ltr">What Ultrasound Services Are Offered By CPGL?</h2>
 
-<p dir="ltr">Whether you are hoping to book an early pregnancy scan, require an abdominal ultrasound to ensure that an underlying health issue can be diagnosed, or wish to book a private ultrasound to investigate infertility or assist your fertility cycle, here at CGPL, we offer a wealth of ultrasound services. Performed by highly qualified consultants, the private ultrasounds available at our Sheffield  facility include, but are not limited to, the following.&nbsp;</p>
+<p dir="ltr">Whether you are hoping to book an early pregnancy scan, require an abdominal ultrasound to ensure that an underlying health issue can be diagnosed, or wish to book a private ultrasound to investigate infertility or assist your fertility cycle, here at CPGL, we offer a wealth of ultrasound services. Performed by highly qualified consultants, the private ultrasounds available at our Sheffield  facility include, but are not limited to, the following.&nbsp;</p>
 
 <ul dir="ltr">
 	<li><a href="pregnancy-ultrasound/antenatal-scans.php">Obstetric ultrasounds</a></li>
@@ -375,7 +375,7 @@
 
 <h2 dir="ltr">Why Take Advantage Of Private Ultrasounds?</h2>
 
-<p dir="ltr">Private ultrasounds have seen a surge in demand in recent years due to excessive NHS waiting times.&nbsp; Although the NHS continues to provide a vital lifesaving service, many benefits come hand-in-hand with our private ultrasounds. For example, when you book a private ultrasound with CGPL, you will find that waiting times are non-existent.&nbsp; Instead, you will be able to arrange an ultrasound within a relatively short period.</p>
+<p dir="ltr">Private ultrasounds have seen a surge in demand in recent years due to excessive NHS waiting times.&nbsp; Although the NHS continues to provide a vital lifesaving service, many benefits come hand-in-hand with our private ultrasounds. For example, when you book a private ultrasound with CPGL, you will find that waiting times are non-existent.&nbsp; Instead, you will be able to arrange an ultrasound within a relatively short period.</p>
 
 <p dir="ltr">&nbsp;In addition, our private ultrasounds are conducted by medical professionals such as <a href="consultants.php">consultants</a>.&nbsp; This means that irrespective of the ultrasound you require, you will receive a quick diagnosis.&nbsp; Not only does this alleviate any worries that often arise in the hours and days following an ultrasound, but it guarantees that you can take appropriate actions, such as securing treatment, almost immediately.&nbsp;&nbsp;&nbsp;</p>
 
@@ -383,7 +383,7 @@
 
 <h2 dir="ltr">Who Are Our Private Ultrasounds For?</h2>
 
-<p dir="ltr">Here at CGPL, our private ultrasounds are available for individuals from all walks of life to take advantage of. Whether you have recently come to experience worrying symptoms and do not want to wait for an NHS appointment to become available, would prefer to pay for a same-day healthcare service, or have private healthcare insurance, we welcome you to book a private ultrasound with us today.</p>
+<p dir="ltr">Here at CPGL, our private ultrasounds are available for individuals from all walks of life to take advantage of. Whether you have recently come to experience worrying symptoms and do not want to wait for an NHS appointment to become available, would prefer to pay for a same-day healthcare service, or have private healthcare insurance, we welcome you to book a private ultrasound with us today.</p>
 
 <p dir="ltr">&nbsp;</p>
 
@@ -551,7 +551,7 @@
                   <div class="col-sm-12 col-lg-6 mb-4">
                     <div class="text-center">
                       <h5 class="h6 text-purple">General Ultrasound</h5>
-                      <p>CGPL offer a range of ultrasound services</p>
+                      <p>CPGL offer a range of ultrasound services</p>
                       <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="ultrasound/general-ultrasound.php">Read More</a>
                     </div>
                   </div>
@@ -569,7 +569,7 @@
                   <div class="col-sm-12 col-lg-6 mb-4">
                     <div class="text-center">
                       <h5 class="h6 text-purple">Musculoskeletal (MSK) Ultrasound Scans</h5>
-                      <p>See an MSK specialist at CGPL</p>
+                      <p>See an MSK specialist at CPGL</p>
                       <a style="display: inline-block; border: 1px solid #0a98d5; color: #0a98d5; background-color: #ffffff;padding: 6px 8px;" class="small" href="ultrasound/musculoskeletal-msk-scans.php">Read More</a>
                     </div>
                   </div>
@@ -586,7 +586,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -611,7 +611,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="about-cgpl.php">Read more...</a></p>
                 </div>
@@ -675,7 +675,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

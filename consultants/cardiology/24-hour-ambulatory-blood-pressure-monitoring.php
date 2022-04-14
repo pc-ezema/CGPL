@@ -39,7 +39,7 @@
     
     <meta property="og:url" content="https://www.comfortcaregroups.co.uk/consultants/cardiology/24-hour-ambulatory-blood-pressure-monitoring"/>
     <meta property="og:title" content="24 Hour Ambulatory Blood Pressure Monitoring"/>
-    <meta property="og:site_name" content="CGPL | Confortcare Group of Partnership Limited"/>
+    <meta property="og:site_name" content="CPGL | Comfortcare Partnership Group Limited"/>
     <meta property="og:type" content="article"/>
 
     <link href="24-hour-ambulatory-blood-pressure-monitoring.php" rel="canonical">
@@ -70,7 +70,7 @@
           
     <!-- Header Top -->
     <div class="header-top bg-mums-purple text-center">
-        <p class="text-white">Welcome To Comfortcare Group of Partnership Limited</p>
+        <p class="header-text text-white">Welcome To Comfortcare Partnership Group Limited</p>
     </div>           
     <!-- End Header Top --> 
     
@@ -78,7 +78,7 @@
       <!-- Menu For Mobile Device -->
       <div class="mobile-nav">
         <a href="../../index.php" class="logo">
-          <img src="../../images/logo/CGPL-logo-inverted.png" alt="CGPL Logo">
+          <img src="../../images/logo/CPGL-logo-inverted.png" alt="CPGL Logo">
         </a>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="">
               <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="../../index.php">
-                      <img src="../../images/logo/CGPL-logo.jpg" alt="CGPL Logo">
+                      <img src="../../images/logo/CPGL-logo.jpg" alt="CPGL Logo">
                   </a>
                   <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav">
@@ -348,12 +348,12 @@
                         
                         
                         
-                        <h3 class='mt-4'>CGPL Consultant Cardiologist – Dr Jerome Ment – offers 24 Hour Ambulatory BP Monitoring.</h3>
+                        <h3 class='mt-4'>CPGL Consultant Cardiologist – Dr Jerome Ment – offers 24 Hour Ambulatory BP Monitoring.</h3>
                         <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin: 0cm;"><span style="color:black">Ambulatory blood pressure monitoring is the gold standard to diagnose high blood pressure and helps differentiate it from &quot;white coat&quot; hypertension. One off blood pressure readings provide only a snapshot of blood pressure on a particular day and can be misleading but only ambulatory blood pressure monitoring can provide a comprehensive measurement to identify those individuals most at risk of high blood pressure in order to potentially reduce the risk of future strokes and heart disease through targeted therapy.<o:p></o:p></span></p>
 
 <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
 
-<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black">You will need a consultation with Dr Ment at CGPL &ndash; who will examine you, take a history, fit the monitor and remotely review your readings. The cost of a consultation with Dr Ment is &pound;230.00. If a 24 Hour Ambulatory Blood Pressure appliance is fitted the cost of fit/readings review is &pound;380.00<o:p></o:p></span></p>
+<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black">You will need a consultation with Dr Ment at CPGL &ndash; who will examine you, take a history, fit the monitor and remotely review your readings. The cost of a consultation with Dr Ment is &pound;230.00. If a 24 Hour Ambulatory Blood Pressure appliance is fitted the cost of fit/readings review is &pound;380.00<o:p></o:p></span></p>
 
 <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
 
@@ -365,11 +365,11 @@
 
 <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
 
-<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black">There are no waiting times at CGPL to see Dr Ment.<o:p></o:p></span></p>
+<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black">There are no waiting times at CPGL to see Dr Ment.<o:p></o:p></span></p>
 
 <p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
 
-<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><a href="../cardiology.php">Other cardiac tests at CGPL</a>.<o:p></o:p></span></p>
+<p class="ydpe160d2adyiv0623674937msolistparagraph" style="margin:0cm"><span style="color:black"><a href="../cardiology.php">Other cardiac tests at CPGL</a>.<o:p></o:p></span></p>
                     </div>
 
                 </div>
@@ -472,7 +472,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12 col-lg-3">
-              <img src="../../images/logo/CGPL-logo-inverted.png" style="width: 75%" alt="CGPL Logo" />
+              <img src="../../images/logo/CPGL-logo-inverted.png" style="width: 100%" alt="CPGL Logo" />
               
               <div class="footer-item">
                 <div class="footer-contact">                    
@@ -497,7 +497,7 @@ S2 4SW
             <div class="col-sm-12 col-lg-3">
               <div class="footer-item">
                 <div class="footer-quick">
-                  <h3>About CGPL</h3>
+                  <h3>About CPGL</h3>
                   <p class="text-white font-w700">Trusted excellence in private healthcare</p>
                   <p><a class="text-white" href="../../about-cgpl.php">Read more...</a></p>
                 </div>
@@ -561,7 +561,7 @@ S2 4SW
 <div class="copyright-area"> 
   <div class="row">              
     <div class="col-sm-6">
-      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Confortcare Group of Partnership Limited | Company number: 13048887</p>
+      <p class="text-white text-md-left text-center small pt-2 pb-1">Copyright &copy; 2022 Comfortcare Partnership Group Limited | Company number: 13048887</p>
     </div>
     <div class="col-sm-6 text-md-right text-center">
         <p class="text-white small pt-2 pb-1">

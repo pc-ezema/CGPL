@@ -453,7 +453,7 @@
   }
   /*-- Footer --*/
   footer {
-    padding-top: 170px;
+    /* padding-top: 170px; */
   }
   .footer-item .footer-contact h3 {
     font-size: 18px;
@@ -461,8 +461,8 @@
   }
   .footer-item .footer-contact ul li {
     font-size: 14px;
-    padding-left: 55px;
-    margin-bottom: 40px;
+    /* padding-left: 55px;
+    margin-bottom: 40px; */
   }
   .footer-item .footer-contact ul li:last-child i {
     top: -1px;
